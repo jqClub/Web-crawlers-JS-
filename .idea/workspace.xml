@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c8ddcc3-a586-44b0-a5d6-1fa307896101" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/12.十二怒汉.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/13.泰坦尼克号.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/14.搏击俱乐部.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/15.美国往事.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/16.教父2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/17.海洋.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/18.七武士.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/19.阿凡达.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/20.海上钢琴师.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/21.三傻大闹宝莱坞.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/22.蝙蝠侠：黑暗骑士崛起.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/23.星际穿越.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/24.少年派的奇幻漂流.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/25.玛丽和马克思.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/26.忠犬八公的故事.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/27.迈克尔·杰克逊：就是这样.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/28.暴力云与送子鹳.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/29.完美的世界.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/30.蝙蝠侠：黑暗骑士.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/31.魔戒首部曲：魔戒现身.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/32.放牛班的春天.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/33.闻香识女人.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/40.音乐之声.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/41.一一.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/42.飞屋环游记.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/43.天使爱美丽.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/44.魔戒二部曲：双塔奇兵.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/45.低俗小说.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/46.玩具总动员3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/47.怦然心动.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/48.情书.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/49.疯狂动物城.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/50.钢琴家.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/51.两杆大烟枪.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/52.死亡诗社.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/53.活着.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/54.幽灵公主.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/55.杀人回忆.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/56.无法触碰.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/57.摔跤吧！爸爸.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/58.梦之安魂曲.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/59.被嫌弃的松子的一生.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/60.一次别离.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/61.与狼共舞.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/64.卡萨布兰卡.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/98.饮食男女.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node爬虫/covers/99.爆裂鼓手.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/10.天堂电影院.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/10.天堂电影院.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/11.乱世佳人.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/11.乱世佳人.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/2.盗梦空间.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/2.盗梦空间.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/35.龙猫.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/35.龙猫.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/37.天空之城.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/37.天空之城.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/38.飞越疯人院.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/38.飞越疯人院.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/4.辛德勒的名单.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/4.辛德勒的名单.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/5.教父.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/5.教父.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/63.罗生门.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/63.罗生门.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/65.惊魂记.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/65.惊魂记.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/66.虎口脱险.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/66.虎口脱险.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/67.美丽人生.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/67.美丽人生.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/69.当幸福来敲门.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/69.当幸福来敲门.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/7.机器人总动员.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/7.机器人总动员.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/70.剪刀手爱德华.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/70.剪刀手爱德华.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/72.七宗罪.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/72.七宗罪.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/73.勇敢的心.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/73.勇敢的心.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/74.无间道.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/74.无间道.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/75.楚门的世界.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/75.楚门的世界.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/79.大鱼.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/79.大鱼.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/80.沉默的羔羊.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/80.沉默的羔羊.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/82.美丽心灵.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/82.美丽心灵.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/83.被解救的姜戈.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/83.被解救的姜戈.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/85.燃情岁月.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/85.燃情岁月.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/86.无敌破坏王.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/86.无敌破坏王.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/87.阳光灿烂的日子.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/87.阳光灿烂的日子.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/88.上帝之城.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/88.上帝之城.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/91.春光乍泄.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/91.春光乍泄.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/92.绿里奇迹.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/92.绿里奇迹.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/94.出租车司机.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/94.出租车司机.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/95.爱在日落黄昏时.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/95.爱在日落黄昏时.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/covers/97.风之谷.jpg" afterPath="$PROJECT_DIR$/node爬虫/covers/97.风之谷.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/cached_html/-1.html" afterPath="$PROJECT_DIR$/node爬虫/cached_html/-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/cached_html/index-1-1.html" afterPath="$PROJECT_DIR$/node爬虫/cached_html/index-1-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/cached_html/index-2-1.html" afterPath="$PROJECT_DIR$/node爬虫/cached_html/index-2-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/cached_html/index-3-1.html" afterPath="$PROJECT_DIR$/node爬虫/cached_html/index-3-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/cached_html/index-4-1.html" afterPath="$PROJECT_DIR$/node爬虫/cached_html/index-4-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/cached_html/index-5-1.html" afterPath="$PROJECT_DIR$/node爬虫/cached_html/index-5-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/cached_html/index-6-1.html" afterPath="$PROJECT_DIR$/node爬虫/cached_html/index-6-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/cached_html/index-7-1.html" afterPath="$PROJECT_DIR$/node爬虫/cached_html/index-7-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/cached_html/index-8-1.html" afterPath="$PROJECT_DIR$/node爬虫/cached_html/index-8-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/cached_html/index-9-1.html" afterPath="$PROJECT_DIR$/node爬虫/cached_html/index-9-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node爬虫/shiguang.txt" afterPath="$PROJECT_DIR$/node爬虫/shiguang.txt" />
+    </list>
+    <ignored path="Web-crawlers-JS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Web-crawlers-JS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="shiguang.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node爬接口请求/shiguang.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="152" column="47" selection-start-line="152" selection-start-column="47" selection-end-line="152" selection-end-column="47" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/node爬接口请求/shiguang.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node爬接口请求/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node爬虫/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="185" />
+    <option name="y" value="84" />
+    <option name="width" value="1533" />
+    <option name="height" value="975" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="D:/Ruanjian/node/node" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Ruanjian\node\node.exe" />
+  </component>
+  <component name="RunManager" selected="Node.js.shiguang.js">
+    <configuration default="false" name="shiguang.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="shiguang.js" working-dir="$PROJECT_DIR$/node爬接口请求">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.shiguang.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.shiguang.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c8ddcc3-a586-44b0-a5d6-1fa307896101" name="Default" comment="" />
+      <created>1546565019039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546565019039</updated>
+      <workItem from="1546565020228" duration="1343000" />
+      <workItem from="1546566499375" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1942000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="185" y="84" width="1533" height="975" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24983521" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node爬接口请求/shiguang.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2869">
+          <caret line="152" column="47" selection-start-line="152" selection-start-column="47" selection-end-line="152" selection-end-column="47" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node爬接口请求/node_modules/sync-request/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="86" column="10" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node爬接口请求/shiguang.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="152" column="47" selection-start-line="152" selection-start-column="47" selection-end-line="152" selection-end-column="47" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
