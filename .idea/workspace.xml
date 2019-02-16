@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7a2f469-9281-47d0-895b-aef037ca9944" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/boom/images/boom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/images/hawk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hoek/images/hoek.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Web-crawlers-JS-.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/.idea/node爬虫.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/.yarn-integrity" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/.tonic_example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/dist/ajv.bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/dist/ajv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/dist/ajv.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/dist/nodent.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/dist/regenerator.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/ajv.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/ajv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/compile/_rules.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/compile/equal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/compile/formats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/compile/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/compile/resolve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/compile/rules.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/compile/schema_obj.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/compile/ucs2length.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/compile/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/compile/validation_error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/_limit.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/_limitItems.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/_limitLength.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/_limitProperties.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/allOf.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/anyOf.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/coerce.def" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/custom.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/defaults.def" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/definitions.def" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/dependencies.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/enum.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/errors.def" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/format.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/items.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/missing.def" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/multipleOf.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/not.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/oneOf.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/pattern.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/properties.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/ref.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/required.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/uniqueItems.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/v5/_formatLimit.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/v5/constant.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/v5/patternRequired.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/v5/switch.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dot/validate.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/_formatLimit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/_limit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/_limitItems.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/_limitLength.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/_limitProperties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/allOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/anyOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/constant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/dependencies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/enum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/items.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/multipleOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/not.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/oneOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/pattern.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/patternRequired.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/properties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/ref.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/required.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/switch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/uniqueItems.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/dotjs/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/keyword.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/refs/json-schema-draft-04.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/refs/json-schema-v5.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/lib/v5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/scripts/.eslintrc.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/scripts/bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/scripts/compile-dots.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/scripts/info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/scripts/prepare-tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ajv/scripts/travis-gh-pages" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asap/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asap/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asap/asap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asap/browser-asap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asap/browser-raw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asap/raw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asn1/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asn1/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asn1/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asn1/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asn1/lib/ber/errors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asn1/lib/ber/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asn1/lib/ber/reader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asn1/lib/ber/types.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asn1/lib/ber/writer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asn1/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asn1/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asn1/tst/ber/reader.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asn1/tst/ber/writer.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/assert-plus/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/assert-plus/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/assert-plus/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/assert-plus/assert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/assert-plus/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/bench.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/lib/abort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/lib/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/lib/defer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/lib/iterate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/lib/readable_asynckit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/lib/readable_parallel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/lib/readable_serial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/lib/readable_serial_ordered.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/lib/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/lib/streamify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/lib/terminator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/parallel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/serial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/serialOrdered.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/asynckit/stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/aws-sign2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/aws-sign2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/aws-sign2/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/aws-sign2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/aws4/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/aws4/.tern-port" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/aws4/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/aws4/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/aws4/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/aws4/aws4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/aws4/lru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/aws4/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/bcrypt-pbkdf/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/bcrypt-pbkdf/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/bcrypt-pbkdf/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/boolbase/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/boolbase/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/boolbase/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/boom/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/boom/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/boom/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/boom/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/boom/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/boom/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/boom/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/boom/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/buffer-shims/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/buffer-shims/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/buffer-shims/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/buffer-shims/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/caseless/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/caseless/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/caseless/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/caseless/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/caseless/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cheerio/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cheerio/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cheerio/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cheerio/lib/api/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cheerio/lib/api/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cheerio/lib/api/forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cheerio/lib/api/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cheerio/lib/api/traversing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cheerio/lib/cheerio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cheerio/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cheerio/lib/static.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cheerio/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cheerio/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/co/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/co/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/co/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/co/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/co/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/combined-stream/License" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/combined-stream/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/combined-stream/lib/combined_stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/combined-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/concat-stream/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/concat-stream/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/concat-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/concat-stream/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/core-util-is/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/core-util-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/core-util-is/float.patch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/core-util-is/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/core-util-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/core-util-is/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cryptiles/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cryptiles/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cryptiles/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cryptiles/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cryptiles/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cryptiles/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/cryptiles/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/css-select/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/css-select/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/css-select/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/css-select/lib/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/css-select/lib/compile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/css-select/lib/general.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/css-select/lib/procedure.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/css-select/lib/pseudos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/css-select/lib/sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/css-select/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/css-what/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/css-what/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/css-what/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/css-what/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/dashdash/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/dashdash/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/dashdash/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/dashdash/etc/dashdash.bash_completion.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/dashdash/lib/dashdash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/dashdash/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/delayed-stream/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/delayed-stream/License" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/delayed-stream/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/delayed-stream/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/delayed-stream/lib/delayed_stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/delayed-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/dom-serializer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/dom-serializer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/dom-serializer/node_modules/domelementtype/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/dom-serializer/node_modules/domelementtype/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/dom-serializer/node_modules/domelementtype/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/dom-serializer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domelementtype/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domelementtype/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domelementtype/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domelementtype/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/lib/element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/lib/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/01-basic.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/02-single_tag_1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/03-single_tag_2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/04-unescaped_in_script.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/05-tags_in_comment.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/06-comment_in_script.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/07-unescaped_in_style.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/08-extra_spaces_in_tag.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/09-unquoted_attrib.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/10-singular_attribute.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/11-text_outside_tags.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/12-text_only.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/13-comment_in_text.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/14-comment_in_text_in_script.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/15-non-verbose.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/16-normalize_whitespace.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/17-xml_namespace.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/18-enforce_empty_tags.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/19-ignore_empty_tags.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/20-template_script_tags.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/21-conditional_comments.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/22-lowercase_tags.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/23-dom-lvl1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/cases/24-with-start-indices.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domhandler/test/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domutils/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domutils/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domutils/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domutils/lib/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domutils/lib/legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domutils/lib/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domutils/lib/querying.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domutils/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domutils/lib/traversal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domutils/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domutils/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domutils/test/fixture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domutils/test/tests/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domutils/test/tests/legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domutils/test/tests/traversal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/domutils/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ecc-jsbn/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ecc-jsbn/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ecc-jsbn/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ecc-jsbn/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ecc-jsbn/lib/LICENSE-jsbn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ecc-jsbn/lib/ec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ecc-jsbn/lib/sec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ecc-jsbn/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/ecc-jsbn/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/entities/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/entities/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/entities/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/entities/lib/decode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/entities/lib/decode_codepoint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/entities/lib/encode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/entities/maps/decode.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/entities/maps/entities.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/entities/maps/legacy.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/entities/maps/xml.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/entities/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/entities/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/entities/test/mocha.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/entities/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extend/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extend/.jscs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extend/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extend/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extend/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extend/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extend/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extend/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extend/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extend/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extsprintf/.gitmodules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extsprintf/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extsprintf/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extsprintf/Makefile.deps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extsprintf/Makefile.targ" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extsprintf/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extsprintf/examples/simple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extsprintf/jsl.node.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extsprintf/lib/extsprintf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/extsprintf/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/forever-agent/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/forever-agent/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/forever-agent/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/forever-agent/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/form-data/License" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/form-data/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/form-data/lib/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/form-data/lib/form_data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/form-data/lib/populate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/form-data/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/get-port/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/get-port/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/get-port/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/get-port/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/getpass/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/getpass/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/getpass/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/getpass/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/getpass/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/getpass/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/afterRequest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/beforeRequest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/browser.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/cache.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/content.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/cookie.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/creator.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/entry.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/har.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/header.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/log.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/pageTimings.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/postData.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/query.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/request.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/response.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/lib/timings.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-schema/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/lib/browser/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/lib/browser/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/lib/browser/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/lib/node4/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/lib/node4/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/lib/node4/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/lib/node6/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/lib/node6/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/lib/node6/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/lib/node7/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/lib/node7/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/lib/node7/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/src/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/src/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/har-validator/src/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/dist/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/example/usage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/lib/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/lib/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/lib/crypto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/lib/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/test/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/test/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/test/crypto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/test/readme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/test/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/test/uri.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hawk/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hoek/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hoek/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hoek/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hoek/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hoek/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hoek/lib/escape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hoek/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hoek/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hoek/test/escaper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hoek/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hoek/test/modules/ignore.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hoek/test/modules/test1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hoek/test/modules/test2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/hoek/test/modules/test3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/htmlparser2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/htmlparser2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/htmlparser2/lib/CollectingHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/htmlparser2/lib/FeedHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/htmlparser2/lib/Parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/htmlparser2/lib/ProxyHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/htmlparser2/lib/Stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/htmlparser2/lib/Tokenizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/htmlparser2/lib/WritableStream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/htmlparser2/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/htmlparser2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-basic/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-basic/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-basic/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-basic/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-basic/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-basic/lib/cache-utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-basic/lib/file-cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-basic/lib/memory-cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-basic/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-basic/test/gzip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-basic/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-response-object/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-response-object/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-response-object/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-response-object/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-response-object/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-response-object/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-response-object/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/.dir-locals.el" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/http_signing.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/lib/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/lib/signer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/lib/verify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/node_modules/.bin/sshpk-conv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/node_modules/.bin/sshpk-conv.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/node_modules/.bin/sshpk-sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/node_modules/.bin/sshpk-sign.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/node_modules/.bin/sshpk-verify" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/node_modules/.bin/sshpk-verify.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/node_modules/assert-plus/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/node_modules/assert-plus/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/node_modules/assert-plus/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/node_modules/assert-plus/assert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/node_modules/assert-plus/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/http-signature/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/is-typedarray/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/is-typedarray/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/is-typedarray/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/is-typedarray/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/is-typedarray/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/isarray/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/isarray/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/isarray/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/isarray/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/isarray/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/isarray/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/isarray/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/isarray/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/isstream/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/isstream/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/isstream/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/isstream/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/isstream/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/isstream/isstream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/isstream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/isstream/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jodid25519/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jodid25519/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jodid25519/AUTHORS.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jodid25519/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jodid25519/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jodid25519/almond.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jodid25519/almond.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jodid25519/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jodid25519/jsdoc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jodid25519/lib/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jodid25519/lib/curve255.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jodid25519/lib/dh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jodid25519/lib/eddsa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jodid25519/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jodid25519/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsbn/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsbn/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsbn/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsbn/example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsbn/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsbn/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsbn/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-00/hyper-schema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-00/json-ref" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-00/links" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-00/schema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-01/hyper-schema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-01/json-ref" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-01/links" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-01/schema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-02/hyper-schema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-02/json-ref" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-02/links" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-02/schema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-03/examples/address" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-03/examples/calendar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-03/examples/card" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-03/examples/geo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-03/examples/interfaces" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-03/hyper-schema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-03/json-ref" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-03/links" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-03/schema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-04/hyper-schema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-04/links" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-04/schema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-zyp-json-schema-03.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/draft-zyp-json-schema-04.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/lib/links.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/lib/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-schema/test/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stable-stringify/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stable-stringify/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stable-stringify/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stable-stringify/example/key_cmp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stable-stringify/example/nested.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stable-stringify/example/str.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stable-stringify/example/value_cmp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stable-stringify/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stable-stringify/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stable-stringify/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stable-stringify/test/cmp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stable-stringify/test/nested.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stable-stringify/test/replacer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stable-stringify/test/space.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stable-stringify/test/str.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stable-stringify/test/to-json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stringify-safe/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stringify-safe/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stringify-safe/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stringify-safe/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stringify-safe/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stringify-safe/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stringify-safe/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stringify-safe/test/mocha.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/json-stringify-safe/test/stringify_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsonify/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsonify/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsonify/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsonify/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsonify/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsonify/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsonify/test/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsprim/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsprim/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsprim/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsprim/lib/jsprim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/jsprim/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.assignin/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.assignin/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.assignin/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.assignin/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.bind/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.bind/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.bind/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.bind/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.defaults/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.defaults/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.defaults/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.defaults/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.filter/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.filter/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.filter/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.filter/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.flatten/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.flatten/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.flatten/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.flatten/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.foreach/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.foreach/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.foreach/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.foreach/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.map/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.map/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.map/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.map/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.merge/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.merge/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.merge/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.merge/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.pick/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.pick/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.pick/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.pick/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.reduce/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.reduce/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.reduce/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.reduce/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.reject/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.reject/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.reject/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.reject/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.some/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.some/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.some/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/lodash.some/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/mime-db/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/mime-db/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/mime-db/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/mime-db/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/mime-db/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/mime-db/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/mime-types/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/mime-types/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/nth-check/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/nth-check/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/nth-check/compile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/nth-check/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/nth-check/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/nth-check/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/nth-check/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/oauth-sign/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/oauth-sign/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/oauth-sign/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/oauth-sign/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/performance-now/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/performance-now/.tm_properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/performance-now/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/performance-now/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/performance-now/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/performance-now/lib/performance-now.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/performance-now/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/performance-now/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/performance-now/src/performance-now.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/performance-now/test/mocha.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/performance-now/test/performance-now.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/pinkie-promise/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/pinkie-promise/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/pinkie-promise/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/pinkie-promise/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/pinkie/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/pinkie/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/pinkie/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/pinkie/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/process-nextick-args/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/process-nextick-args/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/process-nextick-args/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/process-nextick-args/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/process-nextick-args/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/process-nextick-args/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/domains/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/domains/done.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/domains/es6-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/domains/finally.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/domains/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/domains/node-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/domains/rejection-tracking.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/domains/synchronous.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/lib/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/lib/done.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/lib/es6-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/lib/finally.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/lib/node-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/lib/rejection-tracking.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/lib/synchronous.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/polyfill-done.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/polyfill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/setimmediate/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/setimmediate/done.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/setimmediate/es6-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/setimmediate/finally.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/setimmediate/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/setimmediate/node-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/setimmediate/rejection-tracking.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/setimmediate/synchronous.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/src/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/src/done.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/src/es6-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/src/finally.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/src/node-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/src/rejection-tracking.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/promise/src/synchronous.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/punycode/LICENSE-MIT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/punycode/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/punycode/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/punycode/punycode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/.jscs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/dist/qs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/lib/formats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/test/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/test/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/qs/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/GOVERNANCE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/duplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/lib/_stream_duplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/lib/_stream_passthrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/lib/_stream_readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/lib/_stream_transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/lib/_stream_writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/lib/internal/streams/BufferList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/passthrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/readable-stream/writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/lib/auth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/lib/cookies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/lib/getProxyFromURI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/lib/har.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/lib/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/lib/multipart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/lib/oauth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/lib/querystring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/lib/redirect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/lib/tunnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/node_modules/.bin/uuid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/node_modules/.bin/uuid.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/node_modules/caseless/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/node_modules/caseless/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/node_modules/caseless/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/node_modules/caseless/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/node_modules/caseless/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/request/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/safe-buffer/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/safe-buffer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/safe-buffer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/safe-buffer/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/safe-buffer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/safe-buffer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/safe-buffer/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sntp/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sntp/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sntp/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sntp/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sntp/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sntp/examples/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sntp/examples/time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sntp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sntp/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sntp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sntp/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/bin/sshpk-conv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/bin/sshpk-sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/bin/sshpk-verify" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/algs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/certificate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/dhe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/ed-compat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/errors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/fingerprint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/formats/auto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/formats/openssh-cert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/formats/pem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/formats/pkcs1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/formats/pkcs8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/formats/rfc4253.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/formats/ssh-private.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/formats/ssh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/formats/x509-pem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/formats/x509.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/identity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/key.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/private-key.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/signature.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/ssh-buffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/man/man1/sshpk-conv.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/man/man1/sshpk-sign.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/man/man1/sshpk-verify.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sshpk/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/string_decoder/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/string_decoder/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/string_decoder/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/string_decoder/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/string_decoder/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/stringstream/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/stringstream/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/stringstream/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/stringstream/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/stringstream/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/stringstream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/stringstream/stringstream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/lib/find-port.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/lib/json-buffer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/lib/json-buffer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/lib/json-buffer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/lib/legacy-worker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/lib/nc-server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/test/benchmark-server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/test/benchmark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/test/empty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/test/external-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/test/fake-server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/sync-request/test/internal-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/dist/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/dist/request.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/dist/request.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/dist/request.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/lib/handle-qs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/test/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/test/get-mock-response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/then-request/test/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tough-cookie/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tough-cookie/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tough-cookie/lib/cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tough-cookie/lib/memstore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tough-cookie/lib/pathMatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tough-cookie/lib/permuteDomain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tough-cookie/lib/pubsuffix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tough-cookie/lib/store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tough-cookie/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tunnel-agent/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tunnel-agent/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tunnel-agent/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tunnel-agent/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tweetnacl/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tweetnacl/AUTHORS.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tweetnacl/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tweetnacl/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tweetnacl/PULL_REQUEST_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tweetnacl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tweetnacl/nacl-fast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tweetnacl/nacl-fast.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tweetnacl/nacl.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tweetnacl/nacl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tweetnacl/nacl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/tweetnacl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/typedarray/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/typedarray/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/typedarray/example/tarray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/typedarray/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/typedarray/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/typedarray/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/typedarray/test/server/undef_globals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/typedarray/test/tarray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/util-deprecate/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/util-deprecate/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/util-deprecate/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/util-deprecate/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/util-deprecate/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/util-deprecate/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/uuid/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/uuid/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/uuid/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/uuid/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/uuid/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/uuid/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/uuid/bin/uuid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/uuid/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/uuid/lib/bytesToUuid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/uuid/lib/rng-browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/uuid/lib/rng.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/uuid/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/uuid/test/mocha.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/uuid/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/uuid/v1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/uuid/v4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/.gitmodules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/Makefile.targ" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/examples/levels-verror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/examples/levels-werror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/examples/varargs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/examples/verror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/examples/werror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/jsl.node.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/lib/verror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/tests/tst.inherit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/tests/tst.verror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/node_modules/verror/tests/tst.werror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/shiguang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/yarn.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodePaTiKu/爬虫说明.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node爬虫/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node爬虫/.idea/node爬虫.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node爬虫/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="shiguang.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nodePaTiKu/shiguang.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="爬虫说明.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nodePaTiKu/爬虫说明.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="14" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>readJson</find>
+      <find>cheerio</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/nodePaTiKu/shiguang.js" />
+        <option value="$PROJECT_DIR$/nodePaTiKu/爬虫说明.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/nodePaTiKu/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node爬虫/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web-crawlers-JS-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web-crawlers-JS-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web-crawlers-JS-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web-crawlers-JS-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodePaTiKu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Ruan jian/Node/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Ruan jian\Node\node.exe" />
+  </component>
+  <component name="RunManager" selected="Node.js.shiguang.js">
+    <configuration default="false" name="shiguang.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="shiguang.js" working-dir="$PROJECT_DIR$/nodePaTiKu">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.shiguang.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.shiguang.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7a2f469-9281-47d0-895b-aef037ca9944" name="Default" comment="" />
+      <created>1550279306095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550279306095</updated>
+      <workItem from="1550279307657" duration="1518000" />
+      <workItem from="1550316839458" duration="2833000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4351000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23695345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/nodePaTiKu/shiguang.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodePaTiKu/爬虫说明.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodePaTiKu/shiguang.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
