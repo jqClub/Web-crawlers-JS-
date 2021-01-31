@@ -1,0 +1,821 @@
+[
+  {
+    "id": "1",
+    "name": "Q1",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/04/O6GNnOxJpzpVX1G6Nf2pU9HIHubPnj.png",
+      "https://pic.553km.cn/images/43/2018/04/Q8akq2h6ZZQ3f8608CQhLkLh6LKqF6.png",
+      "https://pic.553km.cn/images/43/2018/04/eIiHOUvc2IwbqR2ohcnshbaAiS5Zvb.png"
+    ],
+    "resultpic": [
+      "https://pic.553km.cn/images/43/2018/04/pGTlAmsM5sgp1B9MwgwJstbJB15FY1.png"
+    ],
+    "answer": "是指离题目中的“我们”哦。",
+    "explain": "恭喜你，答对啦！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "2",
+    "name": "Q2",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/04/NVFL00LVVGfnIm3yQQvfv26rYGm6zv.png",
+      "https://pic.553km.cn/images/43/2018/04/CrTAmCys4dyY200Lc404SmDMNTcEMd.png"
+    ],
+    "resultpic": [
+      "https://pic.553km.cn/images/43/2018/04/RTR6Iz60aP6rlmr96E64GpprpM9pIm.png"
+    ],
+    "answer": "想象一下你穿短裤时的情景。",
+    "explain": "恭喜你，答对啦！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "3",
+    "name": "Q3",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/04/k44wX4bOq4Q02J60j66WW2J24hJjKQ.png"
+    ],
+    "resultpic": [
+      "https://pic.553km.cn/images/43/2018/04/UtzTTJZTTsLl9UzZ4geTUCyy075uHy.png"
+    ],
+    "answer": "你有两只手，可以同时救两个人。",
+    "explain": "两个人都救到啦，给你两个爱的抱抱！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "4",
+    "name": "Q4",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/04/gM70Q0Ykz8QBIVQBu2qb2jmBzzkIlv.png",
+      "https://pic.553km.cn/images/43/2018/04/iolvovMEKE1V101aL07zoZxm1dUz6b.png"
+    ],
+    "resultpic": [
+      "https://pic.553km.cn/images/43/2018/04/CMTOeJj5QssoHToEXRmTHgF0rHO5rJ.png"
+    ],
+    "answer": "把猪鼻子堵住试试~",
+    "explain": "哈哈，你差点把这只猪闷死。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "5",
+    "name": "Q5",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/04/JlgrZJRJLS0JPjxgKXLQkPSTQZJysr.png",
+      "https://pic.553km.cn/images/43/2018/04/GmP9U5n3n15z1g95PtMMIPg84M17wm.png",
+      "https://pic.553km.cn/images/43/2018/04/I7QfYvlG383l7D38GqQ3fQ837LFN77.png"
+    ],
+    "resultpic": "",
+    "answer": "你所看到的都是水果吗？",
+    "explain": "胡萝卜是一种蔬菜哦！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "6",
+    "name": "Q6",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/04/SYiIg1H5IIClnAc5YN77lpaHHNL7m7.png"
+    ],
+    "resultpic": "",
+    "answer": "如果你知道两只兔子、两只猫、两只狗总共的重量，那你应该知道一只兔",
+    "explain": "（7+11+10）÷2=14",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "7",
+    "name": "Q7",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/04/h5p58SphjH7sr7558ILvvhI55AdR58.png"
+    ],
+    "resultpic": "",
+    "answer": "你绝对不会是第二名。",
+    "explain": "因为你超过了第三名， 所以当然是第三名啦。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "8",
+    "name": "Q8",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/04/fn5n77gxN5mJOGGXtJTQT5ggqn5n4t.png"
+    ],
+    "resultpic": "",
+    "answer": "如果1等于5，那么5等于几？",
+    "explain": "很简单是吧？",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "9",
+    "name": "Q9",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/04/s0T0sK00bHbSnti94ESTi90Bm0t9it.png"
+    ],
+    "resultpic": [
+      "https://pic.553km.cn/images/43/2018/04/Bh3xAAZ3la0m7n1bNlH7n23zmbb1BJ.png"
+    ],
+    "answer": "想象一下你穿衣服时的情景。",
+    "explain": "以后这类题目都会做了吧？",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "10",
+    "name": "Q10",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/04/gWa3LlEX33QYkkOassLyGcoxklyK3z.png"
+    ],
+    "resultpic": [
+      "https://pic.553km.cn/images/43/2018/04/DZ3xhFY8hY5ddLDLUy1HLhHd5eyEPb.png"
+    ],
+    "answer": "我只能告诉你不在盒子A里。",
+    "explain": "被你发现啦，厉害！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "11",
+    "name": "Q11",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/b48Iigi78Pp7Ig447OiF8787yf8Ipi.png"
+    ],
+    "resultpic": "",
+    "answer": "把手机屏幕倒过来看看。",
+    "explain": "这是道小学题哦，简单吧？",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "12",
+    "name": "Q12",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/ETc32J5NaaNJEjTRaAaAZQ5QAJ5t24.png"
+    ],
+    "resultpic": "",
+    "answer": "(6-2)*2=8；(7-4)*2=6；(3-1)*2=4",
+    "explain": "(9-8)*3=3",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "13",
+    "name": "Q13",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/EZ6C6A6bWfbo5ORAa8UVN4mbHcb8Wo.png"
+    ],
+    "resultpic": "",
+    "answer": "别想啦，就是你看到的那个。",
+    "explain": "是不是太简单了？哈哈，你会懂得。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "14",
+    "name": "Q14",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/NO7Qy7iv7GV72ZTl37E77OOY752igY.png"
+    ],
+    "resultpic": "",
+    "answer": "据说，公蚊子不叮人哦。",
+    "explain": "只有母蚊子才叮人。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "15",
+    "name": "Q15",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/qQH1VPh778qKQH37l6jAqmhtLTklhH.png"
+    ],
+    "resultpic": "",
+    "answer": "就在题目里啊！",
+    "explain": "套路看明白了吧？",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "16",
+    "name": "Q16",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/i2zIzcczkUrRF92i8fskYdFx02c62c.png"
+    ],
+    "resultpic": "",
+    "answer": "注意，后轮被支起来了。",
+    "explain": "00后的小朋友，你们见过这种自行车么？",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "17",
+    "name": "Q17",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/ba7SB1z44o7c743WAL1F713Z47WMLa.png"
+    ],
+    "resultpic": "",
+    "answer": "之前的关卡一定见过这个套餐吧。",
+    "explain": "熟悉的套餐，熟悉的价格。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "18",
+    "name": "Q18",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/YXZxMciM8p8M8CPGaYy8Ak8iA2pCQQ.png"
+    ],
+    "resultpic": "",
+    "answer": "12:00应显示为下午。",
+    "explain": "00:00am和12:00pm傻傻分不清楚。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "19",
+    "name": "Q19",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/AynvzyMyIC8mKpiYNpEPmyKXE8x88z.png"
+    ],
+    "resultpic": "",
+    "answer": "这是一道科学题。",
+    "explain": "虽然你晚上看不到太阳，但是她还是最亮的。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "20",
+    "name": "Q20",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/zrtIGZZJvTz0YHygyLVhie9pvvPJLV.png"
+    ],
+    "resultpic": "",
+    "answer": "想一想镜头成像原则。",
+    "explain": "距离越远，成像越小。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "21",
+    "name": "Q21",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/Oz696pHFPP6dQ1FPPhxcl16Q1vf6HP.png",
+      "https://pic.553km.cn/images/43/2018/05/m5rya4ajfJyyG4A4RAYlRhLbFrBG4L.png",
+      "https://pic.553km.cn/images/43/2018/05/eYyQyayXAphgwGnNGpzHyWyPfqyShH.png"
+    ],
+    "resultpic": "",
+    "answer": "还有一些猫头鹰躲在后面呢！",
+    "explain": "哈哈，没想到吧？",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "22",
+    "name": "Q22",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/QjSJMHhs0RIJJiVHz5JHvPvezqOPV8.png"
+    ],
+    "resultpic": "",
+    "answer": "这是道逻辑题，稍微动下脑筋就能想出来。",
+    "explain": "IQ高的人一下子就能看出来。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "23",
+    "name": "Q23",
+    "cid": "1",
+    "pic": "",
+    "resultpic": [
+      "https://pic.553km.cn/images/43/2018/05/Fgk2ttJJbq21B114TakYGTET40ttYf.png"
+    ],
+    "answer": "女儿也是女人，对吧？",
+    "explain": "奶奶+她的两个女儿+加上她们各自的两个女儿（1+2+4=7）",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "24",
+    "name": "Q24",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/G3owYcxH4p4CO40f0701YoO40OC134.png",
+      "https://pic.553km.cn/images/43/2018/05/O78vH8b974u9yQ34F1dWw99Hi17w9q.png",
+      "https://pic.553km.cn/images/43/2018/05/I5I2WoSiMSOim5Xziho22SkoH5O20K.png"
+    ],
+    "resultpic": [
+      "https://pic.553km.cn/images/43/2018/05/ExFPZ9foFj2jof3DBJF9f9BlBb3jf1.png",
+      "https://pic.553km.cn/images/43/2018/05/Lt8c17x9800RM8tt30CC0An3A3C83k.png"
+    ],
+    "answer": "再仔细找找，虽然小了点，但它确实是个圆形。",
+    "explain": "好小的圈圈！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "25",
+    "name": "Q25",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/a5z5jKkJjJOZIsx05763i40oqho3oO.png"
+    ],
+    "resultpic": "",
+    "answer": "“电梯”就在题目里啦，拖动它试试。",
+    "explain": "你的智商真的爆表了。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "26",
+    "name": "Q26",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/yNLCvDViC11BvZWMiw1NZQMVw9sWsZ.png"
+    ],
+    "resultpic": [
+      "https://pic.553km.cn/images/43/2018/05/dJaJk0KU6P0P1TM0PpJpJiZsUu0aAI.png",
+      "https://pic.553km.cn/images/43/2018/05/MYJ77HLeVJLLk9E84f7ZHJO137F38k.png",
+      "https://pic.553km.cn/images/43/2018/05/scJjsG6pzrn6rbNbREC9R6VsKn9bkA.png"
+    ],
+    "answer": "是画面上的所有东西哦。",
+    "explain": "恭喜你，答对啦！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "27",
+    "name": "Q27",
+    "cid": "1",
+    "pic": "",
+    "resultpic": "",
+    "answer": "如果你记不住顺序，请拿支笔记下来。",
+    "explain": "好记性不如烂笔头。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "28",
+    "name": "Q28",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/O77q9qyP1w7p2KYK4Z5jq4usrUj7p5.png"
+    ],
+    "resultpic": "",
+    "answer": "你可以对比下你自己的右手和左手是不是很像？",
+    "explain": "右手当然和左手最像啦~",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "29",
+    "name": "Q29",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/kkN29jG595Ek6Jj6t72ToM5NnKn6wj.png"
+    ],
+    "resultpic": "",
+    "answer": "这是一道数学题，第一个数字是9。",
+    "explain": "很简单吧。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "30",
+    "name": "Q30",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/EuulUQULS8DVqqLmQOv58MdQLtTDSh.png"
+    ],
+    "resultpic": "",
+    "answer": "你应该用过Windows系统吧？",
+    "explain": "窗口关闭中...",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "31",
+    "name": "Q31",
+    "cid": "1",
+    "pic": "",
+    "resultpic": "",
+    "answer": "必要的时候可以回到之前的关卡看看。",
+    "explain": "是不是回到之前的关卡数了数？",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "32",
+    "name": "Q32",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/QMxFg9mfz1r6MSmrt9rMmdds1zt9x6.png",
+      "https://pic.553km.cn/images/43/2018/05/QaJavDgMmsd0JjDAAwazEa5Q34Vwaa.png"
+    ],
+    "resultpic": "",
+    "answer": "这么简单小学数学都需要提示？",
+    "explain": "铅笔1.05元，橡皮0.05元。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "33",
+    "name": "Q33",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/xXW7OZU2wNoVlW4rPuhU7vu42UhX1s.png"
+    ],
+    "resultpic": "",
+    "answer": "3+5+5",
+    "explain": "找到规律了吧？",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "34",
+    "name": "Q34",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/CQzV9d4X1R94D94q0Aj9045DPjD511.png"
+    ],
+    "resultpic": "",
+    "answer": "用手遮住题目里“红桃A”和牌面上的红桃A",
+    "explain": "你挡住了所有的红桃A，这下没人知道你的牌了。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "35",
+    "name": "Q35",
+    "cid": "1",
+    "pic": "",
+    "resultpic": "",
+    "answer": "是不是又要退回去看了？",
+    "explain": "哈哈，该死的电梯！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "36",
+    "name": "Q36",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/kkN29jG595Ek6Jj6t72ToM5NnKn6wj.png"
+    ],
+    "resultpic": "",
+    "answer": "这题太难了，直接告诉你答案“51181”",
+    "explain": "你真的是太聪明了！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "37",
+    "name": "Q37",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/amauTNDnt5Ny7aSh0mhHavDvv0mtd7.png",
+      "https://pic.553km.cn/images/43/2018/05/kjvV9vvDv2Du2xmh0vYrVdw2m7hlVD.png"
+    ],
+    "resultpic": "",
+    "answer": "别忘了你的生命值。",
+    "explain": "哈哈，没想到吧。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "38",
+    "name": "Q38",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/wzj5inGNlV0Nn5IGKJNZv3VNv2LP0g.png"
+    ],
+    "resultpic": [
+      "https://pic.553km.cn/images/43/2018/05/VyoFTLK3T3dZO4KFd41jCYK3k4tlCl.png"
+    ],
+    "answer": "在你的键盘上输入这些字母试试看。",
+    "explain": "哇，你是福尔摩斯吗？",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "39",
+    "name": "Q39",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/q4vn77ZnF38v3hnzXV2735uUhh8X5X.png"
+    ],
+    "resultpic": "",
+    "answer": "仔细看每一行开始和结尾处的数字其实是连在一起的，答案是“5”。",
+    "explain": "嘿嘿，不好意思，屏幕太小，一行放不下。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "40",
+    "name": "Q40",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/xZ8hx4nP8vpZL3v9HKn4yi889vxl4H.png"
+    ],
+    "resultpic": "",
+    "answer": "不要被指南针迷惑，直接看牛尾巴在屏幕中指的方向。",
+    "explain": "哈哈，很简单吧？",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "41",
+    "name": "Q41",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/05/Zp7V800pzMO5FPxixVegmtTtxFqQm3.png"
+    ],
+    "resultpic": [
+      "https://pic.553km.cn/images/43/2018/05/q1ap13X3d16d6x8aA6a61za9qA4Tve.png"
+    ],
+    "answer": "快试一下你手机的重力感应。",
+    "explain": "哇，石像不哭啦！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "42",
+    "name": "Q42",
+    "cid": "1",
+    "pic": "",
+    "resultpic": "",
+    "answer": "注意，是颜色哦！",
+    "explain": "哈哈，有没有被误导到？",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "43",
+    "name": "Q43",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/47/2018/05/z594885G29y9934Uz9HBE924958919.png"
+    ],
+    "resultpic": "",
+    "answer": "老套路啦，快把题目里的“猫咪”藏起来吧。",
+    "explain": "猫咪不见啦！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "44",
+    "name": "Q44",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/45/2018/06/WW8sKM888LAkA0lt8kf9IktdH0SS9e.png"
+    ],
+    "resultpic": [
+      "https://pic.553km.cn/images/45/2018/06/tR936C66NJj2uC09cOCuSsbrU3or60.png"
+    ],
+    "answer": "想想平常你是如何倒番茄酱的？",
+    "explain": "都撒外面啦。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "45",
+    "name": "Q45",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/47/2018/06/A317DJWf61fA61sgmv3zpws3HwWWmP.png",
+      "https://pic.553km.cn/images/47/2018/06/x149qhq1ybB99qQ91wq5QhBw52W95H.png"
+    ],
+    "resultpic": "",
+    "answer": "把盒子移开看看。",
+    "explain": "哈哈，被你发现了！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "46",
+    "name": "Q46",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/47/2018/06/Cm8Fa85heYnm6NyE2yMP5dlMP6hSRz.png"
+    ],
+    "resultpic": "",
+    "answer": "其实你所看到的黑点都是“视觉暂留”",
+    "explain": "有时候眼见也不定为实哦。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "47",
+    "name": "Q47",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/47/2018/06/u8zg2UzMmpPl89nu8oN86l3mLM8O8L.png",
+      "https://pic.553km.cn/images/47/2018/06/a9WqWUaRC0cwFx466r6469QcS0cR4i.png"
+    ],
+    "resultpic": "",
+    "answer": "还有一些苹果在树上没有掉下来哦！摇一下试试。",
+    "explain": "好厉害，牛顿也会佩服你！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "48",
+    "name": "Q48",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/47/2018/06/erZuMykxVKV9M399LralvaqVAki9fY.png",
+      "https://pic.553km.cn/images/47/2018/06/iPyh9WHn394KkEW33H9hyh93HywKK7.png",
+      "https://pic.553km.cn/images/47/2018/06/N2NeRE7M9923Z90RoNR9B37AR33woT.png"
+    ],
+    "resultpic": [
+      "https://pic.553km.cn/images/47/2018/06/t897zt4h8ff7z9Ov4Thv8HS7hw8FHG.png"
+    ],
+    "answer": "“关机键”被电脑挡住了。",
+    "explain": "正在关机中……",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "49",
+    "name": "Q49",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/47/2018/06/Ywt5OoroYiOiooy65Bp2RawKIOo395.png"
+    ],
+    "resultpic": "",
+    "answer": "没让你算出D，只是让你找出D。",
+    "explain": "你真聪明！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "50",
+    "name": "Q50",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/47/2018/06/sLK9XoY9dGIUou66345o5R634ITII5.png"
+    ],
+    "resultpic": "",
+    "answer": "把手机盖在桌面上试试。",
+    "explain": "这样子谁都看不见啦。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "51",
+    "name": "Q51",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/47/2018/06/jx9V4k3ZsIEww3IZ2iS4s94ESm3S9i.png"
+    ],
+    "resultpic": "",
+    "answer": "难道对折这张纸就会变厚了吗？",
+    "explain": "无论这张纸叠了多少次，它本身还是这么厚。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "52",
+    "name": "Q52",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/47/2018/06/x7LoG99OK7MgM22983C78p8mUTp7Z3.png"
+    ],
+    "resultpic": "",
+    "answer": "你不需要移动任何火柴，只需要把手机倒过来看看。",
+    "explain": "倒过来看，世界就不一样了。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "53",
+    "name": "Q53",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/47/2018/06/Z8Z1tD11T1TS104dCWt3S1WWu1cic7.png"
+    ],
+    "resultpic": [
+      "https://pic.553km.cn/images/47/2018/06/mvvB21jJrRc3C183W68j8FqCvnz6FZ.png"
+    ],
+    "answer": "有罐饮料被挡住了。",
+    "explain": "你更喜欢喝哪种口味？",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "54",
+    "name": "Q54",
+    "cid": "1",
+    "pic": "",
+    "resultpic": "",
+    "answer": "小学语文老师教过我们，句子的末尾需要加标点符号。",
+    "explain": "你真的是太机智了！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "55",
+    "name": "Q55",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/06/umgrop7Yy1do7O1911DRrp15Y1zt75.png"
+    ],
+    "resultpic": [
+      "https://pic.553km.cn/images/43/2018/06/aHrP4yMN879HiN93AE87h879r8VEH8.png"
+    ],
+    "answer": "把手机倒过来，箭头就朝下啦。",
+    "explain": "叮！一楼到了！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "56",
+    "name": "Q56",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/06/YV9LmvVKlWx59XvkU9p9VVk9Ugj9T5.png",
+      "https://pic.553km.cn/images/43/2018/06/duoYIy23eBoYaoNd3yyuymu3YDbOyQ.png"
+    ],
+    "resultpic": "",
+    "answer": "请把“照片”放进去。",
+    "explain": "你已经完全get到套路了！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "57",
+    "name": "Q57",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/06/a0gHz3G46K6M3NF84Z6dy077Uff79D.png"
+    ],
+    "resultpic": [
+      "https://pic.553km.cn/images/43/2018/06/xc3NAvzs5wXn3452cx7A5cYaAhl038.png"
+    ],
+    "answer": "把你的手机想象成苍蝇拍，正面朝下挥舞试试。",
+    "explain": "哈哈，你手速真的很快！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "58",
+    "name": "Q58",
+    "cid": "1",
+    "pic": "",
+    "resultpic": "",
+    "answer": "填写“8”然后把手机横过来，就成“∞”了。",
+    "explain": "你的数学真好！",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "59",
+    "name": "Q59",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/06/O2HyIIwLOb0JWwvsZAi255goYFNwbw.png"
+    ],
+    "resultpic": "",
+    "answer": "数一数上面几组数字一共有多少“o”，你就能找到规律了。",
+    "explain": "这是一道小升初的题目哦。",
+    "remark": "",
+    "status": "1"
+  },
+  {
+    "id": "60",
+    "name": "Q60",
+    "cid": "1",
+    "pic": [
+      "https://pic.553km.cn/images/43/2018/06/jH3ZbsU9EYZ8ylTd9eHVls3uhtlE39.png",
+      "https://pic.553km.cn/images/43/2018/06/ezIS9INdvvxISPMvVi978Ihhsm8UM8.png"
+    ],
+    "resultpic": "",
+    "answer": "把手机正面朝下试试。",
+    "explain": "通关啦！你太厉害了！敢不敢试试我们新出的游戏？",
+    "remark": "",
+    "status": "1"
+  }
+]

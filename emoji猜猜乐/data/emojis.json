@@ -1,0 +1,9315 @@
+[
+  {
+    "level": 1,
+    "question": [
+      "1f525",
+      "1f004",
+      "1f4aa-1f3fc",
+      "1f330"
+    ],
+    "answer": "火中取栗",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 2,
+    "question": [
+      "chufa",
+      "1f33e",
+      "1f31e",
+      "1f514",
+      "1f483-1f3fb"
+    ],
+    "answer": "锄禾日当午",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 3,
+    "question": [
+      "1f4ac",
+      "1f33a",
+      "1f444",
+      "1f33e"
+    ],
+    "answer": "寻花问柳",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 4,
+    "question": [
+      "1f439",
+      "1f47d",
+      "1f42d",
+      "1f440"
+    ],
+    "answer": "獐头鼠目",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 5,
+    "question": [
+      "1f4ba",
+      "1f645",
+      "1f192",
+      "1f6e9"
+    ],
+    "answer": "坐失良机",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 6,
+    "question": [
+      "1f4a1",
+      "1f31b",
+      "1f424",
+      "1f550",
+      "1f236"
+    ],
+    "answer": "明月几时有",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 7,
+    "question": [
+      "1f435",
+      "1f6aa",
+      "1f345",
+      "1f30a"
+    ],
+    "answer": "侯门似海",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 8,
+    "question": [
+      "1f446-1f3fc",
+      "1f528",
+      "1f4cc",
+      "1f3b6"
+    ],
+    "answer": "一锤定音",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 9,
+    "question": [
+      "1f6cc",
+      "1f4b0",
+      "1f4a1",
+      "1f319",
+      "1f4bf"
+    ],
+    "answer": "床前明月光",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 10,
+    "question": [
+      "1f9d2-1f3fb",
+      "1f57a",
+      "1f375",
+      "2603"
+    ],
+    "answer": "人走茶凉",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 11,
+    "question": [
+      "1f388",
+      "1f444",
+      "1f449-1f3fc",
+      "1f445"
+    ],
+    "answer": "七嘴八舌",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 12,
+    "question": [
+      "1f305",
+      "1f410",
+      "1f3bc",
+      "1f44d-1f3fc"
+    ],
+    "answer": "夕阳无限好",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 13,
+    "question": [
+      "1f332",
+      "1f332",
+      "1f332",
+      "1f34d",
+      "1f4aa-1f3fc",
+      "1f418"
+    ],
+    "answer": "森罗万象",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 14,
+    "question": [
+      "1f40d",
+      "1f425",
+      "1f377",
+      "1f468-1f3fb"
+    ],
+    "answer": "舍己救人",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 15,
+    "question": [
+      "1f42d",
+      "1f440",
+      "1f596-1f3fc",
+      "1f4a1"
+    ],
+    "answer": "鼠目寸光",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 16,
+    "question": [
+      "1f424",
+      "1f424",
+      "1f3b6",
+      "1f33f"
+    ],
+    "answer": "两只黄鹂鸣翠柳",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 17,
+    "question": [
+      "1f60a",
+      "1f446-1f3fc",
+      "1f339",
+      "1f525"
+    ],
+    "answer": "喜上眉梢",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 18,
+    "question": [
+      "1f4a7",
+      "1f4a7",
+      "1f380",
+      "1f493",
+      "1f62d"
+    ],
+    "answer": "粒粒皆辛苦",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 19,
+    "question": [
+      "1f52d",
+      "26f4",
+      "1f3c0",
+      "1f4a6"
+    ],
+    "answer": "望穿秋水",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 20,
+    "question": [
+      "1f440",
+      "1f645-1f3fb-200d-2642-fe0f",
+      "1f450-1f3fc",
+      "1f418"
+    ],
+    "answer": "盲人摸象",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 21,
+    "question": [
+      "1f425",
+      "1f6e9",
+      "1f95a",
+      "1f528"
+    ],
+    "answer": "鸡飞蛋打",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 22,
+    "question": [
+      "1f7e0",
+      "1f412",
+      "1f1f7",
+      "1f30a",
+      "1f402"
+    ],
+    "answer": "黄河入海流",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 23,
+    "question": [
+      "1f690",
+      "1f4a6",
+      "1f434",
+      "1f432"
+    ],
+    "answer": "车水马龙",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 24,
+    "question": [
+      "1f3c6",
+      "1f341",
+      "1f41f",
+      "1f525",
+      "2714",
+      "1f614",
+      "1f4a4"
+    ],
+    "answer": "江枫渔火对愁眠",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 25,
+    "question": [
+      "1f5e1",
+      "26a1",
+      "1f680",
+      "ye"
+    ],
+    "answer": "刀光剑影",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 26,
+    "question": [
+      "1f30a",
+      "2b06",
+      "1f319"
+    ],
+    "answer": "海上升明月",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 27,
+    "question": [
+      "1f44f-1f3fc",
+      "1f332",
+      "1f3e2",
+      "1f47d",
+      "1f613",
+      "26f0",
+      "34-20e3"
+    ],
+    "answer": "姑苏城外寒山寺",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 28,
+    "question": [
+      "1f449-1f3fc",
+      "1f370",
+      "1f388",
+      "1f410"
+    ],
+    "answer": "趾高气扬",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 29,
+    "question": [
+      "1f40a",
+      "1f4a6",
+      "1f52a",
+      "1f466-1f3fb"
+    ],
+    "answer": "恶语伤人",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 30,
+    "question": [
+      "1f319",
+      "1f343",
+      "1f483-1f3fb",
+      "1f460",
+      "1f46f",
+      "1f235",
+      "1f304"
+    ],
+    "answer": "月落乌啼霜满天",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 31,
+    "question": [
+      "1f52d",
+      "1f440",
+      "1f41f",
+      "1f6f3"
+    ],
+    "answer": "望眼欲穿",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 32,
+    "question": [
+      "1f455",
+      "1f4a1",
+      "1f40b",
+      "1f468-1f3fb-200d-1f9b1"
+    ],
+    "answer": "一鸣惊人",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 33,
+    "question": [
+      "1f44b",
+      "1f31e",
+      "1f455",
+      "26f0",
+      "1f6ab"
+    ],
+    "answer": "白日依山尽",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 34,
+    "question": [
+      "1f6ac",
+      "1f468-1f3fb-200d-1f9b1",
+      "1f442",
+      "1f440"
+    ],
+    "answer": "掩人耳目",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 35,
+    "question": [
+      "1f451",
+      "1f480",
+      "1f480",
+      "1f480",
+      "1f480",
+      "1f480"
+    ],
+    "answer": "一将功成万骨枯",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 36,
+    "question": [
+      "1f41f",
+      "1f3b6",
+      "1f300",
+      "1f35a"
+    ],
+    "answer": "余音绕梁",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 37,
+    "question": [
+      "1f48a",
+      "1f440",
+      "1f64c-1f3fb",
+      "1f645-1f3fb-200d-2642-fe0f",
+      "1f349",
+      "1f4b0",
+      "1f6e5"
+    ],
+    "answer": "遥看瀑布挂前川",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 38,
+    "question": [
+      "1f3ba",
+      "1f403",
+      "1f4f7",
+      "1f434"
+    ],
+    "answer": "吹牛拍马",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 39,
+    "question": [
+      "1f480",
+      "1f47b",
+      "1f47d",
+      "1f47f"
+    ],
+    "answer": "魑魅魍魉",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 40,
+    "question": [
+      "1f4a8",
+      "1f42f",
+      "1f422",
+      "26f0"
+    ],
+    "answer": "放虎归山",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 41,
+    "question": [
+      "1f41f",
+      "1f1f6",
+      "1f4b0",
+      "1f381",
+      "1f440"
+    ],
+    "answer": "欲穷千里目",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 42,
+    "question": [
+      "1f52d",
+      "1f52d",
+      "1f52d",
+      "1f52c",
+      "1f52c"
+    ],
+    "answer": "三长两短",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 43,
+    "question": [
+      "1f31e",
+      "1f4f7",
+      "1f418",
+      "1f1f1",
+      "1f304",
+      "1f7e3",
+      "1f6ac"
+    ],
+    "answer": "日照香炉生紫烟",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 44,
+    "question": [
+      "1f402",
+      "1f52a",
+      "1f41c",
+      "1f345"
+    ],
+    "answer": "牛刀小试",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 45,
+    "question": [
+      "1f44a-1f3fc",
+      "1f340",
+      "1f627",
+      "1f40d"
+    ],
+    "answer": "打草惊蛇",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 46,
+    "question": [
+      "1f469-200d-1f469-200d-1f467",
+      "1f512",
+      "37-20e3",
+      "1f577"
+    ],
+    "answer": "众所周知",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 47,
+    "question": [
+      "1f44f-1f3fc",
+      "1f377",
+      "1f618",
+      "1f31e",
+      "1f304"
+    ],
+    "answer": "把酒问青天",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 48,
+    "question": [
+      "1f449-1f3fc",
+      "1f413",
+      "1f5e3",
+      "1f415"
+    ],
+    "answer": "指桑骂槐",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 49,
+    "question": [
+      "1f5e1",
+      "1f6a3",
+      "1f3c0",
+      "1f680"
+    ],
+    "answer": "刻舟求剑",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 50,
+    "question": [
+      "1f6e9",
+      "1f402",
+      "1f446-1f3fc",
+      "2b07",
+      "26f0",
+      "1000",
+      "1f4cf"
+    ],
+    "answer": "飞流直下三千尺",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 51,
+    "question": [
+      "1f457",
+      "1f432",
+      "1f483-1f3fb",
+      "1f590-1f3fc"
+    ],
+    "answer": "群龙无首",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 52,
+    "question": [
+      "1f425",
+      "1f468-1f3fb",
+      "1f31e",
+      "1f418"
+    ],
+    "answer": "吉人天相",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 53,
+    "question": [
+      "1f49f",
+      "1f49f",
+      "1f418",
+      "1f463"
+    ],
+    "answer": "心心相印",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 54,
+    "question": [
+      "31-20e3",
+      "1f51f",
+      "1f3b6",
+      "1f6a3",
+      "1f343",
+      "1f377",
+      "1f47c"
+    ],
+    "answer": "疑是银河落九天",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 55,
+    "question": [
+      "1f493",
+      "1f526",
+      "1f463",
+      "1f4e3"
+    ],
+    "answer": "心照不宣",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 56,
+    "question": [
+      "1f425",
+      "1f6e9",
+      "1f415",
+      "1f574"
+    ],
+    "answer": "鸡飞狗跳",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 57,
+    "question": [
+      "1f3c6",
+      "1f38e",
+      "1f645",
+      "1f3e9"
+    ],
+    "answer": "悲喜交加",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 58,
+    "question": [
+      "1f4a3",
+      "1f4a4",
+      "1f489",
+      "1f442"
+    ],
+    "answer": "雷声震耳",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 59,
+    "question": [
+      "1f468-1f3fb",
+      "1f410",
+      "1f434",
+      "26f5"
+    ],
+    "answer": "人仰马翻",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 60,
+    "question": [
+      "1f339",
+      "1f440",
+      "1f6a2",
+      "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468"
+    ],
+    "answer": "眉目传情",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 61,
+    "question": [
+      "1f30c",
+      "1f913",
+      "1f570"
+    ],
+    "answer": "天涯共此时",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 62,
+    "question": [
+      "1f437",
+      "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc",
+      "1f415",
+      "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc"
+    ],
+    "answer": "猪朋狗友",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 63,
+    "question": [
+      "1f446-1f3fc",
+      "1f489"
+    ],
+    "answer": "一针见血",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 64,
+    "question": [
+      "1f629",
+      "1f33a",
+      "1f48a",
+      "1f469"
+    ],
+    "answer": "愁眉苦脸",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 65,
+    "question": [
+      "1f449-1f3fc",
+      "1f9df",
+      "27a1",
+      "1f7e8",
+      "1f38e"
+    ],
+    "answer": "只是近黄昏",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 66,
+    "question": [
+      "1f449-1f3fc",
+      "1f468-1f3fb",
+      "1f4de",
+      "1f38e"
+    ],
+    "answer": "指腹为婚",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 67,
+    "question": [
+      "1f446-1f3fc",
+      "1f44f-1f3fc",
+      "1f425",
+      "1f4e6"
+    ],
+    "answer": "一拍即合",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 68,
+    "question": [
+      "1f54a",
+      "1f54a",
+      "1f54a",
+      "1f54a",
+      "1f6e9"
+    ],
+    "answer": "一行白鹭上青天",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 69,
+    "question": [
+      "1f33a",
+      "1f44c-1f3fb",
+      "1f319",
+      "2b55"
+    ],
+    "answer": "花好月圆",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 70,
+    "question": [
+      "31-20e3",
+      "1f9df",
+      "1f4a7",
+      "1f199",
+      "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc"
+    ],
+    "answer": "疑似地上霜",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 71,
+    "question": [
+      "1f630",
+      "1f4a7",
+      "1f33e",
+      "2b07",
+      "1f407"
+    ],
+    "answer": "汗滴禾下土",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 72,
+    "question": [
+      "1f6a9",
+      "1f42f",
+      "1f535",
+      "1f447-1f3fc"
+    ],
+    "answer": "骑虎难下",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 73,
+    "question": [
+      "1f42f",
+      "1f466-1f3fb",
+      "1f42f",
+      "1f9e0"
+    ],
+    "answer": "虎头虎脑",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 74,
+    "question": [
+      "1f32c",
+      "1f32c",
+      "1f528",
+      "1f528"
+    ],
+    "answer": "吹吹打打",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 75,
+    "question": [
+      "1f425",
+      "1f444",
+      "1f402",
+      "1f412"
+    ],
+    "answer": "鸡口牛后",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 76,
+    "question": [
+      "1f430",
+      "1f1fa",
+      "1f1fa"
+    ],
+    "answer": "屠呦呦",
+    "explain": "明星名人"
+  },
+  {
+    "level": 77,
+    "question": [
+      "1f40e",
+      "1f32b"
+    ],
+    "answer": "马云",
+    "explain": "明星名人"
+  },
+  {
+    "level": 78,
+    "question": [
+      "1f402",
+      "1f250",
+      "1f338"
+    ],
+    "answer": "刘德华",
+    "explain": "明星名人"
+  },
+  {
+    "level": 79,
+    "question": [
+      "1f3bc",
+      "1f40b"
+    ],
+    "answer": "普京",
+    "explain": "明星名人"
+  },
+  {
+    "level": 80,
+    "question": [
+      "1f319",
+      "1f6e9"
+    ],
+    "answer": "岳飞",
+    "explain": "明星名人"
+  },
+  {
+    "level": 81,
+    "question": [
+      "1f383",
+      "1f437",
+      "1f389"
+    ],
+    "answer": "南柱赫",
+    "explain": "明星名人"
+  },
+  {
+    "level": 82,
+    "question": [
+      "1f421",
+      "1f34a",
+      "1f389"
+    ],
+    "answer": "庾澄庆",
+    "explain": "明星名人"
+  },
+  {
+    "level": 83,
+    "question": [
+      "1f42f",
+      "1f3bc"
+    ],
+    "answer": "胡歌",
+    "explain": "明星名人"
+  },
+  {
+    "level": 84,
+    "question": [
+      "1f7e5",
+      "1f556",
+      "1f474-1f3fb"
+    ],
+    "answer": "洪七公",
+    "explain": "明星名人"
+  },
+  {
+    "level": 85,
+    "question": [
+      "1f919-1f3fc",
+      "1f3e0",
+      "1f1f4"
+    ],
+    "answer": "刘嘉玲",
+    "explain": "明星名人"
+  },
+  {
+    "level": 86,
+    "question": [
+      "1f329",
+      "1f607"
+    ],
+    "answer": "雷神",
+    "explain": "明星名人"
+  },
+  {
+    "level": 87,
+    "question": [
+      "梨",
+      "1f4a1",
+      "1f44d-1f3fc"
+    ],
+    "answer": "李敏镐",
+    "explain": "明星名人"
+  },
+  {
+    "level": 88,
+    "question": [
+      "1f36d",
+      "1f1e7",
+      "1f42f"
+    ],
+    "answer": "唐伯虎",
+    "explain": "明星名人"
+  },
+  {
+    "level": 89,
+    "question": [
+      "1f4b0",
+      "1f505",
+      "1f34a"
+    ],
+    "answer": "金日成",
+    "explain": "明星名人"
+  },
+  {
+    "level": 90,
+    "question": [
+      "1f34a",
+      "1f424",
+      "1f55f",
+      "1f605"
+    ],
+    "answer": "成吉思汗",
+    "explain": "明星名人"
+  },
+  {
+    "level": 91,
+    "question": [
+      "1f1f4",
+      "1f3b1",
+      "1f434"
+    ],
+    "answer": "奥巴马",
+    "explain": "明星名人"
+  },
+  {
+    "level": 92,
+    "question": [
+      "1f345",
+      "1f31e",
+      "1f409"
+    ],
+    "answer": "史泰龙",
+    "explain": "明星名人"
+  },
+  {
+    "level": 93,
+    "question": [
+      "1f328",
+      "1f328"
+    ],
+    "answer": "韩寒",
+    "explain": "明星名人"
+  },
+  {
+    "level": 94,
+    "question": [
+      "1f440",
+      "1f33e"
+    ],
+    "answer": "邓超",
+    "explain": "明星名人"
+  },
+  {
+    "level": 95,
+    "question": [
+      "1f91b-1f3fb",
+      "1f1f5",
+      "1f6f3"
+    ],
+    "answer": "拿破仑",
+    "explain": "明星名人"
+  },
+  {
+    "level": 96,
+    "question": [
+      "1f437",
+      "1f518",
+      "1f419"
+    ],
+    "answer": "朱元璋",
+    "explain": "明星名人"
+  },
+  {
+    "level": 97,
+    "question": [
+      "1f4a1",
+      "1f6f3"
+    ],
+    "answer": "邓伦",
+    "explain": "明星名人"
+  },
+  {
+    "level": 98,
+    "question": [
+      "1f233",
+      "1f455",
+      "1f35b"
+    ],
+    "answer": "吴亦凡",
+    "explain": "明星名人"
+  },
+  {
+    "level": 99,
+    "question": [
+      "1f468-1f3fb-200d-1f9b3",
+      "1f232",
+      "1f17f"
+    ],
+    "answer": "白敬亭",
+    "explain": "明星名人"
+  },
+  {
+    "level": 100,
+    "question": [
+      "1f33a",
+      "1f33a"
+    ],
+    "answer": "华晨宇",
+    "explain": "明星名人"
+  },
+  {
+    "level": 101,
+    "question": [
+      "1f451",
+      "1f234",
+      "1f442"
+    ],
+    "answer": "王嘉尔",
+    "explain": "明星名人"
+  },
+  {
+    "level": 102,
+    "question": [
+      "1f1ef",
+      "1f476-1f3fc",
+      "1f41f"
+    ],
+    "answer": "贾宝玉",
+    "explain": "明星名人"
+  },
+  {
+    "level": 103,
+    "question": [
+      "1f7e4",
+      "1f525",
+      "1f7e4",
+      "1f525"
+    ],
+    "answer": "哪吒",
+    "explain": "明星名人"
+  },
+  {
+    "level": 104,
+    "question": [
+      "1f350",
+      "1f3f9"
+    ],
+    "answer": "李健",
+    "explain": "明星名人"
+  },
+  {
+    "level": 105,
+    "question": [
+      "1f382",
+      "1f315",
+      "1f315"
+    ],
+    "answer": "高圆圆",
+    "explain": "明星名人"
+  },
+  {
+    "level": 106,
+    "question": [
+      "1f36d",
+      "1f441"
+    ],
+    "answer": "唐嫣",
+    "explain": "明星名人"
+  },
+  {
+    "level": 107,
+    "question": [
+      "1f419",
+      "1f446-1f3fc",
+      "1f4ab"
+    ],
+    "answer": "张艺兴",
+    "explain": "明星名人"
+  },
+  {
+    "level": 108,
+    "question": [
+      "1f35a",
+      "1f34a",
+      "1f34a"
+    ],
+    "answer": "范丞丞",
+    "explain": "明星名人"
+  },
+  {
+    "level": 109,
+    "question": [
+      "1f451",
+      "1f315"
+    ],
+    "answer": "王源",
+    "explain": "明星名人"
+  },
+  {
+    "level": 110,
+    "question": [
+      "1f350",
+      "1f1ee",
+      "1f4a8"
+    ],
+    "answer": "李易峰",
+    "explain": "明星名人"
+  },
+  {
+    "level": 111,
+    "question": [
+      "1f40e",
+      "1f914",
+      "1f444"
+    ],
+    "answer": "马思纯",
+    "explain": "明星名人"
+  },
+  {
+    "level": 112,
+    "question": [
+      "1f1f4",
+      "1f43a",
+      "1f3bf"
+    ],
+    "answer": "令狐冲",
+    "explain": "明星名人"
+  },
+  {
+    "level": 113,
+    "question": [
+      "1f6b6",
+      "1f328",
+      "1f327"
+    ],
+    "answer": "周冬雨",
+    "explain": "明星名人"
+  },
+  {
+    "level": 114,
+    "question": [
+      "1f1ee",
+      "1f411",
+      "1000",
+      "1f60d"
+    ],
+    "answer": "易烊千玺",
+    "explain": "明星名人"
+  },
+  {
+    "level": 115,
+    "question": [
+      "1f350",
+      "1f34a"
+    ],
+    "answer": "李晨",
+    "explain": "明星名人"
+  },
+  {
+    "level": 116,
+    "question": [
+      "1f411",
+      "1f4fd"
+    ],
+    "answer": "杨颖",
+    "explain": "明星名人"
+  },
+  {
+    "level": 117,
+    "question": [
+      "1f411",
+      "1f411"
+    ],
+    "answer": "杨洋",
+    "explain": "明星名人"
+  },
+  {
+    "level": 118,
+    "question": [
+      "1f418",
+      "1f327"
+    ],
+    "answer": "项羽",
+    "explain": "明星名人"
+  },
+  {
+    "level": 119,
+    "question": [
+      "1f420",
+      "1f424"
+    ],
+    "answer": "虞姬",
+    "explain": "明星名人"
+  },
+  {
+    "level": 120,
+    "question": [
+      "1f463",
+      "1f463",
+      "1f608",
+      "1f463"
+    ],
+    "answer": "庞麦郎",
+    "explain": "明星名人"
+  },
+  {
+    "level": 121,
+    "question": [
+      "1f451",
+      "1f476-1f3fc",
+      "1f52b"
+    ],
+    "answer": "王宝强",
+    "explain": "明星名人"
+  },
+  {
+    "level": 122,
+    "question": [
+      "1f419",
+      "1f4a1",
+      "1f3a5"
+    ],
+    "answer": "张靓颖",
+    "explain": "明星名人"
+  },
+  {
+    "level": 123,
+    "question": [
+      "1f36d",
+      "1f3e0",
+      "1f46a",
+      "勺子"
+    ],
+    "answer": "唐家三少",
+    "explain": "明星名人"
+  },
+  {
+    "level": 124,
+    "question": [
+      "1f383",
+      "1f4f7",
+      "1f46a",
+      "1f4d6"
+    ],
+    "answer": "南派三叔",
+    "explain": "明星名人"
+  },
+  {
+    "level": 125,
+    "question": [
+      "1f3ad",
+      "1f3a4",
+      "1f451"
+    ],
+    "answer": "蒙面歌王",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 126,
+    "question": [
+      "1f1f7",
+      "1f3c3",
+      "1f3c3",
+      "1f3c3",
+      "1f3c3",
+      "1f3c3",
+      "1f3c3"
+    ],
+    "answer": "奔跑吧兄弟",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 127,
+    "question": [
+      "2b55",
+      "1f437",
+      "1f478-1f3fb",
+      "1f478-1f3fb"
+    ],
+    "answer": "还珠格格",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 128,
+    "question": [
+      "fu",
+      "1f44b"
+    ],
+    "answer": "扶摇",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 129,
+    "question": [
+      "1f463",
+      "1f463",
+      "1f40b",
+      "1f493"
+    ],
+    "answer": "步步惊心",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 130,
+    "question": [
+      "1f402",
+      "1f31f",
+      "1f338",
+      "2b55"
+    ],
+    "answer": "流星花园",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 131,
+    "question": [
+      "1f489",
+      "2b55",
+      "1f48e"
+    ],
+    "answer": "甄嬛传",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 132,
+    "question": [
+      "1f339",
+      "1000",
+      "1f480"
+    ],
+    "answer": "花千骨",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 133,
+    "question": [
+      "1f440",
+      "1f492",
+      "1f23a",
+      "1f472-1f3fc"
+    ],
+    "answer": "延禧攻略",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 134,
+    "question": [
+      "1f345",
+      "1f44d-1f3fc",
+      "1f4b0"
+    ],
+    "answer": "西虹市首富",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 135,
+    "question": [
+      "1f004",
+      "1f32a",
+      "1f485-1f3fc",
+      "1f9d2-1f3fb"
+    ],
+    "answer": "国风美少年",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 136,
+    "question": [
+      "1f467-1f3fb",
+      "1f478-1f3fb",
+      "1f337",
+      "1f3e0"
+    ],
+    "answer": "小姐姐的花店",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 137,
+    "question": [
+      "1f449-1f3fc",
+      "39-20e3",
+      "34-20e3",
+      "1f3c0"
+    ],
+    "answer": "这就是灌篮",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 138,
+    "question": [
+      "1f402",
+      "1f466",
+      "1f466-1f3fb",
+      "1f474-1f3fb",
+      "1f338"
+    ],
+    "answer": "放牛班的春天",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 139,
+    "question": [
+      "1f493",
+      "1f514",
+      "1f574",
+      "1f590-1f3fc"
+    ],
+    "answer": "心灵捕手",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 140,
+    "question": [
+      "1f61d",
+      "1f3d5"
+    ],
+    "answer": "快乐大本营",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 141,
+    "question": [
+      "1f646",
+      "1f418",
+      "270d-1f3fc",
+      "1f468-1f3fb-200d-1f393"
+    ],
+    "answer": "偶像练习生",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 142,
+    "question": [
+      "1f483-1f3fb",
+      "1f32a",
+      "1f4a5"
+    ],
+    "answer": "舞蹈风暴",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 143,
+    "question": [
+      "1f484",
+      "1f934-1f3fc"
+    ],
+    "answer": "口红王子",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 144,
+    "question": [
+      "1f5e3",
+      "1f3a4",
+      "1f44f-1f3fc"
+    ],
+    "answer": "好声音",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 145,
+    "question": [
+      "1f64b",
+      "1f3e0",
+      "1f469-200d-2764-fe0f-200d-1f468"
+    ],
+    "answer": "我家小两口",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 146,
+    "question": [
+      "1f5e3",
+      "1f4d6"
+    ],
+    "answer": "朗读者",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 147,
+    "question": [
+      "1f3cd",
+      "1f46c-1f3fb",
+      "1f469-1f3fb-200d-1f9bc",
+      "1f46e-1f3fb"
+    ],
+    "answer": "无名之辈",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 148,
+    "question": [
+      "1f44d-1f3fc",
+      "1f4aa-1f3fc",
+      "1f9e0"
+    ],
+    "answer": "最强大脑",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 149,
+    "question": [
+      "1f934-1f3fc",
+      "1f449-1f3fc",
+      "1f438"
+    ],
+    "answer": "王子变青蛙",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 150,
+    "question": [
+      "1f3eb",
+      "31-20e3",
+      "270d-1f3fc"
+    ],
+    "answer": "开学第一课",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 151,
+    "question": [
+      "1f31f",
+      "1f4a1",
+      "1f6e3"
+    ],
+    "answer": "星光大道",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 152,
+    "question": [
+      "2694",
+      "1f575"
+    ],
+    "answer": "杀死比尔",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 153,
+    "question": [
+      "1f431",
+      "1f42d",
+      "1f3ae"
+    ],
+    "answer": "猫鼠游戏",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 154,
+    "question": [
+      "1f4d6",
+      "1f608",
+      "1f621",
+      "1f630",
+      "1f645"
+    ],
+    "answer": "少年的你",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 155,
+    "question": [
+      "1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fb",
+      "1f3e0",
+      "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468"
+    ],
+    "answer": "爱情公寓",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 156,
+    "question": [
+      "1f3b9",
+      "1f3b8",
+      "1f3a4",
+      "1f31e"
+    ],
+    "answer": "乐队的夏天",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 157,
+    "question": [
+      "1f62d",
+      "1f4b0",
+      "1f46f"
+    ],
+    "answer": "破产姐妹",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 158,
+    "question": [
+      "1f409",
+      "1f409",
+      "1f409",
+      "1f451",
+      "1f469-1f3fb-200d-1f9b3"
+    ],
+    "answer": "权利的游戏",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 159,
+    "question": [
+      "1f34a",
+      "1f468-200d-2764-fe0f-200d-1f468",
+      "1f6d0"
+    ],
+    "answer": "陈情令",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 160,
+    "question": [
+      "1f7e5",
+      "1f3ef",
+      "1f4a4"
+    ],
+    "answer": "红楼梦",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 161,
+    "question": [
+      "1f32a",
+      "1f469"
+    ],
+    "answer": "旋风少女",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 162,
+    "question": [
+      "1f004",
+      "1f5e3",
+      "1f3a4",
+      "1f918-1f3fc"
+    ],
+    "answer": "中国新说唱",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 163,
+    "question": [
+      "1f338",
+      "1f338",
+      "1f4cc",
+      "1f4ce",
+      "1f4cf"
+    ],
+    "answer": "花花万物",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 164,
+    "question": [
+      "1f493",
+      "1f4f6"
+    ],
+    "answer": "心动的信号",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 165,
+    "question": [
+      "1f311",
+      "dasuan"
+    ],
+    "answer": "暗算",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 166,
+    "question": [
+      "1f474-1f3fb",
+      "1f468-1f3fb",
+      "1f476-1f3fc"
+    ],
+    "answer": "返老还童",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 167,
+    "question": [
+      "1f30a",
+      "1f446-1f3fc",
+      "1f338",
+      "1f338"
+    ],
+    "answer": "浪花一朵朵",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 168,
+    "question": [
+      "1f480",
+      "1f469",
+      "1f469-1f3fb",
+      "ffsfsfsfsfss"
+    ],
+    "answer": "致命女人",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 169,
+    "question": [
+      "1f195",
+      "1f40d",
+      "1f478-1f3fb",
+      "1f6a2",
+      "1f6a9"
+    ],
+    "answer": "新白娘子传奇",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 170,
+    "question": [
+      "1f3e0",
+      "1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fb",
+      "1f466-1f3fb",
+      "1f467-1f3fb"
+    ],
+    "answer": "家有儿女",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 171,
+    "question": [
+      "1f304",
+      "1f303",
+      "1f46c-1f3fb",
+      "1f5e1"
+    ],
+    "answer": "白夜追凶",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 172,
+    "question": [
+      "1f4b0",
+      "1f3ca"
+    ],
+    "answer": "潜伏",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 173,
+    "question": [
+      "1f44d-1f3fc",
+      "1f468-1f3fb-200d-1f9b1"
+    ],
+    "answer": "好先生",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 174,
+    "question": [
+      "1f48b",
+      "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468",
+      "1f525",
+      "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468"
+    ],
+    "answer": "亲爱的热爱的",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 175,
+    "question": [
+      "1f304",
+      "1f409",
+      "38-20e3",
+      "1f463"
+    ],
+    "answer": "天龙八部",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 176,
+    "question": [
+      "1f6eb",
+      "1f32b",
+      "1f468-1f3fb-200d-2708-fe0f",
+      "1f6ec",
+      "1f6a9"
+    ],
+    "answer": "中国机长",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 177,
+    "question": [
+      "1f3b1",
+      "1f32a",
+      "1f9d2-1f3fb",
+      "1f44d-1f3fc"
+    ],
+    "answer": "台风少年行",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 178,
+    "question": [
+      "1000",
+      "1000",
+      "1f4b0",
+      "1f476-1f3fc"
+    ],
+    "answer": "百万美元宝贝",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 179,
+    "question": [
+      "1f69e",
+      "1f5fb",
+      "1f38e",
+      "1f30b",
+      "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468"
+    ],
+    "answer": "你的名字",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 180,
+    "question": [
+      "1f449-1f3fc",
+      "1f575",
+      "1f6ab",
+      "1f192"
+    ],
+    "answer": "这个杀手不太冷",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 181,
+    "question": [
+      "1f610",
+      "1f645",
+      "1f48a",
+      "1f47c-1f3fb"
+    ],
+    "answer": "我不是药神",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 182,
+    "question": [
+      "270d-1f3fc",
+      "1f442",
+      "1f468-1f3fb-200d-1f52c",
+      "1f4a5"
+    ],
+    "answer": "生活大爆炸",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 183,
+    "question": [
+      "1f60d",
+      "1f424",
+      "1f468-1f3fc-200d-1f91d-200d-1f468-1f3fb",
+      "1f48e"
+    ],
+    "answer": "射雕英雄传",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 184,
+    "question": [
+      "1f6f6",
+      "1f3c5",
+      "1f3dd",
+      "1f405"
+    ],
+    "answer": "少年派的奇幻漂流",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 185,
+    "question": [
+      "1f483-1f3fb",
+      "1f32a"
+    ],
+    "answer": "舞蹈风暴",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 186,
+    "question": [
+      "1f1fb",
+      "1f3ad",
+      "1f5e1",
+      "2714"
+    ],
+    "answer": "v字仇杀队",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 187,
+    "question": [
+      "1f30a",
+      "1f451"
+    ],
+    "answer": "海王",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 188,
+    "question": [
+      "1f562",
+      "1f004",
+      "1f44d-1f3fc"
+    ],
+    "answer": "七宗罪",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 189,
+    "question": [
+      "1f934-1f3fc",
+      "1f0cf",
+      "1f19a",
+      "1f934-1f3fc",
+      "1f0cf"
+    ],
+    "answer": "王牌对王牌",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 190,
+    "question": [
+      "1f303",
+      "1f35c",
+      "1f60a"
+    ],
+    "answer": "深夜食堂",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 191,
+    "question": [
+      "1f489",
+      "1f47b",
+      "1f380"
+    ],
+    "answer": "镇魂街",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 192,
+    "question": [
+      "1f1e9",
+      "1f6aa",
+      "1f472-1f3fc"
+    ],
+    "answer": "大宅门",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 193,
+    "question": [
+      "1f3ce",
+      "1f3ce",
+      "1f3ce",
+      "1f327",
+      "1f493"
+    ],
+    "answer": "速度与激情",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 194,
+    "question": [
+      "1f338",
+      "1f52a",
+      "1f424",
+      "1f62d"
+    ],
+    "answer": "葵花宝典",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 195,
+    "question": [
+      "1f6e9",
+      "1f35a",
+      "1f64d",
+      "1f3d8"
+    ],
+    "answer": "非凡任务",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 196,
+    "question": [
+      "1f69e",
+      "1f449-1f3fc",
+      "1f4a3",
+      "1f6e9"
+    ],
+    "answer": "让子弹飞",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 197,
+    "question": [
+      "1f6f3",
+      "1f3b9",
+      "1f345"
+    ],
+    "answer": "海上钢琴师",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 198,
+    "question": [
+      "1f604",
+      "1f9d2-1f3fb",
+      "1f3a4"
+    ],
+    "answer": "快乐男声",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 199,
+    "question": [
+      "1f634",
+      "1f4a4",
+      "1f3a4"
+    ],
+    "answer": "梦想的声音",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 200,
+    "question": [
+      "jiandao",
+      "1f590-1f3fc",
+      "1f493",
+      "1f338"
+    ],
+    "answer": "剪刀手爱德华",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 201,
+    "question": [
+      "1f643",
+      "1f634",
+      "1f32b",
+      "1f3f9"
+    ],
+    "answer": "盗梦空间",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 202,
+    "question": [
+      "1000",
+      "1f41f",
+      "1000",
+      "1f50d"
+    ],
+    "answer": "千与千寻",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 203,
+    "question": [
+      "1f4af",
+      "1f426",
+      "1f449-1f3fc",
+      "1f32a"
+    ],
+    "answer": "百鸟朝凤",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 204,
+    "question": [
+      "1f68d",
+      "1f41a",
+      "1f424",
+      "1f573",
+      "1f44c-1f3fb"
+    ],
+    "answer": "攻壳机动队",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 205,
+    "question": [
+      "1f64f-1f3fc",
+      "1f9ca",
+      "1f4e6"
+    ],
+    "answer": "拜托了冰箱",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 206,
+    "question": [
+      "1f004",
+      "1f37d",
+      "1f442"
+    ],
+    "answer": "中餐厅",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 207,
+    "question": [
+      "1f9d2-1f3fb",
+      "1f934-1f3fc",
+      "1f476-1f3fc",
+      "1f934-1f3fc"
+    ],
+    "answer": "大王小王",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 208,
+    "question": [
+      "1f412",
+      "1f412",
+      "1f412",
+      "1f171",
+      "1f404",
+      "1f3e0"
+    ],
+    "answer": "三傻大闹宝莱坞",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 209,
+    "question": [
+      "1f338",
+      "1f338",
+      "1f3e0",
+      "1f46c-1f3fb",
+      "1f416"
+    ],
+    "answer": "春田花花同学会",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 210,
+    "question": [
+      "1f6f3",
+      "1f5fb"
+    ],
+    "answer": "泰坦尼克号",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 211,
+    "question": [
+      "1f413",
+      "1f9f6",
+      "1f938-1f3fb-200d-2642-fe0f",
+      "2694"
+    ],
+    "answer": "极限挑战",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 212,
+    "question": [
+      "1f30c",
+      "1f31f",
+      "1f575"
+    ],
+    "answer": "明星大侦探",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 213,
+    "question": [
+      "1f418",
+      "1f578",
+      "1f930-1f3fb",
+      "1f525"
+    ],
+    "answer": "向往的生活",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 214,
+    "question": [
+      "1f6ab",
+      "1f34a",
+      "1f645-1f3fb-200d-2642-fe0f",
+      "1f5e3"
+    ],
+    "answer": "非诚勿扰",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 215,
+    "question": [
+      "1f32b",
+      "1f32b",
+      "1f418",
+      "2b06"
+    ],
+    "answer": "天天向上",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 216,
+    "question": [
+      "1f483-1f3fb",
+      "1f460",
+      "1f47f"
+    ],
+    "answer": "穿普拉达的恶魔",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 217,
+    "question": [
+      "1f47c-1f3fb",
+      "1f493",
+      "1f444",
+      "1f490"
+    ],
+    "answer": "天使爱美丽",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 218,
+    "question": [
+      "1f31f",
+      "1f31e",
+      "1f577",
+      "1f476-1f3fc"
+    ],
+    "answer": "明日之子",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 219,
+    "question": [
+      "1f475-1f3fc",
+      "1f467-1f3fb",
+      "1f478-1f3fb",
+      "1f469-200d-2764-fe0f-200d-1f468"
+    ],
+    "answer": "女儿们的恋爱",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 220,
+    "question": [
+      "shuaijiao",
+      "1f3b1",
+      "1f3b1"
+    ],
+    "answer": "摔跤吧爸爸",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 221,
+    "question": [
+      "1f474-1f3fb",
+      "1f3a3",
+      "1f6f6"
+    ],
+    "answer": "老人与海",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 222,
+    "question": [
+      "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468",
+      "1f3d4"
+    ],
+    "answer": "断背山",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 223,
+    "question": [
+      "1f44c-1f3fb",
+      "1f5e1",
+      "1f468-200d-1f469-200d-1f466"
+    ],
+    "answer": "三剑客",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 224,
+    "question": [
+      "1f3c3",
+      "1f3c8",
+      "1f3c6",
+      "1f3d3",
+      "1f4b0"
+    ],
+    "answer": "阿甘正传",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 225,
+    "question": [
+      "1f6b6",
+      "1f30d",
+      "1f30e",
+      "1f30f",
+      "1f463"
+    ],
+    "answer": "从你的全世界路过",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 226,
+    "question": [
+      "1f91b-1f3fb",
+      "1f43a"
+    ],
+    "answer": "战狼",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 227,
+    "question": [
+      "1f47c",
+      "1f3f9",
+      "1f6b4",
+      "1f364",
+      "1f48e"
+    ],
+    "answer": "仙剑奇侠传",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 228,
+    "question": [
+      "1f33a",
+      "1f332",
+      "1f7e6"
+    ],
+    "answer": "花木兰",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 229,
+    "question": [
+      "1f525",
+      "junren",
+      "1f601"
+    ],
+    "answer": "烈火军校",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 230,
+    "question": [
+      "1f44f-1f3fc",
+      "1f3f9",
+      "1f6a9",
+      "1f3b8"
+    ],
+    "answer": "古剑奇谭",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 231,
+    "question": [
+      "1f30a",
+      "2b06",
+      "1f441-200d-1f5e8",
+      "1f32b",
+      "2714"
+    ],
+    "answer": "海上牧云记",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 232,
+    "question": [
+      "1f3ee",
+      "1f3ef",
+      "1f55b",
+      "1f552",
+      "1f558",
+      "1f55b"
+    ],
+    "answer": "长安十二时辰",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 233,
+    "question": [
+      "1f47c",
+      "1f426",
+      "1f364",
+      "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc"
+    ],
+    "answer": "神雕侠侣",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 234,
+    "question": [
+      "1f30a",
+      "1f6cc",
+      "1f46c-1f3fb"
+    ],
+    "answer": "嗨室友",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 235,
+    "question": [
+      "1f30a",
+      "1f41f",
+      "1f41a",
+      "1f42c",
+      "1f433"
+    ],
+    "answer": "海底总动员",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 236,
+    "question": [
+      "1f3e0",
+      "1f388",
+      "1f6e9",
+      "1f5fa"
+    ],
+    "answer": "飞屋环游记",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 237,
+    "question": [
+      "1f463",
+      "1f460",
+      "1f457",
+      "1f380",
+      "1f478-1f3fc"
+    ],
+    "answer": "灰姑娘",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 238,
+    "question": [
+      "31-20e3",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f938-1f3fb-200d-2642-fe0f",
+      "1f4a7"
+    ],
+    "answer": "一站到底",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 239,
+    "question": [
+      "1f46a",
+      "1f3a4",
+      "33-20e3",
+      "30-20e3",
+      "30-20e3"
+    ],
+    "answer": "合唱吧三百",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 240,
+    "question": [
+      "1f90f-1f3fc",
+      "1f600",
+      "1f601"
+    ],
+    "answer": "小欢喜",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 241,
+    "question": [
+      "1f4a8",
+      "1f32b"
+    ],
+    "answer": "风云",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 242,
+    "question": [
+      "1f3de",
+      "1f607"
+    ],
+    "answer": "河神",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 243,
+    "question": [
+      "1f64b-1f3fb-200d-2642-fe0f",
+      "1f5e3",
+      "1f455",
+      "1f377",
+      "38-20e3",
+      "38-20e3"
+    ],
+    "answer": "请回答1988",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 244,
+    "question": [
+      "1f3a4",
+      "1f483-1f3fb",
+      "1f7e2",
+      "1f331"
+    ],
+    "answer": "歌舞青春",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 245,
+    "question": [
+      "1f64b",
+      "34-20e3",
+      "1f3a4",
+      "1f590-1f3fc"
+    ],
+    "answer": "我是歌手",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 246,
+    "question": [
+      "1f4fc",
+      "1f57a",
+      "1f30c"
+    ],
+    "answer": "银河护卫队",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 247,
+    "question": [
+      "1f468-1f3fb",
+      "1f3c3",
+      "27a1",
+      "2753"
+    ],
+    "answer": "爸爸去哪儿",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 248,
+    "question": [
+      "1f7e2",
+      "1f331",
+      "2b55",
+      "1f3ca",
+      "1f413"
+    ],
+    "answer": "青春环游记",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 249,
+    "question": [
+      "1f930-1f3fb",
+      "1f476-1f3fc",
+      "1f9d2-1f3fb",
+      "1f468-1f3fb"
+    ],
+    "answer": "一路成年",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 250,
+    "question": [
+      "1f5dd",
+      "1f3e0",
+      "1f449-1f3fc",
+      "1f3c3"
+    ],
+    "answer": "密室大逃脱",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 251,
+    "question": [
+      "1f631",
+      "a8e1g23585266356855",
+      "1f430",
+      "2b55"
+    ],
+    "answer": "疯狂动物园",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 252,
+    "question": [
+      "37-20e3",
+      "1f9ca",
+      "1f47c-1f3fb",
+      "1f415-200d-1f9ba"
+    ],
+    "answer": "奇兵神犬",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 253,
+    "question": [
+      "1f338",
+      "1f41f",
+      "1f466-1f3fb"
+    ],
+    "answer": "花儿与少年",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 254,
+    "question": [
+      "1f004",
+      "1f415-200d-1f9ba",
+      "1f3b1",
+      "1f474-1f3fb"
+    ],
+    "answer": "忠犬八公",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 255,
+    "question": [
+      "1f1e6",
+      "1f35a",
+      "1f4e1"
+    ],
+    "answer": "阿凡达",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 256,
+    "question": [
+      "1f409",
+      "1f408"
+    ],
+    "answer": "龙猫",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 257,
+    "question": [
+      "1f483-1f3fb",
+      "1f485-1f3fb",
+      "1f444",
+      "1f490"
+    ],
+    "answer": "美丽人生",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 258,
+    "question": [
+      "1f938-1f3fb-200d-2642-fe0f",
+      "1f44d-1f3fc",
+      "1f476-1f3fc",
+      "1f468-200d-1f468-200d-1f466-200d-1f466"
+    ],
+    "answer": "高能少年团",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 259,
+    "question": [
+      "1f3c5",
+      "1f5e3",
+      "1f469-200d-2764-fe0f-200d-1f468"
+    ],
+    "answer": "金牌调解",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 260,
+    "question": [
+      "1f455",
+      "1f32b",
+      "2694",
+      "1f409",
+      "1f425"
+    ],
+    "answer": "倚天屠龙记",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 261,
+    "question": [
+      "1f41c",
+      "1f46a",
+      "1f9c0",
+      "1f5e3"
+    ],
+    "answer": "以团之名",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 262,
+    "question": [
+      "1f602",
+      "1f631",
+      "1f3de"
+    ],
+    "answer": "笑傲江湖",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 263,
+    "question": [
+      "1f449-1f3fc",
+      "1f31f",
+      "1f31f",
+      "1f47d"
+    ],
+    "answer": "来自星星的你",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 264,
+    "question": [
+      "1f30a",
+      "1f6a2",
+      "1f5e3"
+    ],
+    "answer": "蓝色大海的传说",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 265,
+    "question": [
+      "1f60c",
+      "1f61d",
+      "1f607"
+    ],
+    "answer": "孤单又灿烂的神",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 266,
+    "question": [
+      "1f3a4",
+      "1f449-1f3fc",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f498"
+    ],
+    "answer": "声入人心",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 267,
+    "question": [
+      "33-20e3",
+      "1f930-1f3fb",
+      "33-20e3",
+      "1f345",
+      "1f338"
+    ],
+    "answer": "三生三世十里桃花",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 268,
+    "question": [
+      "chufa",
+      "1f309",
+      "1f48e"
+    ],
+    "answer": "楚乔传",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 269,
+    "question": [
+      "1f483-1f3fb",
+      "2b55",
+      "1f4de",
+      "1f48e"
+    ],
+    "answer": "武林外传",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 270,
+    "question": [
+      "1f468-1f3fb-200d-1f9b2",
+      "1f435",
+      "1f437",
+      "1f434"
+    ],
+    "answer": "西游记",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 271,
+    "question": [
+      "1f43a",
+      "1f913",
+      "1f44d-1f3fc"
+    ],
+    "answer": "琅琊榜",
+    "explain": "影视综艺"
+  },
+  {
+    "level": 272,
+    "question": [
+      "1f409",
+      "1f91b-1f3fb"
+    ],
+    "answer": "龙拳",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 273,
+    "question": [
+      "1f7e2",
+      "1f4a1"
+    ],
+    "answer": "绿光",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 274,
+    "question": [
+      "1f442",
+      "1f469-200d-1f467",
+      "1f469-200d-1f467",
+      "1f4ac"
+    ],
+    "answer": "听妈妈的话",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 275,
+    "question": [
+      "1f36d",
+      "1f36f",
+      "1f36f"
+    ],
+    "answer": "甜蜜蜜",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 276,
+    "question": [
+      "1f33e",
+      "1f34c"
+    ],
+    "answer": "稻香",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 277,
+    "question": [
+      "1f645-1f3fb-200d-2642-fe0f",
+      "1f6ac"
+    ],
+    "answer": "戒烟",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 278,
+    "question": [
+      "1f440",
+      "1f443-1f3fb",
+      "1f444"
+    ],
+    "answer": "眼鼻嘴",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 279,
+    "question": [
+      "1f6b6",
+      "1f40e"
+    ],
+    "answer": "走马",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 280,
+    "question": [
+      "1f44b",
+      "1f369",
+      "1f95b",
+      "1f375",
+      "1f35c"
+    ],
+    "answer": "卡路里",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 281,
+    "question": [
+      "2603",
+      "1f431",
+      "1f5e3"
+    ],
+    "answer": "学猫叫",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 282,
+    "question": [
+      "1f412",
+      "1f44b",
+      "1f449-1f3fc"
+    ],
+    "answer": "好嗨哟",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 283,
+    "question": [
+      "1f64b-1f3fb-200d-2642-fe0f",
+      "1f463",
+      "1f463",
+      "1f463",
+      "1f463",
+      "1f440",
+      "1f30c"
+    ],
+    "answer": "星晴",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 284,
+    "question": [
+      "1f49f",
+      "1f47b",
+      "1f330",
+      "1f48e",
+      "2b55",
+      "2b55"
+    ],
+    "answer": "爱的魔力转圈圈",
+    "explain": "网络用语"
+  },
+  {
+    "level": 285,
+    "question": [
+      "1f338",
+      "1f525"
+    ],
+    "answer": "花火",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 286,
+    "question": [
+      "1f442",
+      "1f30a",
+      "1f602",
+      "1f5e3"
+    ],
+    "answer": "听海哭的声音",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 287,
+    "question": [
+      "26ab",
+      "2b07",
+      "31-20e3",
+      "1f550",
+      "1f418",
+      "1f449-1f3fc",
+      "1f3c3"
+    ],
+    "answer": "嘿下一秒向你靠近",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 288,
+    "question": [
+      "梨",
+      "1f4a5",
+      "26f0",
+      "1f50d"
+    ],
+    "answer": "理想三旬",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 289,
+    "question": [
+      "1f469-1f3fb",
+      "1f440",
+      "1f601"
+    ],
+    "answer": "当你",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 290,
+    "question": [
+      "31-20e3",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "27a1",
+      "1f5fc"
+    ],
+    "answer": "一个人去巴黎",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 291,
+    "question": [
+      "1f43a",
+      "1f319",
+      "1f478-1f3fc",
+      "1f637"
+    ],
+    "answer": "发如雪",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 292,
+    "question": [
+      "1f642",
+      "1f48a",
+      "31-20e3",
+      "1f45f",
+      "31-20e3",
+      "1f45f",
+      "2197",
+      "1f3c3"
+    ],
+    "answer": "蜗牛",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 293,
+    "question": [
+      "1f418",
+      "31-20e3",
+      "1f30a",
+      "1f331",
+      "1f30a",
+      "1f331"
+    ],
+    "answer": "海草海草",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 294,
+    "question": [
+      "1f448-1f3fc",
+      "1f468-1f3fb-200d-1f9b1",
+      "1f409",
+      "1f449-1f3fc",
+      "1f468-1f3fb-200d-1f9b1",
+      "1f308"
+    ],
+    "answer": "野狼迪斯科",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 295,
+    "question": [
+      "1f469-200d-2764-fe0f-200d-1f468",
+      "1f645",
+      "1f483-1f3fb"
+    ],
+    "answer": "谈恋爱不如跳舞",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 296,
+    "question": [
+      "2b55",
+      "2b55",
+      "1f534",
+      "1f534",
+      "2b55",
+      "2b55"
+    ],
+    "answer": "江南",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 297,
+    "question": [
+      "1f32a",
+      "1f32c",
+      "1f327",
+      "1f338",
+      "1f552",
+      "1f44b",
+      "1f40e"
+    ],
+    "answer": "时间煮雨",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 298,
+    "question": [
+      "2b06",
+      "2b07",
+      "2b06",
+      "2b06",
+      "2b07"
+    ],
+    "answer": "上下",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 299,
+    "question": [
+      "1f5fb",
+      "2b07"
+    ],
+    "answer": "富士山下",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 300,
+    "question": [
+      "1f534",
+      "1f339"
+    ],
+    "answer": "红玫瑰",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 301,
+    "question": [
+      "1f6ab",
+      "1f5e3",
+      "1f36f",
+      "1f36f"
+    ],
+    "answer": "不能说的秘密",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 302,
+    "question": [
+      "1f447-1f3fc",
+      "26f0",
+      "1f447-1f3fc",
+      "1f446-1f3fc",
+      "1f30a",
+      "1f446-1f3fc"
+    ],
+    "answer": "南山南",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 303,
+    "question": [
+      "1f5bc",
+      "1f426",
+      "26a1",
+      "1f9f6",
+      "1f68f",
+      "1f5e3"
+    ],
+    "answer": "七里香",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 304,
+    "question": [
+      "1f98b",
+      "1f98b"
+    ],
+    "answer": "两只蝴蝶",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 305,
+    "question": [
+      "1f5e3",
+      "1f3c3",
+      "1f377",
+      "1f3c3"
+    ],
+    "answer": "说散就散",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 306,
+    "question": [
+      "1f469-200d-2764-fe0f-200d-1f468",
+      "1f474-1f3fb"
+    ],
+    "answer": "爱情宗师",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 307,
+    "question": [
+      "1f493",
+      "1f601",
+      "1f440"
+    ],
+    "answer": "爱笑的眼睛",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 308,
+    "question": [
+      "1f3c3",
+      "1f4ab",
+      "1f9cd-1f3fb-200d-2642-fe0f"
+    ],
+    "answer": "追光者",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 309,
+    "question": [
+      "1f635",
+      "1f420"
+    ],
+    "answer": "失忆的金鱼",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 310,
+    "question": [
+      "1f303",
+      "27a1",
+      "1f307"
+    ],
+    "answer": "天亮了",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 311,
+    "question": [
+      "1f338",
+      "1f338",
+      "1f5fa"
+    ],
+    "answer": "花花世界",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 312,
+    "question": [
+      "1f645-1f3fb-200d-2642-fe0f",
+      "1f5e3"
+    ],
+    "answer": "不要说话",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 313,
+    "question": [
+      "1f5e3",
+      "1f44c-1f3fb",
+      "1f44b",
+      "1f62d"
+    ],
+    "answer": "说好不哭",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 314,
+    "question": [
+      "1f48c",
+      "1f388"
+    ],
+    "answer": "告白气球",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 315,
+    "question": [
+      "1f6a3",
+      "1f418",
+      "1f446-1f3fc"
+    ],
+    "answer": "飘向北方",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 316,
+    "question": [
+      "1f90f-1f3fc",
+      "1f483-1f3fb",
+      "1f438"
+    ],
+    "answer": "小跳蛙",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 317,
+    "question": [
+      "39-20e3",
+      "39-20e3",
+      "38-20e3",
+      "31-20e3"
+    ],
+    "answer": "九九八十一",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 318,
+    "question": [
+      "1f3c7",
+      "1f64b",
+      "1f493",
+      "1f3cd"
+    ],
+    "answer": "小摩托",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 319,
+    "question": [
+      "2b05",
+      "1f590-1f3fc",
+      "1f446-1f3fc",
+      "1f319"
+    ],
+    "answer": "左手指月",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 320,
+    "question": [
+      "26ab",
+      "1f6e3",
+      "1f32a",
+      "1f338"
+    ],
+    "answer": "末路狂花",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 321,
+    "question": [
+      "1000",
+      "1f552",
+      "1f449-1f3fc"
+    ],
+    "answer": "一千年以后",
+    "explain": "歌曲歌词"
+  },
+  {
+    "level": 322,
+    "question": [
+      "1f64b-1f3fb-200d-2642-fe0f",
+      "1f6eb"
+    ],
+    "answer": "南非",
+    "explain": "国家城市"
+  },
+  {
+    "level": 323,
+    "question": [
+      "1f3b1",
+      "1f349"
+    ],
+    "answer": "巴西",
+    "explain": "国家城市"
+  },
+  {
+    "level": 324,
+    "question": [
+      "2601",
+      "1f383"
+    ],
+    "answer": "云南",
+    "explain": "国家城市"
+  },
+  {
+    "level": 325,
+    "question": [
+      "1f319",
+      "1f64b-1f3fb-200d-2642-fe0f"
+    ],
+    "answer": "越南",
+    "explain": "国家城市"
+  },
+  {
+    "level": 326,
+    "question": [
+      "1f349",
+      "1f382"
+    ],
+    "answer": "希腊",
+    "explain": "国家城市"
+  },
+  {
+    "level": 327,
+    "question": [
+      "1f4ab",
+      "1f349",
+      "1f3c0"
+    ],
+    "answer": "新西兰",
+    "explain": "国家城市"
+  },
+  {
+    "level": 328,
+    "question": [
+      "1f446-1f3fc",
+      "1f63b",
+      "1f689"
+    ],
+    "answer": "以色列",
+    "explain": "国家城市"
+  },
+  {
+    "level": 329,
+    "question": [
+      "1f1e6",
+      "1f4b0",
+      "1f5e3"
+    ],
+    "answer": "阿富汗",
+    "explain": "国家城市"
+  },
+  {
+    "level": 330,
+    "question": [
+      "1f40e",
+      "1f37c",
+      "1f349",
+      "1f631"
+    ],
+    "answer": "马来西亚",
+    "explain": "国家城市"
+  },
+  {
+    "level": 331,
+    "question": [
+      "1f512",
+      "1f434",
+      "1f350"
+    ],
+    "answer": "索马里",
+    "explain": "国家城市"
+  },
+  {
+    "level": 332,
+    "question": [
+      "1f35c",
+      "1f4a1"
+    ],
+    "answer": "缅甸",
+    "explain": "国家城市"
+  },
+  {
+    "level": 333,
+    "question": [
+      "1f304",
+      "1f416"
+    ],
+    "answer": "日本",
+    "explain": "国家城市"
+  },
+  {
+    "level": 334,
+    "question": [
+      "1f304",
+      "1f33a"
+    ],
+    "answer": "朝鲜",
+    "explain": "国家城市"
+  },
+  {
+    "level": 335,
+    "question": [
+      "1f430",
+      "1f430",
+      "1f6a9"
+    ],
+    "answer": "土耳其",
+    "explain": "国家城市"
+  },
+  {
+    "level": 336,
+    "question": [
+      "1f62e",
+      "1f6aa"
+    ],
+    "answer": "澳门",
+    "explain": "国家城市"
+  },
+  {
+    "level": 337,
+    "question": [
+      "1f3b1",
+      "1f350"
+    ],
+    "answer": "巴黎",
+    "explain": "国家城市"
+  },
+  {
+    "level": 338,
+    "question": [
+      "1f232",
+      "1f46b-1f3fd",
+      "1f532"
+    ],
+    "answer": "布拉格",
+    "explain": "国家城市"
+  },
+  {
+    "level": 339,
+    "question": [
+      "1f42a",
+      "1f434"
+    ],
+    "answer": "罗马",
+    "explain": "国家城市"
+  },
+  {
+    "level": 340,
+    "question": [
+      "1f328",
+      "1f433"
+    ],
+    "answer": "东京",
+    "explain": "国家城市"
+  },
+  {
+    "level": 341,
+    "question": [
+      "1f6f3",
+      "1f4a1"
+    ],
+    "answer": "伦敦",
+    "explain": "国家城市"
+  },
+  {
+    "level": 342,
+    "question": [
+      "1f51d",
+      "1f30a"
+    ],
+    "answer": "上海",
+    "explain": "国家城市"
+  },
+  {
+    "level": 343,
+    "question": [
+      "1f40c",
+      "1f44f-1f3fc"
+    ],
+    "answer": "曼谷",
+    "explain": "国家城市"
+  },
+  {
+    "level": 344,
+    "question": [
+      "1f232",
+      "1f3b5",
+      "1f622"
+    ],
+    "answer": "吴哥窟",
+    "explain": "国家城市"
+  },
+  {
+    "level": 345,
+    "question": [
+      "1f919-1f3fc",
+      "1f552",
+      "1f425"
+    ],
+    "answer": "洛杉矶",
+    "explain": "国家城市"
+  },
+  {
+    "level": 346,
+    "question": [
+      "1f377",
+      "1f433",
+      "1f304"
+    ],
+    "answer": "旧金山",
+    "explain": "国家城市"
+  },
+  {
+    "level": 347,
+    "question": [
+      "1f913",
+      "26a1"
+    ],
+    "answer": "雅典",
+    "explain": "国家城市"
+  },
+  {
+    "level": 348,
+    "question": [
+      "26ab",
+      "1f442",
+      "1f5d2"
+    ],
+    "answer": "墨尔本",
+    "explain": "国家城市"
+  },
+  {
+    "level": 349,
+    "question": [
+      "1f618",
+      "1f3b5",
+      "1f339"
+    ],
+    "answer": "温哥华",
+    "explain": "国家城市"
+  },
+  {
+    "level": 350,
+    "question": [
+      "1f403",
+      "1f319"
+    ],
+    "answer": "纽约",
+    "explain": "国家城市"
+  },
+  {
+    "level": 351,
+    "question": [
+      "1f4b3",
+      "1f5e1",
+      "1f645",
+      "1f535",
+      "1f4b3"
+    ],
+    "answer": "卡萨布兰卡",
+    "explain": "国家城市"
+  },
+  {
+    "level": 352,
+    "question": [
+      "1f343",
+      "1f6e3",
+      "1f5e1",
+      "1f328"
+    ],
+    "answer": "耶路撒冷",
+    "explain": "国家城市"
+  },
+  {
+    "level": 353,
+    "question": [
+      "1f405",
+      "1f483-1f3fb",
+      "2314xia"
+    ],
+    "answer": "虎跳峡",
+    "explain": "国家城市"
+  },
+  {
+    "level": 354,
+    "question": [
+      "1f418",
+      "1f3e4",
+      "1f350",
+      "1f910"
+    ],
+    "answer": "香格里拉",
+    "explain": "国家城市"
+  },
+  {
+    "level": 355,
+    "question": [
+      "1f41f",
+      "1f3ee",
+      "1f5fb"
+    ],
+    "answer": "玉龙雪山",
+    "explain": "国家城市"
+  },
+  {
+    "level": 356,
+    "question": [
+      "1f53c",
+      "1f40b"
+    ],
+    "answer": "北京",
+    "explain": "国家城市"
+  },
+  {
+    "level": 357,
+    "question": [
+      "1f34a",
+      "1f250"
+    ],
+    "answer": "承德",
+    "explain": "国家城市"
+  },
+  {
+    "level": 358,
+    "question": [
+      "1f3bc",
+      "1f442"
+    ],
+    "answer": "普洱",
+    "explain": "国家城市"
+  },
+  {
+    "level": 359,
+    "question": [
+      "1f238",
+      "1f411"
+    ],
+    "answer": "沈阳",
+    "explain": "国家城市"
+  },
+  {
+    "level": 360,
+    "question": [
+      "1f21a",
+      "1f349"
+    ],
+    "answer": "无锡",
+    "explain": "国家城市"
+  },
+  {
+    "level": 361,
+    "question": [
+      "1f3fb",
+      "1f6b6"
+    ],
+    "answer": "郑州",
+    "explain": "国家城市"
+  },
+  {
+    "level": 362,
+    "question": [
+      "1f195",
+      "1f3de"
+    ],
+    "answer": "新疆",
+    "explain": "国家城市"
+  },
+  {
+    "level": 363,
+    "question": [
+      "1f1f0",
+      "1f32a"
+    ],
+    "answer": "开封",
+    "explain": "国家城市"
+  },
+  {
+    "level": 364,
+    "question": [
+      "1f425",
+      "1f384"
+    ],
+    "answer": "吉林",
+    "explain": "国家城市"
+  },
+  {
+    "level": 365,
+    "question": [
+      "1f3d1",
+      "1f4da"
+    ],
+    "answer": "甘肃",
+    "explain": "国家城市"
+  },
+  {
+    "level": 366,
+    "question": [
+      "1f5fb",
+      "1f328"
+    ],
+    "answer": "山东",
+    "explain": "国家城市"
+  },
+  {
+    "level": 367,
+    "question": [
+      "1f505",
+      "1f4f7"
+    ],
+    "answer": "日照",
+    "explain": "国家城市"
+  },
+  {
+    "level": 368,
+    "question": [
+      "1f505",
+      "1f518"
+    ],
+    "answer": "太原",
+    "explain": "国家城市"
+  },
+  {
+    "level": 369,
+    "question": [
+      "1f43d",
+      "1f30a"
+    ],
+    "answer": "珠海",
+    "explain": "国家城市"
+  },
+  {
+    "level": 370,
+    "question": [
+      "1f6f3",
+      "1f6f6"
+    ],
+    "answer": "杭州",
+    "explain": "国家城市"
+  },
+  {
+    "level": 371,
+    "question": [
+      "1f3de",
+      "1f349"
+    ],
+    "answer": "江西",
+    "explain": "国家城市"
+  },
+  {
+    "level": 372,
+    "question": [
+      "1f3ee",
+      "1f4aa-1f3fc"
+    ],
+    "answer": "福建",
+    "explain": "国家城市"
+  },
+  {
+    "level": 373,
+    "question": [
+      "1f4ad",
+      "1f3c0"
+    ],
+    "answer": "云南",
+    "explain": "国家城市"
+  },
+  {
+    "level": 374,
+    "question": [
+      "1f55b",
+      "jiandao",
+      "1f4a9"
+    ],
+    "answer": "时间简史",
+    "explain": "名著小说"
+  },
+  {
+    "level": 375,
+    "question": [
+      "1f47b",
+      "1f32c",
+      "1f4a1"
+    ],
+    "answer": "鬼吹灯",
+    "explain": "名著小说"
+  },
+  {
+    "level": 376,
+    "question": [
+      "1f307",
+      "1f303",
+      "1f6b6"
+    ],
+    "answer": "白夜行",
+    "explain": "名著小说"
+  },
+  {
+    "level": 377,
+    "question": [
+      "1f43d",
+      "1f47c"
+    ],
+    "answer": "诛仙",
+    "explain": "名著小说"
+  },
+  {
+    "level": 378,
+    "question": [
+      "1f30a",
+      "32-20e3",
+      "1000",
+      "1f350"
+    ],
+    "answer": "海底两万里",
+    "explain": "名著小说"
+  },
+  {
+    "level": 379,
+    "question": [
+      "1f90f-1f3fc",
+      "1f451",
+      "1f476-1f3fc"
+    ],
+    "answer": "小王子",
+    "explain": "名著小说"
+  },
+  {
+    "level": 380,
+    "question": [
+      "1f329",
+      "1f327"
+    ],
+    "answer": "雷雨",
+    "explain": "名著小说"
+  },
+  {
+    "level": 381,
+    "question": [
+      "1f416",
+      "1f416",
+      "1f437",
+      "1f416",
+      "1f416"
+    ],
+    "answer": "一只特立独行的猪",
+    "explain": "名著小说"
+  },
+  {
+    "level": 382,
+    "question": [
+      "1f44b",
+      "1f6e3",
+      "2b55"
+    ],
+    "answer": "白鹿原",
+    "explain": "名著小说"
+  },
+  {
+    "level": 383,
+    "question": [
+      "1f534",
+      "1f327",
+      "1f533"
+    ],
+    "answer": "红与黑",
+    "explain": "名著小说"
+  },
+  {
+    "level": 384,
+    "question": [
+      "1000",
+      "1f518",
+      "1f1ee",
+      "1f303"
+    ],
+    "answer": "一千零一夜",
+    "explain": "名著小说"
+  },
+  {
+    "level": 385,
+    "question": [
+      "1f1f9",
+      "1f1f9",
+      "1f1f9"
+    ],
+    "answer": "三体",
+    "explain": "名著小说"
+  },
+  {
+    "level": 386,
+    "question": [
+      "1f4b0",
+      "1f550"
+    ],
+    "answer": "黄金时代",
+    "explain": "名著小说"
+  },
+  {
+    "level": 387,
+    "question": [
+      "1f61a",
+      "1f34a",
+      "1f449-1f3fc",
+      "1f48f"
+    ],
+    "answer": "倾城之恋",
+    "explain": "名著小说"
+  },
+  {
+    "level": 388,
+    "question": [
+      "1f6eb",
+      "1f426",
+      "1f3b8"
+    ],
+    "answer": "飞鸟集",
+    "explain": "名著小说"
+  },
+  {
+    "level": 389,
+    "question": [
+      "1f643",
+      "1f327",
+      "1f612"
+    ],
+    "answer": "傲慢与偏见",
+    "explain": "名著小说"
+  },
+  {
+    "level": 390,
+    "question": [
+      "1f441",
+      "1f31e",
+      "1f31e",
+      "1f31e"
+    ],
+    "answer": "假如给我三天光明",
+    "explain": "名著小说"
+  },
+  {
+    "level": 391,
+    "question": [
+      "1f3c5",
+      "1f512",
+      "1f3b8"
+    ],
+    "answer": "金锁记",
+    "explain": "名著小说"
+  },
+  {
+    "level": 392,
+    "question": [
+      "1f1ff",
+      "1f31e",
+      "1f3b8"
+    ],
+    "answer": "择天记",
+    "explain": "名著小说"
+  },
+  {
+    "level": 393,
+    "question": [
+      "1f004",
+      "1f30c"
+    ],
+    "answer": "将夜",
+    "explain": "名著小说"
+  },
+  {
+    "level": 394,
+    "question": [
+      "1f44d-1f3fc",
+      "1f55a",
+      "1f44e-1f3fc",
+      "1f55a"
+    ],
+    "answer": "双城记",
+    "explain": "名著小说"
+  },
+  {
+    "level": 395,
+    "question": [
+      "1f6cc",
+      "1f62a",
+      "1f449-1f3fc",
+      "1f41e"
+    ],
+    "answer": "变形记",
+    "explain": "名著小说"
+  },
+  {
+    "level": 396,
+    "question": [
+      "1f90f-1f3fc",
+      "1f350",
+      "1f5e1",
+      "1f5e1"
+    ],
+    "answer": "小李飞刀",
+    "explain": "名著小说"
+  },
+  {
+    "level": 397,
+    "question": [
+      "1f427",
+      "1f48e"
+    ],
+    "answer": "腾讯传",
+    "explain": "名著小说"
+  },
+  {
+    "level": 398,
+    "question": [
+      "1f6f6",
+      "1f57a"
+    ],
+    "answer": "摆渡人",
+    "explain": "名著小说"
+  },
+  {
+    "level": 399,
+    "question": [
+      "1f46a"
+    ],
+    "answer": "我们仨",
+    "explain": "名著小说"
+  },
+  {
+    "level": 400,
+    "question": [
+      "1f44d-1f3fc",
+      "1f4b0",
+      "1f4b0",
+      "1f4b0",
+      "1f574"
+    ],
+    "answer": "了不起的盖茨比",
+    "explain": "名著小说"
+  },
+  {
+    "level": 401,
+    "question": [
+      "1f4af",
+      "1f3ee",
+      "1f615"
+    ],
+    "answer": "百年孤独",
+    "explain": "名著小说"
+  },
+  {
+    "level": 402,
+    "question": [
+      "1f1fd",
+      "1f46e-1f3fb",
+      "1f64c-1f3fb"
+    ],
+    "answer": "嫌疑人X的献身",
+    "explain": "名著小说"
+  },
+  {
+    "level": 403,
+    "question": [
+      "1f4b0",
+      "1f468-1f3fb",
+      "1f645",
+      "1f4b0",
+      "1f468-1f3fb"
+    ],
+    "answer": "富爸爸穷爸爸",
+    "explain": "名著小说"
+  },
+  {
+    "level": 404,
+    "question": [
+      "1f42a",
+      "1f4e6"
+    ],
+    "answer": "骆驼祥子",
+    "explain": "名著小说"
+  },
+  {
+    "level": 405,
+    "question": [
+      "1f3e0",
+      "1f375"
+    ],
+    "answer": "茶馆",
+    "explain": "名著小说"
+  },
+  {
+    "level": 406,
+    "question": [
+      "1f476-1f3fc",
+      "1f431",
+      "1f431",
+      "1f431",
+      "1f402",
+      "1f30a",
+      "2714"
+    ],
+    "answer": "三毛流浪记",
+    "explain": "名著小说"
+  },
+  {
+    "level": 407,
+    "question": [
+      "jiandao",
+      "1f493"
+    ],
+    "answer": "简爱",
+    "explain": "名著小说"
+  },
+  {
+    "level": 408,
+    "question": [
+      "1f375",
+      "1f338",
+      "1f483-1f3fb"
+    ],
+    "answer": "茶花女",
+    "explain": "名著小说"
+  },
+  {
+    "level": 409,
+    "question": [
+      "1f631"
+    ],
+    "answer": "呐喊",
+    "explain": "名著小说"
+  },
+  {
+    "level": 410,
+    "question": [
+      "1f304",
+      "1f33a",
+      "1f306",
+      "1f51f"
+    ],
+    "answer": "朝花夕拾",
+    "explain": "名著小说"
+  },
+  {
+    "level": 411,
+    "question": [
+      "1f468-1f3fb",
+      "1f451",
+      "1f4ce",
+      "1f424"
+    ],
+    "answer": "霸王别姬",
+    "explain": "名著小说"
+  },
+  {
+    "level": 412,
+    "question": [
+      "1f4cf",
+      "1f60f",
+      "1f3b6"
+    ],
+    "answer": "长恨歌",
+    "explain": "名著小说"
+  },
+  {
+    "level": 413,
+    "question": [
+      "1f4de",
+      "1f34a"
+    ],
+    "answer": "围城",
+    "explain": "名著小说"
+  },
+  {
+    "level": 414,
+    "question": [
+      "1f4a8"
+    ],
+    "answer": "飘",
+    "explain": "名著小说"
+  },
+  {
+    "level": 415,
+    "question": [
+      "1f612",
+      "1f610",
+      "1f610",
+      "1f610"
+    ],
+    "answer": "沉默的大多数",
+    "explain": "名著小说"
+  },
+  {
+    "level": 416,
+    "question": [
+      "1f62d",
+      "1f62d",
+      "1f30f"
+    ],
+    "answer": "悲惨世界",
+    "explain": "名著小说"
+  },
+  {
+    "level": 417,
+    "question": [
+      "1f4d2",
+      "1f33e",
+      "1f3b9",
+      "1f440"
+    ],
+    "answer": "本草纲目",
+    "explain": "名著小说"
+  },
+  {
+    "level": 418,
+    "question": [
+      "1f468-1f3ff-200d-1f9b1",
+      "1f3e0"
+    ],
+    "answer": "汤姆叔叔的小屋",
+    "explain": "名著小说"
+  },
+  {
+    "level": 419,
+    "question": [
+      "1f5fb",
+      "1f6a4",
+      "1f40b"
+    ],
+    "answer": "山海经",
+    "explain": "名著小说"
+  },
+  {
+    "level": 420,
+    "question": [
+      "1f44b",
+      "1f52b"
+    ],
+    "answer": "永别了武器",
+    "explain": "名著小说"
+  },
+  {
+    "level": 421,
+    "question": [
+      "1f3c3",
+      "fengz"
+    ],
+    "answer": "追风筝的人",
+    "explain": "名著小说"
+  },
+  {
+    "level": 422,
+    "question": [
+      "1f474-1f3fb",
+      "1f468-1f3fb",
+      "1f468-1f3fb-200d-1f9b1",
+      "1f476-1f3fc"
+    ],
+    "answer": "四世同堂",
+    "explain": "名著小说"
+  },
+  {
+    "level": 423,
+    "question": [
+      "1f32c",
+      "1f31d",
+      "1f3f0"
+    ],
+    "answer": "呼啸山庄",
+    "explain": "名著小说"
+  },
+  {
+    "level": 424,
+    "question": [
+      "1f44b",
+      "1f40b"
+    ],
+    "answer": "白鲸",
+    "explain": "名著小说"
+  },
+  {
+    "level": 425,
+    "question": [
+      "1f637",
+      "1f489",
+      "1f491"
+    ],
+    "answer": "霍乱时期的爱情",
+    "explain": "名著小说"
+  },
+  {
+    "level": 426,
+    "question": [
+      "1f427",
+      "1f427",
+      "1f98b",
+      "1f697"
+    ],
+    "answer": "QQ飞车",
+    "explain": "游戏"
+  },
+  {
+    "level": 427,
+    "question": [
+      "1f3b9",
+      "1f963",
+      "1f7e6",
+      "1f319"
+    ],
+    "answer": "贪玩蓝月",
+    "explain": "游戏"
+  },
+  {
+    "level": 428,
+    "question": [
+      "1f4aa-1f3fc",
+      "2694",
+      "1f955"
+    ],
+    "answer": "保卫萝卜",
+    "explain": "游戏"
+  },
+  {
+    "level": 429,
+    "question": [
+      "1f91b-1f3fb",
+      "1f9b8-1f3fb-200d-2642-fe0f"
+    ],
+    "answer": "一拳超人",
+    "explain": "游戏"
+  },
+  {
+    "level": 430,
+    "question": [
+      "1f600",
+      "1f004"
+    ],
+    "answer": "欢乐麻将",
+    "explain": "游戏"
+  },
+  {
+    "level": 431,
+    "question": [
+      "1f431",
+      "1f439"
+    ],
+    "answer": "猫和老鼠",
+    "explain": "游戏"
+  },
+  {
+    "level": 432,
+    "question": [
+      "1f621",
+      "1f426"
+    ],
+    "answer": "愤怒的小鸟",
+    "explain": "游戏"
+  },
+  {
+    "level": 433,
+    "question": [
+      "1f3b5",
+      "1f3b9",
+      "1f9d9-1f3fb"
+    ],
+    "answer": "节奏大师",
+    "explain": "游戏"
+  },
+  {
+    "level": 434,
+    "question": [
+      "1f6f3",
+      "1f319",
+      "1f525",
+      "1f9f6"
+    ],
+    "answer": "穿越火线",
+    "explain": "游戏"
+  },
+  {
+    "level": 435,
+    "question": [
+      "1f4a7",
+      "35-20e3",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f4cf"
+    ],
+    "answer": "第五人格",
+    "explain": "游戏"
+  },
+  {
+    "level": 436,
+    "question": [
+      "1f601",
+      "1f61c",
+      "1f92a",
+      "1f472-1f3fc"
+    ],
+    "answer": "欢乐斗地主",
+    "explain": "游戏"
+  },
+  {
+    "level": 437,
+    "question": [
+      "1f98c",
+      "26f0",
+      "26f4",
+      "1f5e3"
+    ],
+    "answer": "炉石传说",
+    "explain": "游戏"
+  },
+  {
+    "level": 438,
+    "question": [
+      "33-20e3",
+      "1f34e",
+      "1f52a"
+    ],
+    "answer": "三国杀",
+    "explain": "游戏"
+  },
+  {
+    "level": 439,
+    "question": [
+      "1f9d9-1f3fb",
+      "1f99b",
+      "1f5fa"
+    ],
+    "answer": "魔兽世界",
+    "explain": "游戏"
+  },
+  {
+    "level": 440,
+    "question": [
+      "1f303",
+      "1f52a",
+      "1f413"
+    ],
+    "answer": "黎明杀机",
+    "explain": "游戏"
+  },
+  {
+    "level": 441,
+    "question": [
+      "1f354",
+      "1f355",
+      "1f356",
+      "1f40d"
+    ],
+    "answer": "贪吃蛇",
+    "explain": "游戏"
+  },
+  {
+    "level": 442,
+    "question": [
+      "1f31a",
+      "1f31d",
+      "lion"
+    ],
+    "answer": "阴阳师",
+    "explain": "游戏"
+  },
+  {
+    "level": 443,
+    "question": [
+      "1f34e",
+      "1f34c",
+      "1f34d",
+      "1f52a"
+    ],
+    "answer": "水果忍者",
+    "explain": "游戏"
+  },
+  {
+    "level": 444,
+    "question": [
+      "1f469-200d-2764-fe0f-200d-1f468",
+      "1f327",
+      "1f933-1f3fc",
+      "1f466-1f3fb"
+    ],
+    "answer": "恋与制作人",
+    "explain": "游戏"
+  },
+  {
+    "level": 445,
+    "question": [
+      "1f427",
+      "1f427",
+      "1f300",
+      "1f483-1f3fb"
+    ],
+    "answer": "QQ炫舞",
+    "explain": "游戏"
+  },
+  {
+    "level": 446,
+    "question": [
+      "1f469-1f3fb",
+      "27a1",
+      "1f478-1f3fb"
+    ],
+    "answer": "奇迹暖暖",
+    "explain": "游戏"
+  },
+  {
+    "level": 447,
+    "question": [
+      "26f5",
+      "265f"
+    ],
+    "answer": "传奇",
+    "explain": "游戏"
+  },
+  {
+    "level": 448,
+    "question": [
+      "1f33b",
+      "2694",
+      "1f9df"
+    ],
+    "answer": "植物大战僵尸",
+    "explain": "游戏"
+  },
+  {
+    "level": 449,
+    "question": [
+      "1f577",
+      "1f0cf"
+    ],
+    "answer": "蜘蛛纸牌",
+    "explain": "游戏"
+  },
+  {
+    "level": 450,
+    "question": [
+      "1f9f9",
+      "1f4a3"
+    ],
+    "answer": "扫雷",
+    "explain": "游戏"
+  },
+  {
+    "level": 451,
+    "question": [
+      "1f3c2",
+      "1f9e2",
+      "1f573"
+    ],
+    "answer": "滑雪大冒险",
+    "explain": "游戏"
+  },
+  {
+    "level": 452,
+    "question": [
+      "2694",
+      "1f31f"
+    ],
+    "answer": "消灭星星",
+    "explain": "游戏"
+  },
+  {
+    "level": 453,
+    "question": [
+      "1f68a",
+      "1f3c3"
+    ],
+    "answer": "地铁跑酷",
+    "explain": "游戏"
+  },
+  {
+    "level": 454,
+    "question": [
+      "1f369",
+      "1f3ed"
+    ],
+    "answer": "甜甜圈工厂",
+    "explain": "游戏"
+  },
+  {
+    "level": 455,
+    "question": [
+      "1f32b",
+      "1f409",
+      "38-20e3",
+      "1f463"
+    ],
+    "answer": "天龙八部",
+    "explain": "游戏"
+  },
+  {
+    "level": 456,
+    "question": [
+      "1f32b",
+      "1f9b7",
+      "1f319",
+      "1f52a"
+    ],
+    "answer": "天涯明月刀",
+    "explain": "游戏"
+  },
+  {
+    "level": 457,
+    "question": [
+      "1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fb",
+      "27a1",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f469-1f3fb-200d-1f373"
+    ],
+    "answer": "分手厨房",
+    "explain": "游戏"
+  },
+  {
+    "level": 458,
+    "question": [
+      "1f930-1f3fb",
+      "1f338",
+      "1f4de",
+      "1f413"
+    ],
+    "answer": "生化危机",
+    "explain": "游戏"
+  },
+  {
+    "level": 459,
+    "question": [
+      "1f31f",
+      "1f413",
+      "1f5e3",
+      "1f44d-1f3fc"
+    ],
+    "answer": "星际争霸",
+    "explain": "游戏"
+  },
+  {
+    "level": 460,
+    "question": [
+      "1f469-1f3fb",
+      "1f4b0",
+      "1f9f6"
+    ],
+    "answer": "少女前线",
+    "explain": "游戏"
+  },
+  {
+    "level": 461,
+    "question": [
+      "1f3d8",
+      "1f3d7",
+      "1f4a4"
+    ],
+    "answer": "家国梦",
+    "explain": "游戏"
+  },
+  {
+    "level": 462,
+    "question": [
+      "1f451",
+      "1f934-1f3fc",
+      "1f3c6",
+      "1f31f"
+    ],
+    "answer": "王者荣耀",
+    "explain": "游戏"
+  },
+  {
+    "level": 463,
+    "question": [
+      "1f431",
+      "1f436",
+      "2694"
+    ],
+    "answer": "猫狗大战",
+    "explain": "游戏"
+  },
+  {
+    "level": 464,
+    "question": [
+      "1f3f9",
+      "26f5",
+      "1f5e3"
+    ],
+    "answer": "弓箭传说",
+    "explain": "游戏"
+  },
+  {
+    "level": 465,
+    "question": [
+      "1f3b5",
+      "1f5fa"
+    ],
+    "answer": "音乐世界",
+    "explain": "游戏"
+  },
+  {
+    "level": 466,
+    "question": [
+      "2694",
+      "1f30e"
+    ],
+    "answer": "守卫地球",
+    "explain": "游戏"
+  },
+  {
+    "level": 467,
+    "question": [
+      "1f606",
+      "1f468-1f3fb-200d-1f33e",
+      "1f402",
+      "1f410"
+    ],
+    "answer": "欢乐农场",
+    "explain": "游戏"
+  },
+  {
+    "level": 468,
+    "question": [
+      "1f95a",
+      "1f373",
+      "1f680",
+      "1f95a",
+      "1f4a3",
+      "1f373"
+    ],
+    "answer": "蛋蛋大乱斗",
+    "explain": "游戏"
+  },
+  {
+    "level": 469,
+    "question": [
+      "1f338",
+      "2694"
+    ],
+    "answer": "花与剑",
+    "explain": "游戏"
+  },
+  {
+    "level": 470,
+    "question": [
+      "31-20e3",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f9c0",
+      "2b07"
+    ],
+    "answer": "一人之下",
+    "explain": "游戏"
+  },
+  {
+    "level": 471,
+    "question": [
+      "26f9-1f3fb",
+      "1f3c0",
+      "1f44d-1f3fc",
+      "1f3c6"
+    ],
+    "answer": "灌篮高手",
+    "explain": "游戏"
+  },
+  {
+    "level": 472,
+    "question": [
+      "1f64b",
+      "1f5fa"
+    ],
+    "answer": "我的世界",
+    "explain": "游戏"
+  },
+  {
+    "level": 473,
+    "question": [
+      "1f934-1f3fc",
+      "2694"
+    ],
+    "answer": "皇室战争",
+    "explain": "游戏"
+  },
+  {
+    "level": 474,
+    "question": [
+      "2694",
+      "1f578",
+      "33-20e3"
+    ],
+    "answer": "剑网三",
+    "explain": "游戏"
+  },
+  {
+    "level": 475,
+    "question": [
+      "1f3a8",
+      "1f004",
+      "1f5fa"
+    ],
+    "answer": "画中世界",
+    "explain": "游戏"
+  },
+  {
+    "level": 476,
+    "question": [
+      "1f327",
+      "1f64d",
+      "1f21a",
+      "1f349"
+    ],
+    "answer": "雨女无瓜",
+    "explain": "网络用语"
+  },
+  {
+    "level": 477,
+    "question": [
+      "1f64b-1f3fb-200d-2642-fe0f",
+      "1f34b"
+    ],
+    "answer": "我酸了",
+    "explain": "网络用语"
+  },
+  {
+    "level": 478,
+    "question": [
+      "1f933-1f3fc",
+      "1f933-1f3fc",
+      "36-20e3",
+      "36-20e3",
+      "36-20e3"
+    ],
+    "answer": "双击六六六",
+    "explain": "网络用语"
+  },
+  {
+    "level": 479,
+    "question": [
+      "1f489",
+      "1f493",
+      "1f474-1f3fb",
+      "1f528"
+    ],
+    "answer": "扎心了老铁",
+    "explain": "网络用语"
+  },
+  {
+    "level": 480,
+    "question": [
+      "1f649",
+      "1f649",
+      "1f422",
+      "1f5e3"
+    ],
+    "answer": "不听不听王八念经",
+    "explain": "网络用语"
+  },
+  {
+    "level": 481,
+    "question": [
+      "1f4af",
+      "1f32b",
+      "1f58a",
+      "1f236",
+      "1f34e"
+    ],
+    "answer": "百因必有果",
+    "explain": "网络用语"
+  },
+  {
+    "level": 482,
+    "question": [
+      "1f35a",
+      "1f645-1f3fb-200d-2642-fe0f",
+      "27a1",
+      "1f35a",
+      "1f60d"
+    ],
+    "answer": "真香",
+    "explain": "网络用语"
+  },
+  {
+    "level": 483,
+    "question": [
+      "1f64b",
+      "1f31e",
+      "1f383",
+      "1f60a"
+    ],
+    "answer": "我太难了",
+    "explain": "网络用语"
+  },
+  {
+    "level": 484,
+    "question": [
+      "1f4b3",
+      "27a1",
+      "1f6cd"
+    ],
+    "answer": "买它",
+    "explain": "网络用语"
+  },
+  {
+    "level": 485,
+    "question": [
+      "1f3c0",
+      "1f528",
+      "1f64c-1f3fb",
+      "1f528"
+    ],
+    "answer": "求锤得锤",
+    "explain": "网络用语"
+  },
+  {
+    "level": 486,
+    "question": [
+      "1f30a",
+      "1f31f"
+    ],
+    "answer": "还行",
+    "explain": "网络用语"
+  },
+  {
+    "level": 487,
+    "question": [
+      "1f21a",
+      "1f327"
+    ],
+    "answer": "无语",
+    "explain": "网络用语"
+  },
+  {
+    "level": 488,
+    "question": [
+      "1f437",
+      "1f437",
+      "1f467-1f3fb"
+    ],
+    "answer": "猪猪女孩",
+    "explain": "网络用语"
+  },
+  {
+    "level": 489,
+    "question": [
+      "1f64b-1f3fb-200d-2642-fe0f",
+      "1f44c-1f3fb"
+    ],
+    "answer": "我觉得可以",
+    "explain": "网络用语"
+  },
+  {
+    "level": 490,
+    "question": [
+      "2601",
+      "1f411",
+      "1f431"
+    ],
+    "answer": "云养猫",
+    "explain": "网络用语"
+  },
+  {
+    "level": 491,
+    "question": [
+      "1f6cd",
+      "1f46f"
+    ],
+    "answer": "塑料姐妹花",
+    "explain": "网络用语"
+  },
+  {
+    "level": 492,
+    "question": [
+      "1f962",
+      "1f413"
+    ],
+    "answer": "吃鸡",
+    "explain": "网络用语"
+  },
+  {
+    "level": 493,
+    "question": [
+      "1f418",
+      "1f413",
+      "1f469-200d-2764-fe0f-200d-1f468"
+    ],
+    "answer": "像极了爱情",
+    "explain": "网络用语"
+  },
+  {
+    "level": 494,
+    "question": [
+      "1f3c3",
+      "27a1",
+      "1f476-1f3fc"
+    ],
+    "answer": "来了老弟",
+    "explain": "网络用语"
+  },
+  {
+    "level": 495,
+    "question": [
+      "1f300",
+      "1f300",
+      "1f466-1f3fb",
+      "1f446-1f3fc",
+      "34-20e3"
+    ],
+    "answer": "窝窝头一块钱四个",
+    "explain": "网络用语"
+  },
+  {
+    "level": 1,
+    "question": [
+      "1f514"
+    ],
+    "answer": "当",
+    "explain": "动力火车"
+  },
+  {
+    "level": 3,
+    "question": [
+      "1f36d",
+      "1f36f",
+      "1f36f"
+    ],
+    "answer": "甜蜜蜜",
+    "explain": "邓丽君"
+  },
+  {
+    "level": 9,
+    "question": [
+      "2603",
+      "1f431",
+      "1f5e3"
+    ],
+    "answer": "学猫叫",
+    "explain": "小潘潘小峰峰"
+  },
+  {
+    "level": 11,
+    "question": [
+      "1f33e",
+      "1f418"
+    ],
+    "answer": "稻香",
+    "explain": "周杰伦"
+  },
+  {
+    "level": 15,
+    "question": [
+      "1f4b3",
+      "1f6e3",
+      "1f350"
+    ],
+    "answer": "卡路里",
+    "explain": "火箭少女"
+  },
+  {
+    "level": 18,
+    "question": [
+      "2603",
+      "2603"
+    ],
+    "answer": "凉凉",
+    "explain": "杨宗纬、张碧晨"
+  },
+  {
+    "level": 19,
+    "question": [
+      "1f3c3",
+      "1f4ab",
+      "1f934-1f3fc"
+    ],
+    "answer": "追光者",
+    "explain": "岑宁儿"
+  },
+  {
+    "level": 25,
+    "question": [
+      "1f562",
+      "1f350",
+      "1f418"
+    ],
+    "answer": "七里香",
+    "explain": "周杰伦"
+  },
+  {
+    "level": 32,
+    "question": [
+      "1f3c3"
+    ],
+    "answer": "追",
+    "explain": "张国荣"
+  },
+  {
+    "level": 33,
+    "question": [
+      "33-20e3",
+      "1f930-1f3fb",
+      "33-20e3",
+      "1f468-1f3fb"
+    ],
+    "answer": "三生三世",
+    "explain": "张杰"
+  },
+  {
+    "level": 34,
+    "question": [
+      "1f6a4",
+      "1f33e",
+      "1f483-1f3fb"
+    ],
+    "answer": "海草舞",
+    "explain": "萧全"
+  },
+  {
+    "level": 36,
+    "question": [
+      "1f505",
+      "1f44b",
+      "1f343"
+    ],
+    "answer": "日不落",
+    "explain": "蔡依林"
+  },
+  {
+    "level": 39,
+    "question": [
+      "1f90f-1f3fc",
+      "1f413",
+      "1f90f-1f3fc",
+      "1f413"
+    ],
+    "answer": "小鸡小鸡",
+    "explain": "王蓉"
+  },
+  {
+    "level": 41,
+    "question": [
+      "1f618"
+    ],
+    "answer": "问",
+    "explain": "梁静茹"
+  },
+  {
+    "level": 49,
+    "question": [
+      "1f64b"
+    ],
+    "answer": "我",
+    "explain": "张国荣"
+  },
+  {
+    "level": 73,
+    "question": [
+      "1f44b",
+      "1f004",
+      "1f377"
+    ],
+    "answer": "不将就",
+    "explain": "李荣浩"
+  },
+  {
+    "level": 75,
+    "question": [
+      "1f9d2-1f3fb",
+      "1f6a4"
+    ],
+    "answer": "大海",
+    "explain": "张雨生"
+  },
+  {
+    "level": 85,
+    "question": [
+      "31-20e3",
+      "1000",
+      "1f468-1f3fb",
+      "1f446-1f3fc",
+      "1f412"
+    ],
+    "answer": "一千年以后",
+    "explain": "林俊杰"
+  },
+  {
+    "level": 86,
+    "question": [
+      "1f328",
+      "1f4a8",
+      "1f1f5"
+    ],
+    "answer": "东风破",
+    "explain": "周杰伦"
+  },
+  {
+    "level": 92,
+    "question": [
+      "1f9d2-1f3fb",
+      "1f34a",
+      "1f90f-1f3fc",
+      "1f493"
+    ],
+    "answer": "大城小爱",
+    "explain": "王力宏"
+  },
+  {
+    "level": 107,
+    "question": [
+      "1f55b",
+      "1f468-1f3fb"
+    ],
+    "answer": "十年",
+    "explain": "陈奕迅"
+  },
+  {
+    "level": 123,
+    "question": [
+      "1f4a8",
+      "1f930-1f3fb"
+    ],
+    "answer": "放生",
+    "explain": "范逸臣"
+  },
+  {
+    "level": 124,
+    "question": [
+      "33-20e3",
+      "1f32b",
+      "33-20e3",
+      "1f30c"
+    ],
+    "answer": "三天三夜",
+    "explain": "张惠妹"
+  },
+  {
+    "level": 126,
+    "question": [
+      "1f6ac",
+      "1f33a",
+      "1f1ee",
+      "1f328"
+    ],
+    "answer": "烟花易冷",
+    "explain": "林志炫"
+  },
+  {
+    "level": 151,
+    "question": [
+      "1f32b",
+      "1f34a"
+    ],
+    "answer": "空城",
+    "explain": "杨坤"
+  },
+  {
+    "level": 153,
+    "question": [
+      "1f64b",
+      "1f409",
+      "1f3b6",
+      "1f3a4",
+      "1f350"
+    ],
+    "answer": "我的歌声里",
+    "explain": "曲婉婷"
+  },
+  {
+    "level": 154,
+    "question": [
+      "1f3de",
+      "1f3c0"
+    ],
+    "answer": "江南",
+    "explain": "林俊杰"
+  },
+  {
+    "level": 178,
+    "question": [
+      "1f35a",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f3b6"
+    ],
+    "answer": "凡人歌",
+    "explain": "李宗盛"
+  },
+  {
+    "level": 188,
+    "question": [
+      "1f558",
+      "1f4ab",
+      "1f413"
+    ],
+    "answer": "时光机",
+    "explain": "五月天"
+  },
+  {
+    "level": 189,
+    "question": [
+      "1f7e8",
+      "1f38e"
+    ],
+    "answer": "黄昏",
+    "explain": "周传雄"
+  },
+  {
+    "level": 191,
+    "question": [
+      "1f6b6",
+      "1f434"
+    ],
+    "answer": "走马",
+    "explain": "陈粒"
+  },
+  {
+    "level": 192,
+    "question": [
+      "1f601",
+      "1f606"
+    ],
+    "answer": "喜欢",
+    "explain": "张悬"
+  },
+  {
+    "level": 204,
+    "question": [
+      "1f21a",
+      "1f618"
+    ],
+    "answer": "无问",
+    "explain": "毛不易"
+  },
+  {
+    "level": 210,
+    "question": [
+      "1f44c-1f3fb",
+      "1f498",
+      "1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fb",
+      "1f3c6"
+    ],
+    "answer": "好心分手",
+    "explain": "卢巧音"
+  },
+  {
+    "level": 213,
+    "question": [
+      "1f498",
+      "1f236",
+      "1f44b",
+      "1f3d1"
+    ],
+    "answer": "心有不甘",
+    "explain": "卫兰"
+  },
+  {
+    "level": 219,
+    "question": [
+      "1f3c0",
+      "1f5fb",
+      "1f3c0"
+    ],
+    "answer": "南山南",
+    "explain": "马頔"
+  },
+  {
+    "level": 224,
+    "question": [
+      "1f4d2",
+      "1f33e",
+      "1f3b9",
+      "1f440"
+    ],
+    "answer": "本草纲目",
+    "explain": "周杰伦"
+  },
+  {
+    "level": 227,
+    "question": [
+      "1f31f",
+      "1f4ab",
+      "1f3ca",
+      "1f468-1f3fb-200d-1f33e",
+      "2b55"
+    ],
+    "answer": "星光游乐园",
+    "explain": "TWINS"
+  },
+  {
+    "level": 237,
+    "question": [
+      "1f493",
+      "1f3b6"
+    ],
+    "answer": "情歌",
+    "explain": "梁静茹"
+  },
+  {
+    "level": 239,
+    "question": [
+      "2601",
+      "1f6ac",
+      "1f9d2-1f3fb",
+      "1f327"
+    ],
+    "answer": "云烟成雨",
+    "explain": "房东的猫"
+  },
+  {
+    "level": 240,
+    "question": [
+      "1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fb",
+      "1f1f0",
+      "1f446-1f3fc",
+      "1f412"
+    ],
+    "answer": "分开以后",
+    "explain": "唐禹哲"
+  },
+  {
+    "level": 242,
+    "question": [
+      "1f498",
+      "1f42c"
+    ],
+    "answer": "心动",
+    "explain": "林晓培"
+  },
+  {
+    "level": 246,
+    "question": [
+      "1f319",
+      "1f4cc"
+    ],
+    "answer": "约定",
+    "explain": "EXO"
+  },
+  {
+    "level": 258,
+    "question": [
+      "1f1f0",
+      "1f44b",
+      "1f60a",
+      "1f444"
+    ],
+    "answer": "开不了口",
+    "explain": "周杰伦"
+  },
+  {
+    "level": 262,
+    "question": [
+      "1f44b",
+      "1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fb",
+      "1f3c6",
+      "1f409",
+      "1f48f",
+      "1f493"
+    ],
+    "answer": "不分手的恋爱",
+    "explain": "汪苏泷"
+  },
+  {
+    "level": 266,
+    "question": [
+      "1f40d",
+      "1f64c-1f3fb"
+    ],
+    "answer": "舍得",
+    "explain": "郑秀文"
+  },
+  {
+    "level": 280,
+    "question": [
+      "1f90f-1f3fc",
+      "1f90f-1f3fc"
+    ],
+    "answer": "小小",
+    "explain": "容祖儿"
+  },
+  {
+    "level": 283,
+    "question": [
+      "1f446-1f3fc",
+      "1f4b0",
+      "1f446-1f3fc",
+      "1f412"
+    ],
+    "answer": "以前以后",
+    "explain": "A-LIN"
+  },
+  {
+    "level": 284,
+    "question": [
+      "1f32b",
+      "2b07"
+    ],
+    "answer": "天下",
+    "explain": "张杰"
+  },
+  {
+    "level": 286,
+    "question": [
+      "1f52a",
+      "1f1f5",
+      "1f43a"
+    ],
+    "answer": "杀破狼",
+    "explain": "JS"
+  },
+  {
+    "level": 291,
+    "question": [
+      "1f493",
+      "1f409",
+      "26f5",
+      "265f"
+    ],
+    "answer": "爱的传奇",
+    "explain": "张杰"
+  },
+  {
+    "level": 301,
+    "question": [
+      "1f4a4",
+      "31-20e3",
+      "1f410"
+    ],
+    "answer": "梦一场",
+    "explain": "那英"
+  },
+  {
+    "level": 316,
+    "question": [
+      "1f9d2-1f3fb",
+      "1f3b5"
+    ],
+    "answer": "大哥",
+    "explain": "卫兰"
+  },
+  {
+    "level": 319,
+    "question": [
+      "1f645",
+      "1f48f",
+      "1f21a",
+      "1f44d-1f3fc"
+    ],
+    "answer": "失恋无罪",
+    "explain": "A-Lin"
+  },
+  {
+    "level": 322,
+    "question": [
+      "1f3b8",
+      "1f64c-1f3fb"
+    ],
+    "answer": "记得",
+    "explain": "张惠妹"
+  },
+  {
+    "level": 324,
+    "question": [
+      "1f48f",
+      "1f493",
+      "1f4e1",
+      "1f9cd-1f3fb-200d-2642-fe0f"
+    ],
+    "answer": "恋爱达人",
+    "explain": "罗志祥"
+  },
+  {
+    "level": 336,
+    "question": [
+      "33-20e3",
+      "1f3d7",
+      "1f48f"
+    ],
+    "answer": "三国恋",
+    "explain": "Tank"
+  },
+  {
+    "level": 339,
+    "question": [
+      "1f4de",
+      "1f34a"
+    ],
+    "answer": "围城",
+    "explain": "张靓颖"
+  },
+  {
+    "level": 342,
+    "question": [
+      "1f6ab",
+      "1f466-1f3fb"
+    ],
+    "answer": "尽头",
+    "explain": "赵方婧"
+  },
+  {
+    "level": 345,
+    "question": [
+      "1f44f-1f3fc",
+      "1f493",
+      "1f4a8",
+      "1f1f0"
+    ],
+    "answer": "把爱放开",
+    "explain": "F.I.R."
+  },
+  {
+    "level": 346,
+    "question": [
+      "1f44c-1f3fb",
+      "1f409",
+      "1f493",
+      "1f9cd-1f3fb-200d-2642-fe0f"
+    ],
+    "answer": "好的情人",
+    "explain": "严爵"
+  },
+  {
+    "level": 347,
+    "question": [
+      "1f469-1f3fb-200d-1f373",
+      "1f3f9"
+    ],
+    "answer": "房间",
+    "explain": "刘瑞琦"
+  },
+  {
+    "level": 354,
+    "question": [
+      "1f33e",
+      "1f33e",
+      "1f9cd-1f3fb-200d-2642-fe0f"
+    ],
+    "answer": "稻草人",
+    "explain": "林志颖"
+  },
+  {
+    "level": 361,
+    "question": [
+      "勺子",
+      "1f468-1f3fb"
+    ],
+    "answer": "少年",
+    "explain": "曹格、光良"
+  },
+  {
+    "level": 377,
+    "question": [
+      "1f44b",
+      "1f63b",
+      "1f48f",
+      "1f9cd-1f3fb-200d-2642-fe0f"
+    ],
+    "answer": "白色恋人",
+    "explain": "游鸿明"
+  },
+  {
+    "level": 379,
+    "question": [
+      "31-20e3",
+      "1f32b",
+      "31-20e3",
+      "1f32b"
+    ],
+    "answer": "一天一天",
+    "explain": "BIGBANG"
+  },
+  {
+    "level": 384,
+    "question": [
+      "1f4a4",
+      "1f350",
+      "1f33a"
+    ],
+    "answer": "梦里花",
+    "explain": "张韶涵"
+  },
+  {
+    "level": 403,
+    "question": [
+      "1f606",
+      "1f468-1f3fb-200d-1f33e",
+      "1f004",
+      "1f3d7",
+      "1f468-1f3fb"
+    ],
+    "answer": "欢乐中国年",
+    "explain": "卓依婷"
+  },
+  {
+    "level": 417,
+    "question": [
+      "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc",
+      "1f46c-1f3fb"
+    ],
+    "answer": "朋友",
+    "explain": "谭咏麟"
+  },
+  {
+    "level": 418,
+    "question": [
+      "1f493",
+      "1f62d",
+      "1f47b"
+    ],
+    "answer": "爱哭鬼",
+    "explain": "江美琪"
+  },
+  {
+    "level": 450,
+    "question": [
+      "1f328",
+      "1f327",
+      "1f30c"
+    ],
+    "answer": "冷雨夜",
+    "explain": "BEYOND"
+  },
+  {
+    "level": 451,
+    "question": [
+      "1f195",
+      "1f468-1f3fb",
+      "1f44c-1f3fb"
+    ],
+    "answer": "新年好",
+    "explain": "卓依婷"
+  },
+  {
+    "level": 454,
+    "question": [
+      "勺子",
+      "1f468-1f3fb",
+      "1f5e3"
+    ],
+    "answer": "少年说",
+    "explain": "TFBOYS"
+  },
+  {
+    "level": 461,
+    "question": [
+      "1f469-1f3fb-200d-1f9b3",
+      "1f4a4"
+    ],
+    "answer": "戏梦",
+    "explain": "林志颖"
+  },
+  {
+    "level": 464,
+    "question": [
+      "1f7e6",
+      "1f63b",
+      "1f327"
+    ],
+    "answer": "蓝色雨",
+    "explain": "温岚"
+  },
+  {
+    "level": 466,
+    "question": [
+      "1f195",
+      "1f44b",
+      "1f60a",
+      "1f493"
+    ],
+    "answer": "新不了情",
+    "explain": "萧敬腾"
+  },
+  {
+    "level": 467,
+    "question": [
+      "1f410",
+      "1f52d"
+    ],
+    "answer": "仰望",
+    "explain": "杨丞琳"
+  },
+  {
+    "level": 469,
+    "question": [
+      "36-20e3",
+      "1f319",
+      "1f409",
+      "1f327"
+    ],
+    "answer": "六月的雨",
+    "explain": "胡歌"
+  },
+  {
+    "level": 470,
+    "question": [
+      "1f483-1f3fb"
+    ],
+    "answer": "美",
+    "explain": "王力宏"
+  },
+  {
+    "level": 472,
+    "question": [
+      "1f562",
+      "1f476-1f3fc",
+      "1f9c0",
+      "1f3b6"
+    ],
+    "answer": "七子之歌",
+    "explain": "容韵琳"
+  },
+  {
+    "level": 475,
+    "question": [
+      "1f34e",
+      "1f3c6"
+    ],
+    "answer": "水手",
+    "explain": "郑智化"
+  },
+  {
+    "level": 496,
+    "question": [
+      "1f4a7",
+      "31-20e3",
+      "1f558",
+      "1f3f9"
+    ],
+    "answer": "第一时间",
+    "explain": "F4"
+  },
+  {
+    "level": 500,
+    "question": [
+      "1f195",
+      "1f468-1f3fb",
+      "1f601",
+      "1f411",
+      "1f411"
+    ],
+    "answer": "新年喜洋洋",
+    "explain": "卓依婷"
+  },
+  {
+    "level": 510,
+    "question": [
+      "1f534",
+      "1f505"
+    ],
+    "answer": "红日",
+    "explain": "李克勤"
+  },
+  {
+    "level": 524,
+    "question": [
+      "1f47c-1f3fb",
+      "265f"
+    ],
+    "answer": "神奇",
+    "explain": "孙燕姿"
+  },
+  {
+    "level": 526,
+    "question": [
+      "1f44b",
+      "1f4a5",
+      "1f4cf",
+      "1f9d2-1f3fb"
+    ],
+    "answer": "不想长大",
+    "explain": "S.H.E"
+  },
+  {
+    "level": 554,
+    "question": [
+      "1f440",
+      "1f63b"
+    ],
+    "answer": "眼色",
+    "explain": "林宥嘉"
+  },
+  {
+    "level": 555,
+    "question": [
+      "1f64b",
+      "1f446-1f3fc",
+      "1f4de"
+    ],
+    "answer": "我以为",
+    "explain": "庄心妍"
+  },
+  {
+    "level": 571,
+    "question": [
+      "2b07",
+      "31-20e3",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f32b",
+      "1f412"
+    ],
+    "answer": "下一站天后",
+    "explain": "蔡卓妍"
+  },
+  {
+    "level": 574,
+    "question": [
+      "2b07",
+      "31-20e3",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f375",
+      "1f5fb",
+      "1f919-1f3fc"
+    ],
+    "answer": "下一站茶山刘",
+    "explain": "房东的猫"
+  },
+  {
+    "level": 582,
+    "question": [
+      "1f64b",
+      "1f4a5"
+    ],
+    "answer": "我想",
+    "explain": "张杰"
+  },
+  {
+    "level": 584,
+    "question": [
+      "1f50d"
+    ],
+    "answer": "寻",
+    "explain": "华晨宇"
+  },
+  {
+    "level": 599,
+    "question": [
+      "1f32b",
+      "1f44b",
+      "1f4cf"
+    ],
+    "answer": "空白格",
+    "explain": "杨宗纬"
+  },
+  {
+    "level": 607,
+    "question": [
+      "1f449-1f3fc",
+      "34-20e3",
+      "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc",
+      "1f46c-1f3fb"
+    ],
+    "answer": "只是朋友",
+    "explain": "陈翔"
+  },
+  {
+    "level": 608,
+    "question": [
+      "1f350",
+      "1f44b"
+    ],
+    "answer": "李白",
+    "explain": "李荣浩"
+  },
+  {
+    "level": 609,
+    "question": [
+      "31-20e3",
+      "1f410",
+      "1f3ca",
+      "1f469-1f3fb-200d-1f9b3",
+      "31-20e3",
+      "1f410",
+      "1f4a4"
+    ],
+    "answer": "一场游戏一场梦",
+    "explain": "王杰"
+  },
+  {
+    "level": 640,
+    "question": [
+      "1f327",
+      "1f493"
+    ],
+    "answer": "雨爱",
+    "explain": "杨丞琳"
+  },
+  {
+    "level": 651,
+    "question": [
+      "1f5e3",
+      "1f3c3",
+      "1f377",
+      "1f3c3"
+    ],
+    "answer": "说散就散",
+    "explain": "JC"
+  },
+  {
+    "level": 655,
+    "question": [
+      "1f64b",
+      "1f6aa"
+    ],
+    "answer": "我门",
+    "explain": "陈伟霆"
+  },
+  {
+    "level": 657,
+    "question": [
+      "1f446-1f3fc",
+      "1f412",
+      "1f409",
+      "1f446-1f3fc",
+      "1f412"
+    ],
+    "answer": "以后的以后",
+    "explain": "庄心妍"
+  },
+  {
+    "level": 665,
+    "question": [
+      "1f40b",
+      "1f32b",
+      "1f42c",
+      "1f4a7"
+    ],
+    "answer": "惊天动地",
+    "explain": "金玟岐"
+  },
+  {
+    "level": 674,
+    "question": [
+      "1f332",
+      "1f6f6",
+      "1f3de"
+    ],
+    "answer": "苏州河",
+    "explain": "薛凯琪"
+  },
+  {
+    "level": 676,
+    "question": [
+      "1f32b",
+      "1f4de",
+      "1f493"
+    ],
+    "answer": "因为爱",
+    "explain": "韦礼安"
+  },
+  {
+    "level": 678,
+    "question": [
+      "1f437",
+      "1f437",
+      "1f364"
+    ],
+    "answer": "猪猪侠",
+    "explain": "陈洁丽"
+  },
+  {
+    "level": 690,
+    "question": [
+      "1f938-1f3fb-200d-2642-fe0f",
+      "1f44b",
+      "1f60a"
+    ],
+    "answer": "到不了",
+    "explain": "范玮琪"
+  },
+  {
+    "level": 702,
+    "question": [
+      "1f418",
+      "1f455",
+      "1f4de",
+      "1f469"
+    ],
+    "answer": "相依为命",
+    "explain": "陈小春"
+  },
+  {
+    "level": 712,
+    "question": [
+      "31-20e3",
+      "1f930-1f3fb",
+      "1f512",
+      "1f493"
+    ],
+    "answer": "一生所爱",
+    "explain": "莫文蔚"
+  },
+  {
+    "level": 728,
+    "question": [
+      "1f31a",
+      "1f32b"
+    ],
+    "answer": "阴天",
+    "explain": "莫文蔚"
+  },
+  {
+    "level": 733,
+    "question": [
+      "1f9d2-1f3fb",
+      "1f4a4",
+      "1f4a5",
+      "1f3d8"
+    ],
+    "answer": "大梦想家",
+    "explain": "TFBOYS"
+  },
+  {
+    "level": 734,
+    "question": [
+      "1f64b",
+      "1f493",
+      "1f409",
+      "1f9cd-1f3fb-200d-2642-fe0f"
+    ],
+    "answer": "我爱的人",
+    "explain": "陈小春"
+  },
+  {
+    "level": 737,
+    "question": [
+      "1f3bf",
+      "1f42c"
+    ],
+    "answer": "冲动",
+    "explain": "萧亚轩"
+  },
+  {
+    "level": 749,
+    "question": [
+      "1f437",
+      "1f9c0",
+      "1f3b6"
+    ],
+    "answer": "猪之歌",
+    "explain": "香香"
+  },
+  {
+    "level": 751,
+    "question": [
+      "1f419",
+      "33-20e3",
+      "1f409",
+      "1f3b6"
+    ],
+    "answer": "张三的歌",
+    "explain": "张悬"
+  },
+  {
+    "level": 762,
+    "question": [
+      "1f235",
+      "1f235"
+    ],
+    "answer": "满满",
+    "explain": "梁文音、王铮亮"
+  },
+  {
+    "level": 766,
+    "question": [
+      "1f91b-1f3fb",
+      "1f5e3"
+    ],
+    "answer": "战争",
+    "explain": "陈冠希、胡蓓蔚"
+  },
+  {
+    "level": 772,
+    "question": [
+      "1f4a4",
+      "1f40b",
+      "1f3b8"
+    ],
+    "answer": "梦经记",
+    "explain": "花儿乐队"
+  },
+  {
+    "level": 783,
+    "question": [
+      "38-20e3",
+      "1f319",
+      "1f4f7",
+      "1f418",
+      "1f375"
+    ],
+    "answer": "八月照相馆",
+    "explain": "李健"
+  },
+  {
+    "level": 795,
+    "question": [
+      "1f90f-1f3fc",
+      "1f451",
+      "1f476-1f3fc"
+    ],
+    "answer": "小王子",
+    "explain": "丁炜"
+  },
+  {
+    "level": 802,
+    "question": [
+      "1f90f-1f3fc",
+      "1f43a",
+      "1f415"
+    ],
+    "answer": "小狼狗",
+    "explain": "任贤齐"
+  },
+  {
+    "level": 803,
+    "question": [
+      "33-20e3",
+      "1f596-1f3fc",
+      "1f32b",
+      "1f476-1f3fc"
+    ],
+    "answer": "三寸天堂",
+    "explain": "严艺丹"
+  },
+  {
+    "level": 804,
+    "question": [
+      "1f319",
+      "1f383",
+      "1f319",
+      "1f493"
+    ],
+    "answer": "越难越爱",
+    "explain": "吴若希"
+  },
+  {
+    "level": 809,
+    "question": [
+      "1f195",
+      "1f33a"
+    ],
+    "answer": "新鲜",
+    "explain": "梁咏琪"
+  },
+  {
+    "level": 821,
+    "question": [
+      "1f4a7",
+      "33-20e3",
+      "1f934-1f3fc",
+      "1f409",
+      "1f4a7",
+      "33-20e3",
+      "1f934-1f3fc"
+    ],
+    "answer": "第三者的第三者",
+    "explain": "弦子"
+  },
+  {
+    "level": 824,
+    "question": [
+      "1f319",
+      "1f52a",
+      "1f319",
+      "1f493"
+    ],
+    "answer": "越伤越爱",
+    "explain": "何洁"
+  },
+  {
+    "level": 835,
+    "question": [
+      "36-20e3",
+      "1f3ef"
+    ],
+    "answer": "六楼",
+    "explain": "夏婉安"
+  },
+  {
+    "level": 839,
+    "question": [
+      "1f377",
+      "1f419",
+      "1f413"
+    ],
+    "answer": "九张机",
+    "explain": "叶炫清"
+  },
+  {
+    "level": 845,
+    "question": [
+      "1f7e2",
+      "1f331"
+    ],
+    "answer": "青春",
+    "explain": "毛不易"
+  },
+  {
+    "level": 851,
+    "question": [
+      "31-20e3",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "31-20e3",
+      "1f4a4"
+    ],
+    "answer": "一人一梦",
+    "explain": "张含韵"
+  },
+  {
+    "level": 854,
+    "question": [
+      "1f327",
+      "1f33a",
+      "26f0"
+    ],
+    "answer": "雨花石",
+    "explain": "李玉刚、石头"
+  },
+  {
+    "level": 861,
+    "question": [
+      "1f341"
+    ],
+    "answer": "枫",
+    "explain": "周杰伦"
+  },
+  {
+    "level": 868,
+    "question": [
+      "1f493",
+      "1f44b",
+      "1f493",
+      "1f64b"
+    ],
+    "answer": "爱不爱我",
+    "explain": "零点乐队"
+  },
+  {
+    "level": 878,
+    "question": [
+      "梨",
+      "1f4a5"
+    ],
+    "answer": "理想",
+    "explain": "赵雷"
+  },
+  {
+    "level": 886,
+    "question": [
+      "1f90f-1f3fc",
+      "1f493",
+      "1f493"
+    ],
+    "answer": "小爱情",
+    "explain": "梁静茹"
+  },
+  {
+    "level": 912,
+    "question": [
+      "1f90f-1f3fc",
+      "1f31f",
+      "1f31f"
+    ],
+    "answer": "小星星",
+    "explain": "汪苏泷"
+  },
+  {
+    "level": 917,
+    "question": [
+      "1f4a7",
+      "31-20e3",
+      "1f32b"
+    ],
+    "answer": "第一天",
+    "explain": "孙燕姿、阿信"
+  },
+  {
+    "level": 918,
+    "question": [
+      "1f331",
+      "1f4a8",
+      "1f55b",
+      "1f350"
+    ],
+    "answer": "春风十里",
+    "explain": "鹿先森乐队"
+  },
+  {
+    "level": 925,
+    "question": [
+      "1f562",
+      "1f46c-1f3fb"
+    ],
+    "answer": "七友",
+    "explain": "梁汉文"
+  },
+  {
+    "level": 931,
+    "question": [
+      "1f480",
+      "1f469",
+      "1f52a"
+    ],
+    "answer": "致命伤",
+    "explain": "罗志祥"
+  },
+  {
+    "level": 945,
+    "question": [
+      "1f40d",
+      "1f44b",
+      "1f64c-1f3fb"
+    ],
+    "answer": "舍不得",
+    "explain": "弦子"
+  },
+  {
+    "level": 964,
+    "question": [
+      "1f6b6",
+      "1f415"
+    ],
+    "answer": "走狗",
+    "explain": "周柏豪"
+  },
+  {
+    "level": 965,
+    "question": [
+      "1f327",
+      "31-20e3",
+      "1f446-1f3fc",
+      "2b07"
+    ],
+    "answer": "雨一直下",
+    "explain": "张宇"
+  },
+  {
+    "level": 976,
+    "question": [
+      "1f525",
+      "1f426"
+    ],
+    "answer": "火鸟",
+    "explain": "杨千嬅"
+  },
+  {
+    "level": 977,
+    "question": [
+      "1f48f",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f498"
+    ],
+    "answer": "恋人心",
+    "explain": "魏新雨"
+  },
+  {
+    "level": 978,
+    "question": [
+      "1f493"
+    ],
+    "answer": "爱",
+    "explain": "莫文蔚"
+  },
+  {
+    "level": 983,
+    "question": [
+      "1f32b",
+      "1f4de",
+      "1f493",
+      "1f512",
+      "1f446-1f3fc",
+      "1f493"
+    ],
+    "answer": "因为爱所以爱",
+    "explain": "谢霆锋"
+  },
+  {
+    "level": 991,
+    "question": [
+      "1f90f-1f3fc",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f3d7"
+    ],
+    "answer": "小人国",
+    "explain": "吕莘"
+  },
+  {
+    "level": 995,
+    "question": [
+      "1f48a",
+      "1f375"
+    ],
+    "answer": "苦茶",
+    "explain": "黑Girl、棒棒堂"
+  },
+  {
+    "level": 1005,
+    "question": [
+      "1f9d2-1f3fb",
+      "1f445",
+      "1f466-1f3fb"
+    ],
+    "answer": "大舌头",
+    "explain": "吴克群"
+  },
+  {
+    "level": 1011,
+    "question": [
+      "1f446-1f3fc",
+      "1f52d"
+    ],
+    "answer": "指望",
+    "explain": "郁可唯"
+  },
+  {
+    "level": 1028,
+    "question": [
+      "1f32b",
+      "1f4a7",
+      "1f236",
+      "1f514"
+    ],
+    "answer": "天地有灵",
+    "explain": "李玉刚、霍尊"
+  },
+  {
+    "level": 1035,
+    "question": [
+      "1f44b",
+      "1f505",
+      "1f4a4",
+      "1f4a5",
+      "1f3d8"
+    ],
+    "answer": "白日梦想家",
+    "explain": "GAI"
+  },
+  {
+    "level": 1047,
+    "question": [
+      "1f349",
+      "1f6aa",
+      "勺子",
+      "1f468-1f3fb"
+    ],
+    "answer": "西门少年",
+    "explain": "李宇春"
+  },
+  {
+    "level": 1049,
+    "question": [
+      "梨",
+      "1f4a5",
+      "33-20e3",
+      "1f50d"
+    ],
+    "answer": "理想三旬",
+    "explain": "陈鸿宇"
+  },
+  {
+    "level": 1052,
+    "question": [
+      "1f493",
+      "1f409",
+      "1f98b",
+      "1f31f",
+      "1f505",
+      "1f3b8"
+    ],
+    "answer": "爱的飞行日记",
+    "explain": "周杰伦"
+  },
+  {
+    "level": 1060,
+    "question": [
+      "1f30c",
+      "1f63b"
+    ],
+    "answer": "夜色",
+    "explain": "郭易"
+  },
+  {
+    "level": 1062,
+    "question": [
+      "1f4a5",
+      "1f418",
+      "1f9c0",
+      "1f004"
+    ],
+    "answer": "想象之中",
+    "explain": "许嵩"
+  },
+  {
+    "level": 1069,
+    "question": [
+      "1f349",
+      "1f52d"
+    ],
+    "answer": "希望",
+    "explain": "何洁"
+  },
+  {
+    "level": 1076,
+    "question": [
+      "1f64b",
+      "1f409",
+      "1f32b",
+      "1f32b"
+    ],
+    "answer": "我的天空",
+    "explain": "Aka大梁"
+  },
+  {
+    "level": 1094,
+    "question": [
+      "1f963",
+      "1f3d8"
+    ],
+    "answer": "玩家",
+    "explain": "Jony J"
+  },
+  {
+    "level": 1107,
+    "question": [
+      "1f914",
+      "1f35a"
+    ],
+    "answer": "思凡",
+    "explain": "林宥嘉"
+  },
+  {
+    "level": 1111,
+    "question": [
+      "1f914",
+      "1f483-1f3fb",
+      "1f9cd-1f3fb-200d-2642-fe0f"
+    ],
+    "answer": "思美人",
+    "explain": "张靓颖"
+  },
+  {
+    "level": 1121,
+    "question": [
+      "1f52d"
+    ],
+    "answer": "望",
+    "explain": "张碧晨、赵丽颖"
+  },
+  {
+    "level": 1130,
+    "question": [
+      "1f930-1f3fb",
+      "1f930-1f3fb",
+      "1f468-1f3fb",
+      "1f468-1f3fb",
+      "1f493"
+    ],
+    "answer": "生生世世爱",
+    "explain": "吴雨霏"
+  },
+  {
+    "level": 1136,
+    "question": [
+      "1f4b0",
+      "1f3ce"
+    ],
+    "answer": "前度",
+    "explain": "朱雅"
+  },
+  {
+    "level": 1138,
+    "question": [
+      "1f3c6",
+      "1f498",
+      "1f409",
+      "1f31e",
+      "1f31d"
+    ],
+    "answer": "手心的太阳",
+    "explain": "张韶涵"
+  },
+  {
+    "level": 1143,
+    "question": [
+      "1f32b",
+      "1f412"
+    ],
+    "answer": "天后",
+    "explain": "陈势安"
+  },
+  {
+    "level": 1146,
+    "question": [
+      "33-20e3",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f3ca"
+    ],
+    "answer": "三人游",
+    "explain": "方大同"
+  },
+  {
+    "level": 1150,
+    "question": [
+      "1f4b0",
+      "1f468-1f3fb",
+      "1f493",
+      "1f9cd-1f3fb-200d-2642-fe0f"
+    ],
+    "answer": "前世情人",
+    "explain": "周杰伦"
+  },
+  {
+    "level": 1152,
+    "question": [
+      "34-20e3",
+      "1f44b",
+      "34-20e3",
+      "1f493",
+      "1f493"
+    ],
+    "answer": "是不是爱情",
+    "explain": "何洁"
+  },
+  {
+    "level": 1161,
+    "question": [
+      "1f5e3",
+      "1f6b6",
+      "1f377",
+      "1f6b6"
+    ],
+    "answer": "说走就走",
+    "explain": "周杰伦"
+  },
+  {
+    "level": 1162,
+    "question": [
+      "1f645",
+      "1f327",
+      "1f934-1f3fc"
+    ],
+    "answer": "失语者",
+    "explain": "蔡健雅"
+  },
+  {
+    "level": 1164,
+    "question": [
+      "1f48f",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f3b6",
+      "1f3b6"
+    ],
+    "answer": "恋人歌歌",
+    "explain": "胡彦斌"
+  },
+  {
+    "level": 1165,
+    "question": [
+      "31-20e3",
+      "1f6e3",
+      "1f418",
+      "1f53c"
+    ],
+    "answer": "一路向北",
+    "explain": "周杰伦"
+  },
+  {
+    "level": 1184,
+    "question": [
+      "1f48a",
+      "1f493",
+      "1f9cd-1f3fb-200d-2642-fe0f"
+    ],
+    "answer": "苦情人",
+    "explain": "邓颖芝"
+  },
+  {
+    "level": 1192,
+    "question": [
+      "1000",
+      "1f44f-1f3fc"
+    ],
+    "answer": "千古",
+    "explain": "许嵩"
+  },
+  {
+    "level": 1197,
+    "question": [
+      "1f4cc",
+      "1f349"
+    ],
+    "answer": "定西",
+    "explain": "李志"
+  },
+  {
+    "level": 1200,
+    "question": [
+      "1f90f-1f3fc",
+      "1f36d",
+      "1f36f"
+    ],
+    "answer": "小甜蜜",
+    "explain": "古巨基"
+  },
+  {
+    "level": 1205,
+    "question": [
+      "1f4a8",
+      "1f44b"
+    ],
+    "answer": "飘摇",
+    "explain": "周迅"
+  },
+  {
+    "level": 1213,
+    "question": [
+      "1f332",
+      "1f535",
+      "1f31f"
+    ],
+    "answer": "木兰星",
+    "explain": "四郎贡布"
+  },
+  {
+    "level": 1228,
+    "question": [
+      "1f48a",
+      "1f6ab",
+      "1f493",
+      "1f37c"
+    ],
+    "answer": "苦尽爱来",
+    "explain": "艾怡良"
+  },
+  {
+    "level": 1230,
+    "question": [
+      "1f192",
+      "1f9cd-1f3fb-200d-2642-fe0f"
+    ],
+    "answer": "良人",
+    "explain": "邓福如"
+  },
+  {
+    "level": 1234,
+    "question": [
+      "1f384",
+      "1f004",
+      "1f426"
+    ],
+    "answer": "林中鸟",
+    "explain": "葛林"
+  },
+  {
+    "level": 1235,
+    "question": [
+      "2694",
+      "1f52a"
+    ],
+    "answer": "剑伤",
+    "explain": "李易峰"
+  },
+  {
+    "level": 1238,
+    "question": [
+      "1f3d8"
+    ],
+    "answer": "家",
+    "explain": "许巍"
+  },
+  {
+    "level": 1244,
+    "question": [
+      "1f483-1f3fb",
+      "1f60a",
+      "1f483-1f3fb",
+      "1f60a"
+    ],
+    "answer": "美了美了",
+    "explain": "小沈阳、汤潮"
+  },
+  {
+    "level": 1245,
+    "question": [
+      "1f328",
+      "1f91b-1f3fb"
+    ],
+    "answer": "冷战",
+    "explain": "陈艺之、徐真真"
+  },
+  {
+    "level": 1252,
+    "question": [
+      "1f31f",
+      "1f934-1f3fc"
+    ],
+    "answer": "行者",
+    "explain": "蒋龙"
+  },
+  {
+    "level": 1255,
+    "question": [
+      "1f53c",
+      "1f40b",
+      "1f3c0",
+      "1f32b",
+      "1f409",
+      "1f7e8",
+      "1f38e"
+    ],
+    "answer": "北京秋天的黄昏",
+    "explain": "小柯"
+  },
+  {
+    "level": 1259,
+    "question": [
+      "1f534",
+      "1f7e2",
+      "1f4a1"
+    ],
+    "answer": "红绿灯",
+    "explain": "郑融"
+  },
+  {
+    "level": 1260,
+    "question": [
+      "1f455",
+      "1f48f"
+    ],
+    "answer": "依恋",
+    "explain": "蔡淳佳"
+  },
+  {
+    "level": 1261,
+    "question": [
+      "1f30a",
+      "1f47b",
+      "1f6aa"
+    ],
+    "answer": "还魂门",
+    "explain": "胡彦斌"
+  },
+  {
+    "level": 1269,
+    "question": [
+      "1f412",
+      "1f32b"
+    ],
+    "answer": "后天",
+    "explain": "张靓颖"
+  },
+  {
+    "level": 1270,
+    "question": [
+      "1f402",
+      "1f4ab",
+      "1f98b",
+      "1f483-1f3fb"
+    ],
+    "answer": "流光飞舞",
+    "explain": "陈淑桦"
+  },
+  {
+    "level": 1275,
+    "question": [
+      "1f44b",
+      "1f64c-1f3fb",
+      "1f60a"
+    ],
+    "answer": "不得了",
+    "explain": "陈慧琳"
+  },
+  {
+    "level": 1276,
+    "question": [
+      "1f44d-1f3fc",
+      "1f98b"
+    ],
+    "answer": "高飞",
+    "explain": "张杰"
+  },
+  {
+    "level": 1277,
+    "question": [
+      "1f44b",
+      "1f62d",
+      "1f60a"
+    ],
+    "answer": "不哭了",
+    "explain": "By2"
+  },
+  {
+    "level": 1280,
+    "question": [
+      "1f328",
+      "1f32b",
+      "1f350",
+      "1f409",
+      "31-20e3",
+      "1f44f-1f3fc",
+      "1f525"
+    ],
+    "answer": "冬天里的一把火",
+    "explain": "费翔"
+  },
+  {
+    "level": 1282,
+    "question": [
+      "1f44b",
+      "1f449-1f3fc",
+      "34-20e3",
+      "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc",
+      "1f46c-1f3fb"
+    ],
+    "answer": "不只是朋友",
+    "explain": "黄小琥"
+  },
+  {
+    "level": 1284,
+    "question": [
+      "1f33a",
+      "1f525"
+    ],
+    "answer": "花火",
+    "explain": "深白色2人组"
+  },
+  {
+    "level": 1302,
+    "question": [
+      "1f311",
+      "1f418"
+    ],
+    "answer": "暗香",
+    "explain": "沙宝亮"
+  },
+  {
+    "level": 1304,
+    "question": [
+      "1f6f3",
+      "1f319",
+      "1f525",
+      "1f9f6"
+    ],
+    "answer": "穿越火线",
+    "explain": "邓紫棋"
+  },
+  {
+    "level": 1309,
+    "question": [
+      "1f64b",
+      "1f4d2",
+      "1f9cd-1f3fb-200d-2642-fe0f"
+    ],
+    "answer": "我本人",
+    "explain": "吴雨霏"
+  },
+  {
+    "level": 1310,
+    "question": [
+      "1f493",
+      "1f327",
+      "1f34a"
+    ],
+    "answer": "爱与诚",
+    "explain": "古巨基"
+  },
+  {
+    "level": 1314,
+    "question": [
+      "1f534",
+      "1f63b",
+      "26f0",
+      "1f466-1f3fb"
+    ],
+    "answer": "红色石头",
+    "explain": "李智楠"
+  },
+  {
+    "level": 1325,
+    "question": [
+      "1f933-1f3fc",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f483-1f3fb"
+    ],
+    "answer": "双人舞",
+    "explain": "潘玮柏"
+  },
+  {
+    "level": 1351,
+    "question": [
+      "1f562",
+      "1f306"
+    ],
+    "answer": "七夕",
+    "explain": "许嵩"
+  },
+  {
+    "level": 1352,
+    "question": [
+      "1f236",
+      "梨",
+      "1f4a5"
+    ],
+    "answer": "有理想",
+    "explain": "李荣浩"
+  },
+  {
+    "level": 1354,
+    "question": [
+      "1f30c",
+      "1f4f7",
+      "27a1",
+      "1f60a",
+      "1f30c"
+    ],
+    "answer": "夜照亮了夜",
+    "explain": "伍佰、China Blue"
+  },
+  {
+    "level": 1377,
+    "question": [
+      "1f98b",
+      "1f44d-1f3fc",
+      "1f44d-1f3fc"
+    ],
+    "answer": "飞高高",
+    "explain": "张惠妹"
+  },
+  {
+    "level": 1393,
+    "question": [
+      "1f377",
+      "1f31f",
+      "1f350"
+    ],
+    "answer": "旧行李",
+    "explain": "蔡健雅"
+  },
+  {
+    "level": 1400,
+    "question": [
+      "1f562",
+      "1f319",
+      "1f51d"
+    ],
+    "answer": "七月上",
+    "explain": "Jam"
+  },
+  {
+    "level": 1404,
+    "question": [
+      "33-20e3",
+      "1f250",
+      "1f3b6"
+    ],
+    "answer": "三德歌",
+    "explain": "谭晶"
+  },
+  {
+    "level": 1406,
+    "question": [
+      "1f498",
+      "1f004",
+      "31-20e3",
+      "1f44f-1f3fc",
+      "1f525"
+    ],
+    "answer": "心中一把火",
+    "explain": "张杰"
+  },
+  {
+    "level": 1407,
+    "question": [
+      "1f51d",
+      "1f525"
+    ],
+    "answer": "上火",
+    "explain": "孔令奇"
+  },
+  {
+    "level": 1415,
+    "question": [
+      "1f44b",
+      "1f64c-1f3fb",
+      "1f44b"
+    ],
+    "answer": "不得不",
+    "explain": "杨乃文"
+  },
+  {
+    "level": 1416,
+    "question": [
+      "1f44b",
+      "1f64c-1f3fb",
+      "1f44b",
+      "1f493"
+    ],
+    "answer": "不得不爱",
+    "explain": "潘玮柏、弦子"
+  },
+  {
+    "level": 1430,
+    "question": [
+      "1f552",
+      "1f3c6",
+      "1f6ac"
+    ],
+    "answer": "二手烟",
+    "explain": "蔡健雅"
+  },
+  {
+    "level": 1438,
+    "question": [
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f930-1f3fb",
+      "1f6a4",
+      "1f6a4"
+    ],
+    "answer": "人生海海",
+    "explain": "五月天"
+  },
+  {
+    "level": 1444,
+    "question": [
+      "1f32b",
+      "1f32b"
+    ],
+    "answer": "天空",
+    "explain": "蔡依林"
+  },
+  {
+    "level": 1452,
+    "question": [
+      "1f533",
+      "1f1ff",
+      "1f31f"
+    ],
+    "answer": "黑择明",
+    "explain": "陈奕迅"
+  },
+  {
+    "level": 1456,
+    "question": [
+      "1f435",
+      "1f426"
+    ],
+    "answer": "侯鸟",
+    "explain": "卓鸣"
+  },
+  {
+    "level": 1464,
+    "question": [
+      "1f4ab"
+    ],
+    "answer": "光",
+    "explain": "蔡旻佑"
+  },
+  {
+    "level": 1480,
+    "question": [
+      "1f4ce",
+      "1f930-1f3fb",
+      "1f388",
+      "1f60a"
+    ],
+    "answer": "别生气了",
+    "explain": "校长"
+  },
+  {
+    "level": 1485,
+    "question": [
+      "1f55b",
+      "1f562"
+    ],
+    "answer": "十七",
+    "explain": "王源"
+  },
+  {
+    "level": 1502,
+    "question": [
+      "1f90f-1f3fc",
+      "1f7e8"
+    ],
+    "answer": "小黄",
+    "explain": "李荣浩"
+  },
+  {
+    "level": 1524,
+    "question": [
+      "1f601",
+      "1f389",
+      "1f409",
+      "1f505",
+      "1f476-1f3fc"
+    ],
+    "answer": "喜庆的日子",
+    "explain": "谭晶"
+  },
+  {
+    "level": 1536,
+    "question": [
+      "1f30c",
+      "1f37c",
+      "1f418"
+    ],
+    "answer": "夜来香",
+    "explain": "邓丽君"
+  },
+  {
+    "level": 1538,
+    "question": [
+      "1f30c",
+      "1f4a8"
+    ],
+    "answer": "夜风",
+    "explain": "陈冠希"
+  },
+  {
+    "level": 1539,
+    "question": [
+      "1f9d2-1f3fb",
+      "1f46a",
+      "1f315"
+    ],
+    "answer": "大团圆",
+    "explain": "谭晶"
+  },
+  {
+    "level": 1545,
+    "question": [
+      "1f32b",
+      "1f4a4"
+    ],
+    "answer": "天梦",
+    "explain": "陈雅森"
+  },
+  {
+    "level": 1553,
+    "question": [
+      "1f64d",
+      "1f466-1f3fb",
+      "1f3d7"
+    ],
+    "answer": "女儿国",
+    "explain": "张靓颖、李荣浩"
+  },
+  {
+    "level": 1554,
+    "question": [
+      "1f64d",
+      "1f466-1f3fb",
+      "1f493"
+    ],
+    "answer": "女儿情",
+    "explain": "刘宪华Henry"
+  },
+  {
+    "level": 1572,
+    "question": [
+      "1f4a8"
+    ],
+    "answer": "风",
+    "explain": "张杰"
+  },
+  {
+    "level": 1578,
+    "question": [
+      "勺子",
+      "1f468-1f3fb",
+      "1f004",
+      "1f3d7"
+    ],
+    "answer": "少年中国",
+    "explain": "李宇春"
+  },
+  {
+    "level": 1605,
+    "question": [
+      "1f48f",
+      "1f493",
+      "1f3b6"
+    ],
+    "answer": "恋情歌",
+    "explain": "JOAN"
+  },
+  {
+    "level": 1607,
+    "question": [
+      "1f48f",
+      "1f349",
+      "1f3ca"
+    ],
+    "answer": "恋西游",
+    "explain": "TFBOYS"
+  },
+  {
+    "level": 1613,
+    "question": [
+      "1f64b",
+      "1f44b",
+      "1f4a5",
+      "1f62d"
+    ],
+    "answer": "我不想哭",
+    "explain": "带泪的鱼"
+  },
+  {
+    "level": 1618,
+    "question": [
+      "1f64b",
+      "1f601",
+      "1f606"
+    ],
+    "answer": "我喜欢",
+    "explain": "梁静茹"
+  },
+  {
+    "level": 1623,
+    "question": [
+      "1f64b",
+      "1f409",
+      "1f3b6"
+    ],
+    "answer": "我的歌",
+    "explain": "苏遇"
+  },
+  {
+    "level": 1631,
+    "question": [
+      "1f574",
+      "1f4a8"
+    ],
+    "answer": "捕风",
+    "explain": "海清"
+  },
+  {
+    "level": 1635,
+    "question": [
+      "1f4a8",
+      "1f1f0",
+      "1f493"
+    ],
+    "answer": "放开爱",
+    "explain": "戚薇"
+  },
+  {
+    "level": 1642,
+    "question": [
+      "1f21a",
+      "1f558",
+      "1f21a",
+      "1f5e1"
+    ],
+    "answer": "无时无刻",
+    "explain": "咿一"
+  },
+  {
+    "level": 1649,
+    "question": [
+      "1f31f",
+      "1f55b"
+    ],
+    "answer": "星辰",
+    "explain": "张杰"
+  },
+  {
+    "level": 1656,
+    "question": [
+      "1f311",
+      "1f63b"
+    ],
+    "answer": "暗色",
+    "explain": "许佳慧"
+  },
+  {
+    "level": 1661,
+    "question": [
+      "1f319",
+      "2b07"
+    ],
+    "answer": "月下",
+    "explain": "千月兔/柏凝"
+  },
+  {
+    "level": 1665,
+    "question": [
+      "1f236",
+      "1f493",
+      "1f468-1f3fb",
+      "1f3f9"
+    ],
+    "answer": "有情世间",
+    "explain": "邓超"
+  },
+  {
+    "level": 1677,
+    "question": [
+      "1f3b6"
+    ],
+    "answer": "歌",
+    "explain": "陈朋"
+  },
+  {
+    "level": 1681,
+    "question": [
+      "1f463",
+      "1f463"
+    ],
+    "answer": "步步",
+    "explain": "五月天"
+  },
+  {
+    "level": 1690,
+    "question": [
+      "1f3de",
+      "1f6cc"
+    ],
+    "answer": "河床",
+    "explain": "苏阳"
+  },
+  {
+    "level": 1691,
+    "question": [
+      "1f3de",
+      "1f34e",
+      "1f3c0",
+      "1f402"
+    ],
+    "answer": "河水南流",
+    "explain": "苏阳"
+  },
+  {
+    "level": 1711,
+    "question": [
+      "1f493",
+      "1f51d",
+      "1f64b"
+    ],
+    "answer": "爱上我",
+    "explain": "刘旭阳、王逗逗"
+  },
+  {
+    "level": 1716,
+    "question": [
+      "1f493",
+      "1f412",
+      "1f41f",
+      "1f930-1f3fb"
+    ],
+    "answer": "爱后余生",
+    "explain": "泳儿"
+  },
+  {
+    "level": 1735,
+    "question": [
+      "1f44b",
+      "1f43a"
+    ],
+    "answer": "白狐",
+    "explain": "陈瑞"
+  },
+  {
+    "level": 1736,
+    "question": [
+      "1f4af",
+      "1f468-1f3fb",
+      "1f44b",
+      "1f46a"
+    ],
+    "answer": "百年不合",
+    "explain": "周柏豪"
+  },
+  {
+    "level": 1740,
+    "question": [
+      "1f440",
+      "1f4b0"
+    ],
+    "answer": "眼前",
+    "explain": "谭晶"
+  },
+  {
+    "level": 1753,
+    "question": [
+      "1f7e3"
+    ],
+    "answer": "紫",
+    "explain": "蔡健雅"
+  },
+  {
+    "level": 1756,
+    "question": [
+      "1f451",
+      "1f476-1f3fc",
+      "1f422",
+      "1f37c"
+    ],
+    "answer": "王子归来",
+    "explain": "薛之谦"
+  },
+  {
+    "level": 1768,
+    "question": [
+      "1f42f",
+      "1f3b1",
+      "1f42f",
+      "33-20e3"
+    ],
+    "answer": "胡巴胡吧",
+    "explain": "沙溢、胡可"
+  },
+  {
+    "level": 1770,
+    "question": [
+      "1f483-1f3fb",
+      "1f4a7",
+      "1f9f6"
+    ],
+    "answer": "舞底线",
+    "explain": "吴莫愁"
+  },
+  {
+    "level": 1771,
+    "question": [
+      "1f33a",
+      "1f418"
+    ],
+    "answer": "花香",
+    "explain": "徐薇"
+  },
+  {
+    "level": 1781,
+    "question": [
+      "1f405",
+      "1f5fb",
+      "1f31f"
+    ],
+    "answer": "虎山行",
+    "explain": "GAI、艾福杰尼"
+  },
+  {
+    "level": 1782,
+    "question": [
+      "1f420",
+      "1f483-1f3fb",
+      "1f9cd-1f3fb-200d-2642-fe0f"
+    ],
+    "answer": "虞美人",
+    "explain": "文杰"
+  },
+  {
+    "level": 1783,
+    "question": [
+      "1f493",
+      "1f44b",
+      "1f64c-1f3fb"
+    ],
+    "answer": "爱不得",
+    "explain": "杨宗纬"
+  },
+  {
+    "level": 1789,
+    "question": [
+      "1f5e3",
+      "1f938-1f3fb-200d-2642-fe0f",
+      "1f493"
+    ],
+    "answer": "说到爱",
+    "explain": "蔡健雅"
+  },
+  {
+    "level": 1792,
+    "question": [
+      "1f3c6",
+      "1f4a8",
+      "1f1f0"
+    ],
+    "answer": "手放开",
+    "explain": "李圣杰"
+  },
+  {
+    "level": 1796,
+    "question": [
+      "1f6b6",
+      "1f349",
+      "1f444"
+    ],
+    "answer": "走西口",
+    "explain": "谭晶"
+  },
+  {
+    "level": 1799,
+    "question": [
+      "1f6e3",
+      "1f444"
+    ],
+    "answer": "路口",
+    "explain": "蔡健雅"
+  },
+  {
+    "level": 1824,
+    "question": [
+      "1f6aa"
+    ],
+    "answer": "门",
+    "explain": "好妹妹乐队"
+  },
+  {
+    "level": 1832,
+    "question": [
+      "1f4a5",
+      "1f3a4",
+      "1f377",
+      "1f3a4"
+    ],
+    "answer": "想唱就唱",
+    "explain": "TFBOYS"
+  },
+  {
+    "level": 1837,
+    "question": [
+      "1f7e2",
+      "1f426"
+    ],
+    "answer": "青鸟",
+    "explain": "黄浩琳"
+  },
+  {
+    "level": 1843,
+    "question": [
+      "1f434",
+      "1f535",
+      "1f33a"
+    ],
+    "answer": "马兰花",
+    "explain": "腾格尔"
+  },
+  {
+    "level": 1846,
+    "question": [
+      "1f44d-1f3fc",
+      "1f3c6"
+    ],
+    "answer": "高手",
+    "explain": "潘玮柏"
+  },
+  {
+    "level": 1849,
+    "question": [
+      "1f533",
+      "1f44b",
+      "1f4f7"
+    ],
+    "answer": "黑白照",
+    "explain": "邓丽欣"
+  },
+  {
+    "level": 1852,
+    "question": [
+      "1f409",
+      "1f91b-1f3fb"
+    ],
+    "answer": "龙拳",
+    "explain": "周杰伦"
+  },
+  {
+    "level": 1858,
+    "question": [
+      "31-20e3",
+      "1f60a",
+      "1f4af",
+      "1f60a"
+    ],
+    "answer": "一了百了",
+    "explain": "信乐团"
+  },
+  {
+    "level": 1868,
+    "question": [
+      "31-20e3",
+      "1f590-1f3fc",
+      "1f493",
+      "1f3b6"
+    ],
+    "answer": "一首情歌",
+    "explain": "阿杜"
+  },
+  {
+    "level": 1874,
+    "question": [
+      "33-20e3",
+      "1f55b",
+      "1f505"
+    ],
+    "answer": "三十日",
+    "explain": "侧田"
+  },
+  {
+    "level": 1877,
+    "question": [
+      "1f51d",
+      "1f498"
+    ],
+    "answer": "上心",
+    "explain": "郑欣宜"
+  },
+  {
+    "level": 1882,
+    "question": [
+      "2b07",
+      "1f327",
+      "1f60a"
+    ],
+    "answer": "下雨了",
+    "explain": "薛之谦"
+  },
+  {
+    "level": 1889,
+    "question": [
+      "1f44b",
+      "1f4a5"
+    ],
+    "answer": "不想",
+    "explain": "阿涵"
+  },
+  {
+    "level": 1901,
+    "question": [
+      "1f44b",
+      "1f1f5"
+    ],
+    "answer": "不破",
+    "explain": "阿肆"
+  },
+  {
+    "level": 1904,
+    "question": [
+      "1f44b",
+      "1f327"
+    ],
+    "answer": "不语",
+    "explain": "许嵩"
+  },
+  {
+    "level": 1910,
+    "question": [
+      "1f468-1f3fb",
+      "26ab",
+      "1f3b6",
+      "1f934-1f3fc"
+    ],
+    "answer": "世末歌者",
+    "explain": "少年霜"
+  },
+  {
+    "level": 1916,
+    "question": [
+      "1f004",
+      "1f552",
+      "勺子",
+      "1f64d",
+      "1f411",
+      "1f33a",
+      "1f3b8"
+    ],
+    "answer": "中二少女养花记",
+    "explain": "白百何"
+  },
+  {
+    "level": 1918,
+    "question": [
+      "1f377",
+      "1f377",
+      "38-20e3",
+      "1f55b",
+      "31-20e3"
+    ],
+    "answer": "九九八十一",
+    "explain": "西瓜JUN、叶洛洛"
+  },
+  {
+    "level": 1921,
+    "question": [
+      "2601",
+      "1f3ca"
+    ],
+    "answer": "云游",
+    "explain": "张羿凡"
+  },
+  {
+    "level": 1927,
+    "question": [
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f43a"
+    ],
+    "answer": "人狼",
+    "explain": "阿杜"
+  },
+  {
+    "level": 1928,
+    "question": [
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f930-1f3fb"
+    ],
+    "answer": "人生",
+    "explain": "夏小虎"
+  },
+  {
+    "level": 1966,
+    "question": [
+      "1f466-1f3fb",
+      "1f3b6"
+    ],
+    "answer": "儿歌",
+    "explain": "徐佳莹"
+  },
+  {
+    "level": 1968,
+    "question": [
+      "1f4ab",
+      "1f9c0",
+      "1f6a4"
+    ],
+    "answer": "光之海",
+    "explain": "A-Lin"
+  },
+  {
+    "level": 1974,
+    "question": [
+      "38-20e3",
+      "1f468-1f3fb",
+      "1f409",
+      "1f493"
+    ],
+    "answer": "八年的爱",
+    "explain": "冰冰超人"
+  },
+  {
+    "level": 1982,
+    "question": [
+      "1f328",
+      "1f32b"
+    ],
+    "answer": "冬天",
+    "explain": "筷子兄弟"
+  },
+  {
+    "level": 1986,
+    "question": [
+      "2603",
+      "1f34a"
+    ],
+    "answer": "凉城",
+    "explain": "任然"
+  },
+  {
+    "level": 1991,
+    "question": [
+      "1f7e6",
+      "1f63b",
+      "1f430",
+      "1f430",
+      "1f6a9"
+    ],
+    "answer": "蓝色土耳其",
+    "explain": "周传雄"
+  },
+  {
+    "level": 1997,
+    "question": [
+      "1f4b0",
+      "1f468-1f3fb"
+    ],
+    "answer": "前世",
+    "explain": "陈慧琳"
+  },
+  {
+    "level": 1998,
+    "question": [
+      "2694",
+      "1f498"
+    ],
+    "answer": "剑心",
+    "explain": "张杰"
+  },
+  {
+    "level": 2014,
+    "question": [
+      "1f3c0",
+      "1f349",
+      "1f697"
+    ],
+    "answer": "南瓜车",
+    "explain": "薛凯琪"
+  },
+  {
+    "level": 2015,
+    "question": [
+      "1f4b3",
+      "1f442",
+      "1f3e9",
+      "1f350",
+      "1f6e3"
+    ],
+    "answer": "卡尔加里路",
+    "explain": "丢火车乐队"
+  },
+  {
+    "level": 2025,
+    "question": [
+      "1f449-1f3fc",
+      "1f449-1f3fc"
+    ],
+    "answer": "只只",
+    "explain": "孟凡明"
+  },
+  {
+    "level": 2026,
+    "question": [
+      "1f449-1f3fc",
+      "1f32b",
+      "1f4de",
+      "1f493"
+    ],
+    "answer": "只因为爱",
+    "explain": "何洁"
+  },
+  {
+    "level": 2035,
+    "question": [
+      "1f46a",
+      "1f4f7"
+    ],
+    "answer": "合照",
+    "explain": "汪苏泷"
+  },
+  {
+    "level": 2037,
+    "question": [
+      "1f412",
+      "1f468-1f3fb-200d-1f33e",
+      "2b55"
+    ],
+    "answer": "后乐园",
+    "explain": "F.I.R."
+  },
+  {
+    "level": 2043,
+    "question": [
+      "1f232",
+      "1f3b5",
+      "1f622"
+    ],
+    "answer": "吴哥窟",
+    "explain": "吴雨霏"
+  },
+  {
+    "level": 2045,
+    "question": [
+      "1f6b6",
+      "1f9d2-1f3fb",
+      "1f364"
+    ],
+    "answer": "周大侠",
+    "explain": "周杰伦"
+  },
+  {
+    "level": 2052,
+    "question": [
+      "1f3b5",
+      "1f3b5"
+    ],
+    "answer": "哥哥",
+    "explain": "周深"
+  },
+  {
+    "level": 2063,
+    "question": [
+      "1f474-1f3fb",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f3ca"
+    ],
+    "answer": "四人游",
+    "explain": "方大同、薛凯琪"
+  },
+  {
+    "level": 2065,
+    "question": [
+      "1f64b",
+      "1f19a",
+      "1f32b",
+      "1f32b",
+      "1f5e3"
+    ],
+    "answer": "我对天空说",
+    "explain": "潘玮柏"
+  },
+  {
+    "level": 2075,
+    "question": [
+      "1f41a"
+    ],
+    "answer": "壳",
+    "explain": "黄小琥"
+  },
+  {
+    "level": 2078,
+    "question": [
+      "1f32b",
+      "2b07",
+      "1f21a",
+      "1f933-1f3fc"
+    ],
+    "answer": "天下无双",
+    "explain": "陈奕迅"
+  },
+  {
+    "level": 2079,
+    "question": [
+      "1f9d2-1f3fb",
+      "1f4a7"
+    ],
+    "answer": "大地",
+    "explain": "BEYOND"
+  },
+  {
+    "level": 2084,
+    "question": [
+      "1f33a",
+      "1f6a4"
+    ],
+    "answer": "花海",
+    "explain": "周杰伦"
+  },
+  {
+    "level": 2086,
+    "question": [
+      "1f32b",
+      "27a1",
+      "1f446-1f3fc",
+      "1f412",
+      "1f5e3",
+      "1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fb",
+      "1f3c6"
+    ],
+    "answer": "天亮以后说分手",
+    "explain": "信乐团"
+  },
+  {
+    "level": 2088,
+    "question": [
+      "1f32b",
+      "1f32b",
+      "1f30c",
+      "1f30c"
+    ],
+    "answer": "天天夜夜",
+    "explain": "F.I.R."
+  },
+  {
+    "level": 2092,
+    "question": [
+      "1f32b",
+      "1f4a1"
+    ],
+    "answer": "天灯",
+    "explain": "杨宗纬"
+  },
+  {
+    "level": 2093,
+    "question": [
+      "1f32b",
+      "1f930-1f3fb",
+      "31-20e3",
+      "1f19a"
+    ],
+    "answer": "天生一对",
+    "explain": "高颖"
+  },
+  {
+    "level": 2094,
+    "question": [
+      "1f32b",
+      "1f32b",
+      "1f9c0",
+      "1f34a"
+    ],
+    "answer": "天空之城",
+    "explain": "Dough-boy、侧田"
+  },
+  {
+    "level": 2095,
+    "question": [
+      "1f32b",
+      "1f31f",
+      "1f377",
+      "1f3b6"
+    ],
+    "answer": "天行九歌",
+    "explain": "霍尊"
+  },
+  {
+    "level": 2096,
+    "question": [
+      "1f32b",
+      "1f418"
+    ],
+    "answer": "天香",
+    "explain": "安以轩"
+  },
+  {
+    "level": 2097,
+    "question": [
+      "1f32b",
+      "1f533"
+    ],
+    "answer": "天黑",
+    "explain": "阿杜"
+  },
+  {
+    "level": 2106,
+    "question": [
+      "1f645",
+      "1f4a4"
+    ],
+    "answer": "失眠",
+    "explain": "金志文"
+  },
+  {
+    "level": 2110,
+    "question": [
+      "1f64d",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f418"
+    ],
+    "answer": "女人香",
+    "explain": "严艺丹"
+  },
+  {
+    "level": 2113,
+    "question": [
+      "1f44c-1f3fb",
+      "1f9cd-1f3fb-200d-2642-fe0f"
+    ],
+    "answer": "好人",
+    "explain": "侧田"
+  },
+  {
+    "level": 2116,
+    "question": [
+      "1f44c-1f3fb",
+      "1f331",
+      "1f4ab"
+    ],
+    "answer": "好春光",
+    "explain": "吴彤"
+  },
+  {
+    "level": 2134,
+    "question": [
+      "1f3d8",
+      "1f412"
+    ],
+    "answer": "家后",
+    "explain": "黄小琥"
+  },
+  {
+    "level": 2142,
+    "question": [
+      "1f19a",
+      "1f444"
+    ],
+    "answer": "对嘴",
+    "explain": "周笔畅"
+  },
+  {
+    "level": 2144,
+    "question": [
+      "1f19a",
+      "1f409",
+      "1f498"
+    ],
+    "answer": "对的心",
+    "explain": "安又琪"
+  },
+  {
+    "level": 2146,
+    "question": [
+      "1f90f-1f3fc",
+      "1f6b6",
+      "26ab"
+    ],
+    "answer": "小周末",
+    "explain": "后弦"
+  },
+  {
+    "level": 2148,
+    "question": [
+      "1f90f-1f3fc",
+      "1f90f-1f3fc",
+      "勺子",
+      "1f468-1f3fb"
+    ],
+    "answer": "小小少年",
+    "explain": "天唱组合"
+  },
+  {
+    "level": 2153,
+    "question": [
+      "1f90f-1f3fc",
+      "1f5e3"
+    ],
+    "answer": "小说",
+    "explain": "阿杜、林俊杰"
+  },
+  {
+    "level": 2162,
+    "question": [
+      "1f32b",
+      "1f476-1f3fc"
+    ],
+    "answer": "天堂",
+    "explain": "华晨宇"
+  },
+  {
+    "level": 2163,
+    "question": [
+      "1f5fb",
+      "2b07"
+    ],
+    "answer": "山下",
+    "explain": "方拾贰"
+  },
+  {
+    "level": 2165,
+    "question": [
+      "1f5fb",
+      "1f34e",
+      "1f9c0",
+      "1f3f9"
+    ],
+    "answer": "山水之间",
+    "explain": "许嵩"
+  },
+  {
+    "level": 2173,
+    "question": [
+      "1f468-1f3fb",
+      "1f468-1f3fb"
+    ],
+    "answer": "年年",
+    "explain": "徐秉龙"
+  },
+  {
+    "level": 2177,
+    "question": [
+      "1f514",
+      "1f468-1f3fb",
+      "1f493"
+    ],
+    "answer": "当年情",
+    "explain": "张国荣"
+  },
+  {
+    "level": 2187,
+    "question": [
+      "ye",
+      "1f476-1f3fc"
+    ],
+    "answer": "影子",
+    "explain": "王菲"
+  },
+  {
+    "level": 2195,
+    "question": [
+      "1f498",
+      "1f004",
+      "1f409",
+      "1f505",
+      "1f319"
+    ],
+    "answer": "心中的日月",
+    "explain": "王力宏"
+  },
+  {
+    "level": 2199,
+    "question": [
+      "1f498",
+      "1f483-1f3fb",
+      "1f9c0",
+      "1f4de"
+    ],
+    "answer": "心跳之外",
+    "explain": "颜小健"
+  },
+  {
+    "level": 2202,
+    "question": [
+      "1f498",
+      "1f350",
+      "2603"
+    ],
+    "answer": "心里学",
+    "explain": "徐佳莹"
+  },
+  {
+    "level": 2215,
+    "question": [
+      "1f3c6",
+      "1f52a",
+      "1f409",
+      "1f350",
+      "1f44b"
+    ],
+    "answer": "悲伤的李白",
+    "explain": "徐良"
+  },
+  {
+    "level": 2216,
+    "question": [
+      "1f493",
+      "1f9cd-1f3fb-200d-2642-fe0f",
+      "1f577",
+      "1f425"
+    ],
+    "answer": "情人知己",
+    "explain": "叶倩文"
+  },
+  {
+    "level": 2234,
+    "question": [
+      "1f64b",
+      "1f446-1f3fc",
+      "1f4de",
+      "1f64b"
+    ],
+    "answer": "我以为我",
+    "explain": "储维"
+  },
+  {
+    "level": 2253,
+    "question": [
+      "1f64b",
+      "1f409",
+      "1f9d2-1f3fb",
+      "2603"
+    ],
+    "answer": "我的大学",
+    "explain": "萧敬腾"
+  },
+  {
+    "level": 2255,
+    "question": [
+      "1f64b",
+      "1f409",
+      "1f431"
+    ],
+    "answer": "我的猫",
+    "explain": "吉克隽逸"
+  },
+  {
+    "level": 2276,
+    "question": [
+      "1f349",
+      "1f645",
+      "1f409",
+      "1f7e2",
+      "1f331"
+    ],
+    "answer": "挂失的青春",
+    "explain": "杨丞琳"
+  },
+  {
+    "level": 2284,
+    "question": [
+      "1f4a8",
+      "1f3c6"
+    ],
+    "answer": "放手",
+    "explain": "阿杜"
+  },
+  {
+    "level": 2290,
+    "question": [
+      "1f195",
+      "1f409",
+      "1f498",
+      "1f483-1f3fb"
+    ],
+    "answer": "新的心跳",
+    "explain": "邓紫棋"
+  },
+  {
+    "level": 2300,
+    "question": [
+      "1f21a",
+      "1f34e"
+    ],
+    "answer": "无果",
+    "explain": "严艺丹"
+  },
+  {
+    "level": 2306,
+    "question": [
+      "1f21a",
+      "1f9f6"
+    ],
+    "answer": "无限",
+    "explain": "F.I.R."
+  },
+  {
+    "level": 2308,
+    "question": [
+      "1f21a",
+      "1f9f6",
+      "1f9d2-1f3fb"
+    ],
+    "answer": "无限大",
+    "explain": "侧田"
+  },
+  {
+    "level": 2309,
+    "question": [
+      "1f004",
+      "1f3d7",
+      "1f35a",
+      "1f466-1f3fb"
+    ],
+    "answer": "中国范儿",
+    "explain": "玖月奇迹"
+  },
+  {
+    "level": 2310,
+    "question": [
+      "1f377",
+      "1f46c-1f3fb"
+    ],
+    "answer": "旧友",
+    "explain": "星弟、小贱"
+  },
+  {
+    "level": 2317,
+    "question": [
+      "1f31f",
+      "1f31f",
+      "1f377"
+    ],
+    "answer": "明明就",
+    "explain": "金海心"
+  },
+  {
+    "level": 2318,
+    "question": [
+      "1f31f",
+      "1f319"
+    ],
+    "answer": "星月",
+    "explain": "郁可唯、王铮亮"
+  },
+  {
+    "level": 2323,
+    "question": [
+      "1f331",
+      "1f3c0"
+    ],
+    "answer": "春秋",
+    "explain": "张敬轩"
+  },
+  {
+    "level": 2327,
+    "question": [
+      "34-20e3",
+      "1f505",
+      "1f377",
+      "1f31f"
+    ],
+    "answer": "是日救星",
+    "explain": "徐佳莹"
+  },
+  {
+    "level": 1,
+    "question": [
+      "1f525",
+      "1f004",
+      "1f4aa-1f3fc",
+      "1f330"
+    ],
+    "answer": "火中取栗",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 2,
+    "question": [
+      "chufa",
+      "1f33e",
+      "1f31e",
+      "1f514",
+      "1f483-1f3fb"
+    ],
+    "answer": "锄禾日当午",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 3,
+    "question": [
+      "1f4ac",
+      "1f33a",
+      "1f444",
+      "1f33e"
+    ],
+    "answer": "寻花问柳",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 4,
+    "question": [
+      "1f439",
+      "1f47d",
+      "1f42d",
+      "1f440"
+    ],
+    "answer": "獐头鼠目",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 5,
+    "question": [
+      "1f4ba",
+      "1f645",
+      "1f192",
+      "1f6e9"
+    ],
+    "answer": "坐失良机",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 6,
+    "question": [
+      "1f4a1",
+      "1f31b",
+      "1f424",
+      "1f550",
+      "1f236"
+    ],
+    "answer": "明月几时有",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 7,
+    "question": [
+      "1f435",
+      "1f6aa",
+      "1f345",
+      "1f30a"
+    ],
+    "answer": "侯门似海",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 8,
+    "question": [
+      "1f446-1f3fc",
+      "1f528",
+      "1f4cc",
+      "1f3b6"
+    ],
+    "answer": "一锤定音",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 9,
+    "question": [
+      "1f6cc",
+      "1f4b0",
+      "1f4a1",
+      "1f319",
+      "1f4bf"
+    ],
+    "answer": "床前明月光",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 10,
+    "question": [
+      "1f9d2-1f3fb",
+      "1f57a",
+      "1f375",
+      "2603"
+    ],
+    "answer": "人走茶凉",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 11,
+    "question": [
+      "1f388",
+      "1f444",
+      "1f449-1f3fc",
+      "1f445"
+    ],
+    "answer": "七嘴八舌",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 12,
+    "question": [
+      "1f305",
+      "1f410",
+      "1f3bc",
+      "1f44d-1f3fc"
+    ],
+    "answer": "夕阳无限好",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 13,
+    "question": [
+      "1f332",
+      "1f332",
+      "1f332",
+      "1f34d",
+      "1f4aa-1f3fc",
+      "1f418"
+    ],
+    "answer": "森罗万象",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 14,
+    "question": [
+      "1f40d",
+      "1f425",
+      "1f377",
+      "1f468-1f3fb"
+    ],
+    "answer": "舍己救人",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 15,
+    "question": [
+      "1f42d",
+      "1f440",
+      "1f596-1f3fc",
+      "1f4a1"
+    ],
+    "answer": "鼠目寸光",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 16,
+    "question": [
+      "1f424",
+      "1f424",
+      "1f3b6",
+      "1f33f"
+    ],
+    "answer": "两只黄鹂鸣翠柳",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 17,
+    "question": [
+      "1f60a",
+      "1f446-1f3fc",
+      "1f339",
+      "1f525"
+    ],
+    "answer": "喜上眉梢",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 18,
+    "question": [
+      "1f4a7",
+      "1f4a7",
+      "1f380",
+      "1f493",
+      "1f62d"
+    ],
+    "answer": "粒粒皆辛苦",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 19,
+    "question": [
+      "1f52d",
+      "26f4",
+      "1f3c0",
+      "1f4a6"
+    ],
+    "answer": "望穿秋水",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 20,
+    "question": [
+      "1f440",
+      "1f645-1f3fb-200d-2642-fe0f",
+      "1f450-1f3fc",
+      "1f418"
+    ],
+    "answer": "盲人摸象",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 21,
+    "question": [
+      "1f425",
+      "1f6e9",
+      "1f95a",
+      "1f528"
+    ],
+    "answer": "鸡飞蛋打",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 22,
+    "question": [
+      "1f7e0",
+      "1f412",
+      "1f1f7",
+      "1f30a",
+      "1f402"
+    ],
+    "answer": "黄河入海流",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 23,
+    "question": [
+      "1f690",
+      "1f4a6",
+      "1f434",
+      "1f432"
+    ],
+    "answer": "车水马龙",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 24,
+    "question": [
+      "1f3c6",
+      "1f341",
+      "1f41f",
+      "1f525",
+      "2714",
+      "1f614",
+      "1f4a4"
+    ],
+    "answer": "江枫渔火对愁眠",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 25,
+    "question": [
+      "1f5e1",
+      "26a1",
+      "1f680",
+      "ye"
+    ],
+    "answer": "刀光剑影",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 26,
+    "question": [
+      "1f30a",
+      "2b06",
+      "1f319"
+    ],
+    "answer": "海上升明月",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 27,
+    "question": [
+      "1f44f-1f3fc",
+      "1f332",
+      "1f3e2",
+      "1f47d",
+      "1f613",
+      "26f0",
+      "34-20e3"
+    ],
+    "answer": "姑苏城外寒山寺",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 28,
+    "question": [
+      "1f449-1f3fc",
+      "1f370",
+      "1f388",
+      "1f410"
+    ],
+    "answer": "趾高气扬",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 29,
+    "question": [
+      "1f40a",
+      "1f4a6",
+      "1f52a",
+      "1f466-1f3fb"
+    ],
+    "answer": "恶语伤人",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 30,
+    "question": [
+      "1f319",
+      "1f343",
+      "1f483-1f3fb",
+      "1f460",
+      "1f46f",
+      "1f235",
+      "1f304"
+    ],
+    "answer": "月落乌啼霜满天",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 31,
+    "question": [
+      "1f52d",
+      "1f440",
+      "1f41f",
+      "1f6f3"
+    ],
+    "answer": "望眼欲穿",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 32,
+    "question": [
+      "1f455",
+      "1f4a1",
+      "1f40b",
+      "1f468-1f3fb-200d-1f9b1"
+    ],
+    "answer": "一鸣惊人",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 33,
+    "question": [
+      "1f44b",
+      "1f31e",
+      "1f455",
+      "26f0",
+      "1f6ab"
+    ],
+    "answer": "白日依山尽",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 34,
+    "question": [
+      "1f6ac",
+      "1f468-1f3fb-200d-1f9b1",
+      "1f442",
+      "1f440"
+    ],
+    "answer": "掩人耳目",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 35,
+    "question": [
+      "1f451",
+      "1f480",
+      "1f480",
+      "1f480",
+      "1f480",
+      "1f480"
+    ],
+    "answer": "一将功成万骨枯",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 36,
+    "question": [
+      "1f41f",
+      "1f3b6",
+      "1f300",
+      "1f35a"
+    ],
+    "answer": "余音绕梁",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 37,
+    "question": [
+      "1f48a",
+      "1f440",
+      "1f64c-1f3fb",
+      "1f645-1f3fb-200d-2642-fe0f",
+      "1f349",
+      "1f4b0",
+      "1f6e5"
+    ],
+    "answer": "遥看瀑布挂前川",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 38,
+    "question": [
+      "1f3ba",
+      "1f403",
+      "1f4f7",
+      "1f434"
+    ],
+    "answer": "吹牛拍马",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 39,
+    "question": [
+      "1f480",
+      "1f47b",
+      "1f47d",
+      "1f47f"
+    ],
+    "answer": "魑魅魍魉",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 40,
+    "question": [
+      "1f4a8",
+      "1f42f",
+      "1f422",
+      "26f0"
+    ],
+    "answer": "放虎归山",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 41,
+    "question": [
+      "1f41f",
+      "1f1f6",
+      "1f4b0",
+      "1f381",
+      "1f440"
+    ],
+    "answer": "欲穷千里目",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 42,
+    "question": [
+      "1f52d",
+      "1f52d",
+      "1f52d",
+      "1f52c",
+      "1f52c"
+    ],
+    "answer": "三长两短",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 43,
+    "question": [
+      "1f31e",
+      "1f4f7",
+      "1f418",
+      "1f1f1",
+      "1f304",
+      "1f7e3",
+      "1f6ac"
+    ],
+    "answer": "日照香炉生紫烟",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 44,
+    "question": [
+      "1f402",
+      "1f52a",
+      "1f41c",
+      "1f345"
+    ],
+    "answer": "牛刀小试",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 45,
+    "question": [
+      "1f44a-1f3fc",
+      "1f340",
+      "1f627",
+      "1f40d"
+    ],
+    "answer": "打草惊蛇",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 46,
+    "question": [
+      "1f469-200d-1f469-200d-1f467",
+      "1f512",
+      "37-20e3",
+      "1f577"
+    ],
+    "answer": "众所周知",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 47,
+    "question": [
+      "1f44f-1f3fc",
+      "1f377",
+      "1f618",
+      "1f31e",
+      "1f304"
+    ],
+    "answer": "把酒问青天",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 48,
+    "question": [
+      "1f449-1f3fc",
+      "1f413",
+      "1f5e3",
+      "1f415"
+    ],
+    "answer": "指桑骂槐",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 49,
+    "question": [
+      "1f5e1",
+      "1f6a3",
+      "1f3c0",
+      "1f680"
+    ],
+    "answer": "刻舟求剑",
+    "explain": "成语诗词"
+  },
+  {
+    "level": 50,
+    "question": [
+      "1f6e9",
+      "1f402",
+      "1f446-1f3fc",
+      "2b07",
+      "26f0",
+      "1000",
+      "1f4cf"
+    ],
+    "answer": "飞流直下三千尺",
+    "explain": "成语诗词"
+  }
+]

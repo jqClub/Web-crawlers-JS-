@@ -1,0 +1,27 @@
+<view>
+	<view class="report_title">请选择投诉原因</view>
+    <view class="report_cells">
+        <view wx:for="{{items}}" wx:key="id">
+            <view catchtap="checkedTap" class="report_cell" id="{{index}}">
+                <text id="{{index}}">{{item.value}}</text>
+                <icon hidden="{{item.checked==0}}" id="{{index}}" size="16" type="success_no_circle"></icon>
+            </view>
+        </view>
+    </view>
+    <!--<view class="weui-cells__title">请填写你的手机号，方便我们联系你</view>
+    <view class="report_cell weui-flex">
+        <view class="weui-cell__hd">
+            <label class="weui-label">手机号</label>
+        </view>
+        <view class="weui-cell__bd weui-flex__item">
+            <input bindinput="phoneInput" class="weui-cell_input" maxlength="11" placeholder="选填" type="number" />
+        </view>
+    </view>-->
+    <!--<view class="button-area">
+        <button bindtap="submitReport" class="submit-btn" type="primary">确认投诉</button>
+    </view>-->
+    <!--修改按钮样式-->
+	<view class="display_flex img_piaodai_text">
+		 <button bindtap="submitReport">确认投诉</button>
+	</view>
+</view>

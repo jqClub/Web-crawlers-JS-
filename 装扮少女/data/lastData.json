@@ -1,0 +1,3552 @@
+[
+  {
+    "categoryId": "2",
+    "name": "五官",
+    "iconSelected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconselected/20180425/f9bf01cbcae9ab477f409fe2a1848d2a.png",
+    "iconUnselected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconunselected/20180427/a510db4b84eff27a752990091d05613c.png",
+    "isClear": "0",
+    "dressupList": [
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/e821f0acd7e816e2f8717a04a3966646.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/81051dd89e731bb62e7012c90a2726ae.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "493",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/e53d49274132f41be0a7f44e52c30c06.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/4830074ef3ced5b594aa9a337481a113.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "666",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/6d24c85c0873fdba0ec026e83b7c1bfb.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/e188f817ea77d5f8260421fbef59b689.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "1035",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/899c54cb6e409864057d2a31cacbe2d2.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/6df3724b10c96192e580fd44e46ceb5f.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "662",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/99d82c6ecde1a0f79f2970ae5e958511.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/780e81bd13e41d9cc224bd5a26d63f9e.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "651",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/1529e6c6f69e612627ab446d30ac808c.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/46bccc9a578461e772ef9e8d72b2a128.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "1039",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/0df56e31e6c0150e0efdc551e33b7652.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6d24002fa91a7a4c8d949aa0e241826c.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "394",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/2fa7e04e6022c7dc23a687a54b79a4fd.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/cce780346e754735dfd4748c078218b6.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "665",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/ecc3bad68432bafb52e354da950c3847.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/fc5dc231030424815b3be7ffebe038d0.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "393",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/77602bf985c3ab5faebf5cbb4a5b9071.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/193762ae10075e9091a19b567a20754d.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "380",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/abd1738ae911e3c773b9c485cab2bede.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/8d747e12a4d0fd32f7abddf1396cf4fc.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "664",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/83ea63e35639a3fa167206575ffba620.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/e64f54af8c732115c1463c5652433da5.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "1032",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/0cceeb8fcf0a076bc6c794bdd8d965bb.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/97e35b37bb930d18c58c79d1bf641089.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "1214",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/8f82ee2c3af07dc0342a36eb4e8aadda.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/01e70d4d7844a80617429a09fe29353f.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "1031",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/9b4b3ea0792f80613c60209bdd86362f.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/4724e1b2627038d269837c1e47807cab.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "661",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/e822da1bc6ac40957d5db9f059e6529d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/d72369d7e28c881f98b9fc66b403a2c7.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "1034",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/23dd3413624da2e6d67cf2122b938939.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/fdb6b957eb2dcc4f78da1c813b946739.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "652",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/2060808b3cff57fe10c8f9bd305e69a4.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/73a80dcbe00407f6c40e00dd5651ee23.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "658",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/f0e514e98914bec8c70683a34e6ca97c.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/2b4d2bf1e673f4cfb0370f77b8d40620.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "1033",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/aac90486b73fad9fb18fb5f11ed13764.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/3322746a4a221c1fc5940dc0e4cb02f4.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "648",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/2b407a29bb117217dfd9c2e853143285.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/a409e273bd2c4a87de8b303f494c45f4.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "649",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/01cb5247dbd4c6f66290892550ec14ae.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b539b2e750f9d36e1d4bfa1ab9e315ba.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "383",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4c5248813a0b6b28a80f1757b1055649.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a8052d47907d78d4369cf2288efaefaa.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "381",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/ba044af1c9be302ecad79910045e4f39.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/df92121cc6d9ffb3bd305c6c1c939df3.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "379",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/277cd3e4fec264ee76db08a0a04aa52d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/78f2a525d3b4ac1ff04a22212b4f45b5.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "1215",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4db2f3fe108cc01b194e695f29882fe8.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/08ac54c6ce074e04e4e3ecde3c8e70c9.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "384",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/0a6865e74b94c9989bf2861e9337d0f4.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/86eb61606353a7af25ab92b5f0cf7b3c.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "1038",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4b2a0b45d4ac36d62f01d583170401f0.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/23114cfae331cd14473efbc492f1a454.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "391",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/52e91019343e915922f338b293c8940b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/19ac190c02cca592b512a0883c3ed2f9.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "654",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d671ac56d9bba2dad0820a6f5635cd9f.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/93a24f69f7b49c500559c8811d2e4c83.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "395",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/c358ca7bee0fec0116a25a35bd124326.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7863aa8911b4c910ff33289736346a1b.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "386",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/0ab3ba247230500b69e41f9d2c1d13c5.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d6f214db5ad99171a5ac89cc097e73e6.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "392",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f7981abff36df949dc7604977b585977.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/e5c5621c05905d73d0767481434dd0ac.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "378",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/8db64968ce3a53039bf7dbf7124f7e78.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d2ee69817137d5e4c6df72011ab857e3.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "382",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/e17b76e398404650d85b34db27100ed8.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/8576c63b8b740b972b7de7332e04d10b.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "376",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/81868f999733a8b1784a6ba116fe58f8.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/588a8669375f9f134b9000c0b2805d32.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "659",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6d36811e41bbf6b9a3357152cdcdd014.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/957c84e16c2f614677f44f59867672f5.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "385",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/7401dd889592192ddc7f31a6b75ca3f8.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/37d559dacf266fa141f3c8c823f0994e.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "1040",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/5cd3418ab7b770b48a5cbcf09aa6f5b7.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/4e0998b7918a51ab31464d2c73ed2b3e.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "1036",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/f5278f7794ca262276cc3eadff928a61.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/5e928ec02fa5bf80b45e2eaa47a82911.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "1037",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/41f4d6d541f4d17e9db4d9f984272282.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/185234f9981870849bee118e59e74598.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "653",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/1aa3a973a9b8c5700230ac4aa0ea3490.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/457bb01dfcbf3d20738ae5dd78827520.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "389",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/9fb2c7457da3240b27b779a664fdb888.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b3773c06ececfcb35428d80bdff3cbc6.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "377",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/1ace454b960cb92be8b0c4c19ebb53d7.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/673987c6837f9ea2835d818173a3b866.png?imageView2/2/w/100",
+        "layerIndex": "13",
+        "type": "6",
+        "dressupId": "655",
+        "isNew": "0"
+      }
+    ],
+    "isNew": "0"
+  },
+  {
+    "categoryId": "8",
+    "name": "脸上装饰",
+    "iconSelected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconselected/20180427/80e000077eedaf06ab15631687178124.png",
+    "iconUnselected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconunselected/20180427/4b64ea95c65005d6ca8d44af209bea4c.png",
+    "isClear": "1",
+    "dressupList": [
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/fc1e5e0ba23d1a78d0d7ccdc90798a8b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/c63cbb7eab3121092bb8adeb46b0692f.png?imageView2/2/w/100",
+        "layerIndex": "12",
+        "type": "16",
+        "dressupId": "503",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/2276f75ddc20e104cb634398b8e802f8.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/490c5b22813d89b6d9262339830fc103.png?imageView2/2/w/100",
+        "layerIndex": "12",
+        "type": "16",
+        "dressupId": "514",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/7d8cae2982b451fd23822681493b225f.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/99740e916deda90ee7e65129b0a9093d.png?imageView2/2/w/100",
+        "layerIndex": "12",
+        "type": "16",
+        "dressupId": "515",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/a61d1e037c9a448e095b8537bf943f46.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/b35f9eae8b2d23c224db1128b6dcaf9f.png?imageView2/2/w/100",
+        "layerIndex": "12",
+        "type": "16",
+        "dressupId": "506",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/3b5256c38b69ee3d6f5dc94421d70caf.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/7914150d52567d58254527a5a318feb4.png?imageView2/2/w/100",
+        "layerIndex": "12",
+        "type": "16",
+        "dressupId": "501",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/597bdd0e13e2067bdbee97e367f86889.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/1d9ee237072c2fb957a7a8f8822f40d9.png?imageView2/2/w/100",
+        "layerIndex": "12",
+        "type": "16",
+        "dressupId": "510",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/b89fc3a1dfbb176ae7b1d904688bdc74.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/0ea4d1b2b80db7b07be043c1bef0a9a6.png?imageView2/2/w/100",
+        "layerIndex": "12",
+        "type": "16",
+        "dressupId": "513",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/ea42624b9c134b030796f246ac277110.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/71237e5f34afbec187cbd54814d009d6.png?imageView2/2/w/100",
+        "layerIndex": "12",
+        "type": "16",
+        "dressupId": "511",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/d59e8933e5e97d9ab839655c8ffd307f.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/b9de73bf3f73fce99e14bbdca629fd60.png?imageView2/2/w/100",
+        "layerIndex": "12",
+        "type": "16",
+        "dressupId": "508",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/052eb6106f283fc139fae072296f970d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/4d932c30bc2f24870f6e599abbf7af1d.png?imageView2/2/w/100",
+        "layerIndex": "12",
+        "type": "16",
+        "dressupId": "512",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/7d757b9bcc440537420e3bf086e31653.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/fb7f8849c04138367dce0b66f17b9e47.png?imageView2/2/w/100",
+        "layerIndex": "12",
+        "type": "16",
+        "dressupId": "502",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/74af06a51c7d867ee7cbeecdeacb1573.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/3254bc30be3b23112ca75def57df3a26.png?imageView2/2/w/100",
+        "layerIndex": "12",
+        "type": "16",
+        "dressupId": "509",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/3679771a4c45e55665c877c016852ec7.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/75202933bae3f66e90560b07dc32d74b.png?imageView2/2/w/100",
+        "layerIndex": "12",
+        "type": "16",
+        "dressupId": "500",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/8309160a0d3b1f2563b396229ca4ae7b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/cc7dd6ebb75d8031387cf625b5a64dba.png?imageView2/2/w/100",
+        "layerIndex": "12",
+        "type": "16",
+        "dressupId": "507",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/1fdfddf0c9af7480cc7ccb44c74e265d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/d459efa0652d1452c56db291e2a5a116.png?imageView2/2/w/100",
+        "layerIndex": "12",
+        "type": "16",
+        "dressupId": "1043",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180525/9f117e7807af62a75af3dd5fcf53f2c4.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180525/ca66b7cb1a585182f8427a3b3e8a0e39.png?imageView2/2/w/100",
+        "layerIndex": "12",
+        "type": "16",
+        "dressupId": "1044",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/18ac143a82fdc52f6538417ca411ed38.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/db825efe06b6be23df315196854a9271.png?imageView2/2/w/100",
+        "layerIndex": "14",
+        "type": "17",
+        "dressupId": "468",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/1171643699e59c15ed8be7b09b202989.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/29cbeb86757b9eb45a15e5411be1d6c8.png?imageView2/2/w/100",
+        "layerIndex": "14",
+        "type": "17",
+        "dressupId": "472",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180518/67ea3062f40726d2e56773d1fde2017a.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180518/2d7dda8e814fc1373ef1ec653c7fa916.png?imageView2/2/w/100",
+        "layerIndex": "14",
+        "type": "17",
+        "dressupId": "944",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/3421c05b5a7914f5c66e7b6aa152b18a.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/51b94f4b3bf1d8b676d2e0d95533b732.png?imageView2/2/w/100",
+        "layerIndex": "14",
+        "type": "17",
+        "dressupId": "470",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6fb39ed5483312b0768ef00b9db0b77a.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6964892e3e4b83b7246d3937f8d9ca58.png?imageView2/2/w/100",
+        "layerIndex": "14",
+        "type": "17",
+        "dressupId": "469",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/45342c8a4be364544e82f21ebe6f1fb6.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b65fca0ddf075a5a6f5a42b62f48029e.png?imageView2/2/w/100",
+        "layerIndex": "14",
+        "type": "17",
+        "dressupId": "473",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/e8f244e58bb136db9f22ce3e1c5cc754.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/44ff4a888afae65326501002eb4ed84f.png?imageView2/2/w/100",
+        "layerIndex": "14",
+        "type": "17",
+        "dressupId": "477",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a4941b48e0cfcedc0d7a01c1cfdb3523.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/ac86cecaabedbfd78d1e415ec23edced.png?imageView2/2/w/100",
+        "layerIndex": "14",
+        "type": "17",
+        "dressupId": "475",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/9c1fa5ef63717e3c476e4d7c0a3caae9.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f5ccd8371126004e048e44e61c5497d4.png?imageView2/2/w/100",
+        "layerIndex": "14",
+        "type": "17",
+        "dressupId": "474",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180518/3a5ad2d4bde49466b2ed47fcd3167cc2.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180518/ba77ee44a658b367951aefcb42742fbd.png?imageView2/2/w/100",
+        "layerIndex": "14",
+        "type": "17",
+        "dressupId": "943",
+        "isNew": "0"
+      }
+    ],
+    "isNew": "0"
+  },
+  {
+    "categoryId": "3",
+    "name": "刘海",
+    "iconSelected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconselected/20180425/59165186056f652226ec50cd86f7406c.png",
+    "iconUnselected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconunselected/20180427/e85a3a230003f77413c6df9f911aad5f.png",
+    "isClear": "0",
+    "dressupList": [
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/51b67c7f27623d0591429f31620cd8e9.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/55904f780f7379ec4b5ee6f2692ad3df.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "1165",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/9c554378145e22ec2eae553c61ea6d7e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/10414c74f92bbb6d516dd388de5911cb.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "1164",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a57e04379ed1a1771c9b3f9905b17929.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/3525df9979259cb8d5913dfe3389d1bb.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "372",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/bb12a134b43fda1fd75f13d6d4f554fe.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/c9f80b8b7b076392c66fec3d1cb2be90.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "679",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/9ed3ef959d8fa70f4b05b980020b0931.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/7e02096f684ac42c4291083b75e52151.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "1024",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d14d5ae0c1a9d22d08f826f4317eff5e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/cf5c578849841560251abc10483e306f.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "369",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/465a24d0393e80300cd188879083469c.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/b8c8b23480e22fc2127dee4424523bba.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "883",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/8643cfc576e76694e96a691993b88bf8.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/bc79b32759f13e7efabdc5d5e9b56082.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "680",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/71850d75b3ecf052f370aa578f45d64a.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/8212bda0902b0c62a49be15f517011bf.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "373",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d20dbb009a3d1873df6e434bb23bb6ef.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/15239a2dd4d12b2cdaf1443cf39db625.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "358",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/a6887c96317dd9de9e8abe3d2d0d2a2e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/76bfe5436089b7a923bdddcaf767ece9.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "1025",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/318f60fafe6c40a83a791e5fd97fd08c.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a7eb5f66d619d751f84cdfdbe28bc2ea.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "364",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/c6cb80f88c0560db7161b2da165591cb.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/357ae889b02d428b05fa482240c76160.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "375",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/493dec242e872f504bcb386f6df0ce59.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b03d861eb01d546f0b8fc766ff935862.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "363",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180706/e152f750e7e8374c17f3731af620700d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180706/7ea489ac9f172dd8a85d01a9082aada1.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "1246",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/2c8213a9ba0101699edcf8de7a74bac1.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/bebb28a3ee7c1025aaeda8ea7939dddc.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "365",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7623b6d95af6cd04b6f952408c749cdc.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/46e837ae2bdb883c7ca2668555376984.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "368",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/78ebdb836692dc0def98847353fe3c11.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/3f6d445594ccd4931992bbeb99aef151.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "371",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/de91d1dbc798242fdfbc9cce8d6c3f1a.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/566e4c706e02aa15f64b3be8cd9f2693.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "684",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/66d70cb4ffce0b2ea6de34130b9d769a.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/881a140197dafb3388bc5eed9912266f.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "361",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/4a785b8094880a377556d4b1b62bf523.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/abdc5fc8cdc409818fc4af9519fe3d7d.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "1023",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/0c008ba16329fca213cca0c575d88587.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7e1521c1a013bbd48a3e38d01a31331f.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "356",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d118178b303d7abb6fea86cbc4be8453.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/81a63abc1581a5862f326c8b072e3466.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "362",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4e5fe24a751f52a42a17128b78cd8973.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/3d10ca810f2336dd63297ca2346a58ec.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "359",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/dbb86c6ace6398c2a52bf003a9c1b1fd.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/6dffd8a48b41623b26d3a3e1d67ad01c.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "678",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180626/7fe2203c1bffcd8c962960b1e269a28b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180626/a4c21dd61f841914279cf88d80760071.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "374",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6740338c0aeb79fae72369b1dca47309.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/54b85fa59bcb25313277bd3f23c8bcbf.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "366",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/fe05f06f51cc2ab51f363efb1f36a6e2.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/3802d5ea2680a92efd6f293364602fc6.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "677",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/ede6b76017f1f8feca5092d396bff262.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/022918c7f0e8d01d8f1d2f989b255196.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "675",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/4cd4bc21d25d7f378cf677fe4ba2423f.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/e6239e5eb726640a7afc75b16f83c066.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "683",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/b98c039d0010c38b6bf7b271b6572d2d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/35982b2cb6a390867d87731618eca61f.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "490",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b92d6a974cefe85f09389955b84692f4.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a795e542fc9cf1603effb5a4057a45d1.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "360",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4f5a6718993c8d3edc3cd14d916dc054.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/86cd4b7272923615f6a6b6b0958dc0d6.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "370",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/f4db0e87cd0f848de2f13ebab71c2865.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/b5b30186918781ff5e0641ea0c19e6db.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "1061",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/c07012902b0502a3025d0d5974e1280f.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/a2e9db2e9e88843862ad340768acbdca.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "1204",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/521643bcf94ea9601bb1fc1848c94ab0.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/35c634e431d2738d395033c7b7621b71.png?imageView2/2/w/100",
+        "layerIndex": "15",
+        "type": "7",
+        "dressupId": "1060",
+        "isNew": "0"
+      }
+    ],
+    "isNew": "0"
+  },
+  {
+    "categoryId": "7",
+    "name": "后头发",
+    "iconSelected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconselected/20180427/8b0a14ee75cffc0dea02a22286fc6da8.png",
+    "iconUnselected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconunselected/20180427/78346db6fe9db59a590f3352ac16e0e9.png",
+    "isClear": "1",
+    "dressupList": [
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/c851af6e055d8ce7228b15dea7b3a779.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a46f64d67ffe10227a407518d51adadf.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "293",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/fc125f1cd010f370df0040c52669efac.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/2deb7396896e77a81d79b7c755707fd4.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "855",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/75a7e97c0eabf1dd24c64f1818ec0fd9.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/29b6f65f6795a720d251ba8c13b57bde.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "282",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/c11a08ba758c0975f26883cc834bde31.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b8e8c2013867d8891e4b67f0f82bfa7a.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "279",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/71fa3b504cfef74e6493420e40bb8f02.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/5126095506b6b41d457914869ee73191.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "287",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/27ade864a678ba98597e7cb469395520.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d224d656af7c6d86d8cb92c0a401c523.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "280",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d51ec2db753f2e8a69fddc0e934144bf.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/76859accd3fa453928ff2fa49a71961f.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "283",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/0983011ac3756b2e6bdac99bb9bc1362.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/3b063e76503a2b822b053190e3271595.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "289",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/8d55e6f183d64ccf0a476b191a463a3d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b1ff4cec4efbd90f1c4b3b18539d6899.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "294",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/3b7344f35794e85cc63a3069b89e60c0.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/9647109606ae59ed1e2700f70d0b6992.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "284",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/7551b9f572b84b5775b5f34868d1af81.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/660b886bc5706014e23145265df6865f.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "1029",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/dca50c674f51dc1f9850fc148d7080a1.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/e5a58ee4cb069e0421ebbd4bdef0a98d.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "295",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/86e6d5e43238d99c17128e8f795b35e2.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/f57a8a40b6738fa09e337b9c80f94ccc.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "1062",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/5c32c0a90a52fad410e84e2db4463839.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b19ee1938054962a05ce2c9565f1717c.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "281",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180523/86d422daab82c2cb4802337e4a91e677.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/1b0bbd95223429e84c050c240e5a0a0d.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "292",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180626/5de4165e743b383b81ef771ff58d05cb.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180626/eafffbf95a0567ec2b440b4a0d0424e4.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "296",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/9d836de40bf9ccca92447368616bd4b1.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/678df7e2ae8c8515f341e4926521412e.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "285",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/94c5119a7309beea93999f33c6d5723e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d097ba0f13b760fbaee3bf920e9b6db9.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "278",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/625a19091edc031e15aeb90f066320ff.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/03934ce6eaf75c3b94daff6ea62ff852.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "291",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/d89fd06550f319fff3d3012aeba8f12e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/c3556ae7e6ec9c0ff887003dacf20ed2.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "1028",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/914dcbf2dc03724a51be2277feaa97ec.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/1fdc587b4500beb0ccf23aafd6656a13.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "277",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/4d4c5723ede3f62bf81f9a6bb5646e67.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/e6e80bb41f894360a761f1c2b124bcd3.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "1151",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/123e532efc595b3928f99454ba9220e7.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/87549e68b7bc19297c1163f53ece5e4e.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "288",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180504/fcc27bfce2a63199d583fa1aa5c97af5.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180504/f637e5597be7d8a1164d338d9ea68a7e.png?imageView2/2/w/100",
+        "layerIndex": "1",
+        "type": "2",
+        "dressupId": "915",
+        "isNew": "0"
+      }
+    ],
+    "isNew": "0"
+  },
+  {
+    "categoryId": "5",
+    "name": "连衣裙",
+    "iconSelected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconselected/20180427/c08acabba3a773bbd3b906f5e9ca45e9.png",
+    "iconUnselected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconunselected/20180427/8a8fbef739c3861711e4a7fce8c064d4.png",
+    "isClear": "1",
+    "dressupList": [
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/dbed29c2932c7bd814adc39bd106d75c.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/133aaaff4eacb6707251955722c01a52.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "336",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/798ffd4f4ee4bede04df71b15ae349c1.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/4575a8c7a8e01e3401df4ce6976bf243.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "492",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f21ee23d62bfd43e28139addce0072ca.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d030adde119e8fa19fef009df150253d.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "332",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/742f6b790f71e2b592a2789e165c8696.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/61219fb0aa0388cfe72c3570efdc482c.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "320",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/5c429e16c73e411990425ce8bad6d91b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/39959b449b01319ffe35f28bb7f7d2e2.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "328",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180523/c9c904bed1464f79fca9c4391cde6982.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/1bae602c4db1efaf2599e73776b192aa.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "671",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180523/5ba6006d4eb231a8140650df7edcc026.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180523/7fffd128c81acb5ee912f68bd4d6c289.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "885",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180530/b62b139ac89f3048d14c4ac31d9b3f53.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/337a1ddab73f39eb234f5664a379e2e4.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "318",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/75fe1bc7a8536b3ca5c403cfa552d9fe.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7581da326daf9f7a9566ab7fe947d8cf.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "319",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/3230614c7abd64e149053a33e3749afa.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/af136cb4b0dd31a4334a49d3c1b167b0.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "1205",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180518/22172369feeb78825968872a2af9b4c8.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180518/96589cb93b6ab9d29c499f8a02cbfd12.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "926",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/da10bd4964727b52f9b062aba9ef609b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/c844933f0a9754433dcc7a6f2137f6c3.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "894",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f2edbef64d5153424749bc69e24706d2.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/ed0a5fa6b140e7f2211dc3370116ed9e.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "329",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f72865e11b37be9c691d614e46e05f08.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/46b540bbc2c4a1df28319d3104ff3978.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "333",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/8e7193ff27953a0198686b802ca2e168.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/da2e2ada4c62a0bc771815407e871777.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "323",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a880a0f22b4c6bdcb6a69d590f4f087e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b5d6abca01a956dcd2069b489e6b0781.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "331",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b5793348c37616cce098db8c3c1ce4f6.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/85ac79bdcc9416f5cd57658e93052927.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "322",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/5e0c5ab9957c9357bc92ecb2b181521e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6a10126666782a079c5bb84248852b58.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "334",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/1ac3c44c946e116d5c9fb019af29d3cd.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/dfa306e5aca56235dfc19189d258404e.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "325",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/915cfa0b3fd09b4130ef8f87c5e2cc95.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/fcc6ea5ef3c6417b1f166464d39d62b9.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "326",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6ccdec184ea466a9fc51f949ba082140.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7d40dd52841d526801b847b21f464cd3.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "317",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/59c67aa3295c3b3e786740346725b371.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/fcda55277723528165916207fe9388ce.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "854",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/34698a58d12926c6f6bfa4e6c4c87fd8.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/c78e54a5b8ba190d03b7d4398660fbe4.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "327",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/72bb00ba64201ef67bd7f689243bb3ca.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/65789499ebecd53e320dca39be798104.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "1015",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180530/5a6f43bf7d26f2ec93312869a648358c.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/d9c8bdb5337c212352a8e6b41559e8ff.png?imageView2/2/w/100",
+        "layerIndex": "11",
+        "type": "15",
+        "dressupId": "487",
+        "isNew": "0"
+      }
+    ],
+    "isNew": "0"
+  },
+  {
+    "categoryId": "9",
+    "name": "上衣",
+    "iconSelected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconselected/20180427/5209789eced49cd09d9e725e1609eca0.png",
+    "iconUnselected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconunselected/20180427/199652cab0936e7911c601db1fab8b10.png",
+    "isClear": "1",
+    "dressupList": [
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180518/ae901b622e27964d12dd0077f63675a0.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180518/d7ffac44264e4c4dca7d38730d1f56b2.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "928",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/9328e2f50a805ada854e025c78460848.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/733d7a1ce4cff6c9c5442cc3692009c3.png?imageView2/2/w/100",
+        "layerIndex": "9",
+        "type": "11",
+        "dressupId": "1210",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/37703c2e2af95e75f3afd5e7d611a15a.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/8cac6820d57794b26c320df09ae85715.png?imageView2/2/w/100",
+        "layerIndex": "9",
+        "type": "11",
+        "dressupId": "1209",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/85c720fa981a850e13dab24e0b348565.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/3ba1cf23ad237473467a571a2d29cfa2.png?imageView2/2/w/100",
+        "layerIndex": "9",
+        "type": "11",
+        "dressupId": "1206",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7b41352a15e0a2d058ae264fa27e7c61.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/412cadcf7e04a09582d82378cecbfa58.png?imageView2/2/w/100",
+        "layerIndex": "9",
+        "type": "11",
+        "dressupId": "444",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/de7fb7119370a688e1c1b1c80bab3430.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f4490a92bc3714a333964fe8cc0e3f22.png?imageView2/2/w/100",
+        "layerIndex": "9",
+        "type": "11",
+        "dressupId": "439",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d1ac07c6b3bf70c82d3ac5494eb4d105.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/91f177ee1dd078bc099cca387fd3fab2.png?imageView2/2/w/100",
+        "layerIndex": "9",
+        "type": "11",
+        "dressupId": "447",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d4a46e098d6a1982974803fa37c9dc53.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b132e430eab8863513941c87bc6d1634.png?imageView2/2/w/100",
+        "layerIndex": "9",
+        "type": "11",
+        "dressupId": "446",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/5d5f6651a2797fb81c73ba9023bfdfb0.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/e6edb6432d0fc2210e22118be8d62572.png?imageView2/2/w/100",
+        "layerIndex": "9",
+        "type": "11",
+        "dressupId": "445",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/fc934116c1884ed82fa6f1c28ad43268.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/34f2fb928e1f020dbd0f9ad9bc43ff50.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "257",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/1ac82586b36b6488c992b4a14277f597.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/0d3346049fa6f91ed192f1cb40a1d197.png?imageView2/2/w/100",
+        "layerIndex": "9",
+        "type": "11",
+        "dressupId": "673",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/350a242a8ef6912f61e1d3fcdb4f2d74.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/dac7b29d7b8bdb99560aa2ae3d0a425d.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "623",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/a9eeda24fa666013be5dbfc9076b9897.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/95002b80f3f3e01769c1ed6424ec1955.png?imageView2/2/w/100",
+        "layerIndex": "9",
+        "type": "11",
+        "dressupId": "772",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/b571b8098485800e80b5159ea0285c4e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/0741cda696d91be35b79ff23ac9147c7.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "625",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/176131662aa0ec1654ce57e08ab25eb4.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/31b7fc64f32fcfb457a2acf12fc8c21b.png?imageView2/2/w/100",
+        "layerIndex": "9",
+        "type": "11",
+        "dressupId": "437",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/308c60758af5aaaded539f6f27d65d30.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/9711488b870f80f2a31f700cf143e9f8.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "620",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/61a9480797e9395a652dd2dc2f49ac25.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/c951fd5b7fb911b517d5adf9cac4e4cb.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "527",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/bd07c14b1afaec43afb26a6c746c6f76.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/7ee28561fab8c9fb4d373ab4a5e22853.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "526",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b2aa5800a60954281c4036eb77a24162.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6c72b9120dbb084c8928cc0a57a6ea9e.png?imageView2/2/w/100",
+        "layerIndex": "9",
+        "type": "11",
+        "dressupId": "442",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/fcadf1c0fff0b7266ea48313391895df.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/05cb1a2d71085d814bcd3dfc0b25ae07.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "258",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/3da408d620553329863ab3d175adfb50.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/68bcd76d596906cd40528cdbfd395ea7.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "259",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/cf4dd84eb7cad5855f114d9aeeadd5cb.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/796ee11b934b7964d01b6f73f8c09a12.png?imageView2/2/w/100",
+        "layerIndex": "9",
+        "type": "11",
+        "dressupId": "441",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f43e9d12b849f95b30ff6968780a69bc.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b7053a71bc387c6ddada8e1d487f620c.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "260",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/af36cb3ced457387991295acdc42438a.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/3247cf0747b6a87b9e9519a05534b48c.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "255",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/73c162e58d0238a48af3da59f72e2ef0.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/881833536da9aff517e2c93c44fc8d8d.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "525",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/792877949d27fa577a68029e47bbbdd1.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/67686c1f28a08301199acfff359acecd.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "1019",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/f7a7be9f003aa9cad6bcf215a5f82c57.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/98498195f3c951339abdf02e0f455aa5.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "1020",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/0aad2b5bd04091d556429aa725ebf1f7.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/dfa7a514439ea53447503305bf148710.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "621",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/6976da989184dfa97d9d47d04058bfee.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/67f094eb88f9e09b8b5eb82667134b86.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "622",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/cd1d32aea7db1f50edbd6011e7b6066b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/1ab3809c6bf5d6d033a009e12b4f5834.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "624",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/7191bfbd978c0864649a3b71dae974d7.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/c40206e68d637033149d68ba2d322305.png?imageView2/2/w/100",
+        "layerIndex": "6",
+        "type": "10",
+        "dressupId": "1021",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/198970d7c3ef1acda3262ab7d20411c0.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/09c2787afe4705b1fa30eda0d0c92251.png?imageView2/2/w/100",
+        "layerIndex": "9",
+        "type": "11",
+        "dressupId": "1066",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/c03f90f193e32477df50bc7e399d0ec3.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/74eb2d2a03b2611ced0053b2fed1d748.png?imageView2/2/w/100",
+        "layerIndex": "9",
+        "type": "11",
+        "dressupId": "1065",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/2fbcd8fc05a8dd19ff665013ccfdf075.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/eb360c04a375c6ddf941d657d7d5ca3c.png?imageView2/2/w/100",
+        "layerIndex": "9",
+        "type": "11",
+        "dressupId": "1018",
+        "isNew": "0"
+      }
+    ],
+    "isNew": "0"
+  },
+  {
+    "categoryId": "6",
+    "name": "裙子",
+    "iconSelected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconselected/20180427/1e5c9812d8decf4785b52c897da8bcbb.png",
+    "iconUnselected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconunselected/20180427/b74c1a88a39948434f2304a1e923fb4a.png",
+    "isClear": "1",
+    "dressupList": [
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180518/b4723980e1cdd47d1df8004af14dfec3.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180518/0655991262fb2209b39991cb69646954.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "929",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/5669ba029249eae78b895498e1c53f3c.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/b7f9f0fbcddb63ce29116d07d1b6dfaa.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "1207",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/0229f72c27866e0591d9506baf15b078.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/6aeb7caf7664be24d58ba127e8623f29.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "1208",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/3ec03778c225910b7ae2ee75533c261e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/76d91da5fc71f1e37346c181fa679b43.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "310",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/5a6e775938146aca3b91ea85b992179b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/29e531d1f372c52d422f3c4b6bf96889.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "316",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b45f99f73b389bcb6a22a021d56d397f.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/88b5179e8f09a475e8dee794234d86ff.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "298",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/12aba7ad01b8f61cb4f525f799132e20.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/e29953f5f7bc276d138d747ad552e28c.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "306",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d1313c38dbac9fcddfb82edc2bcc3408.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a226f79de974983202499dccbae9e8b3.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "305",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4cf27c79d3a739f9f4d5dce17e4b11b1.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/edb7b66f887e89fab265fd1bc70cba09.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "299",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/fd77093b4da828572e0079ea5039579e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/48c25314ab5564910f5a0f4560fdfc41.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "300",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/eddf0340c5cecde40d677b0ea60a4811.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/ecf88b22727d1560c759767ce5e98479.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "311",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/12ea611d67d603f7f533c5d83343ec63.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/fd3509af80672063fd69752b06ea059e.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "1017",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4a5be866e067c99474405eb5c7a104e2.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/789038d478e39fa465bfbc99a197b75d.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "314",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7e1cbe61165bcec1710cf5a27ff4c34d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7450a718b559ba5c609e83fc1ab57dc3.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "301",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/a60f2d02847f5701a7903d86f4b0500d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/883bdd7023619cf7839cac4d6d75cfce.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "1180",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/f5c7b4069b0fb8a648d9ad35dc006286.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/d505015a20bdfd7f8f56cf5c15af5a68.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "904",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/d84fe7a66c7bd0e1aef90950f4d903d7.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/20c511243f29ff275815c5c376693477.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "905",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/5bc896b76251cbf1ab945a792fc2566b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/376e66907a74cd5aca2122493484a89a.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "519",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/fa44075e93ff801fa00919ca2c0ddf0d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/d9bcd64b060437efba08e2def23944db.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "787",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180523/20bcff06690475fa9c3bffce403b8f08.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/25a34f674fa30a18306298198f4cceee.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "485",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/fd31f5aafb85e83cbf00dba25a0ce018.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/730d0dbd672d6b48285142554cf43e24.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "297",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180523/11bdc250600e5d70c8740221c25515d9.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/dcc3dca79b1fa6dd5013295506458653.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "674",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/5928b0046dfe346817bafdbefe18352f.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/459ee3f64456c6181637e2eb90755fe1.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "1211",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/51986a6d9bd5404f3652410e3b0d41f5.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/8da16b86655e75c27861308b3d5f72de.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "308",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/07f493bfc4451e6d0e07d4edbadc81ad.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/090c53563b913d351372e95241f17b28.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "520",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/74eedfe73471ff04f40e5f7133c8f5f1.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/76dffd1cab40ca71dd80fb2df26a6b84.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "309",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/759aaf947d5ac1d77c1fd6523ce72c90.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/67b88eeac2bc79c3cc1f80db85ebd58e.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "313",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/0c1f9e40912eac42e093cdd42d0e316e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/739fc79c1333088c56b36cc4e294e58d.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "307",
+        "isNew": "0"
+      }
+    ],
+    "isNew": "0"
+  },
+  {
+    "categoryId": "10",
+    "name": "裤子",
+    "iconSelected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconselected/20180427/3206203ff43ec1584aecfe1c5790129d.png",
+    "iconUnselected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconunselected/20180427/98b47638326c420690872553d8ee87dd.png",
+    "isClear": "1",
+    "dressupList": [
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/419a4867967de06a1fb1288351dfddc6.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4a5c857b9d798377e1142273c6b2b4dd.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "242",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4c1e18064abbd1b3e45ff0845937006c.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6b1744b394d6e47462e27a88b24f858b.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "243",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7922a9ff9f778e38ce3662fce4f17b32.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/59128210dc77b3c5aebebcfa6764bd89.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "481",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d4faed39894c07170ad61e6c944c576d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/2de5db2ca17653700209979394be124d.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "482",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6ce25104ebaaeeb17bbbe3d992b55b96.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180803/e4c243f80149180f38db0822fcd8f3ce.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "240",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/36b2abeab0ed81d5866094005f733b87.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a316abd1c0735184df26ddfe8dbea5d0.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "244",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a2db01256a132cf6c28e715f2acf7772.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180604/3e81a81a81bd4c42ae8c0780a48d002d.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "484",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/3b40784fa1bdf43bc06312759ac2d699.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/eec2517a972752127856c365aec3e72f.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "516",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/99a358ff2873236d72d2d5d33bd27e3b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/ee7043a739fdd8cb03f10f40f7dfec33.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "249",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/421db06a12654f419d222450498d82d6.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/1d9031bf4d741ffa650d349ed7786552.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "241",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/e5b1b422c6ac15d81229a85a3cfee9a8.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/351cc1b4f173ff7aa11b99312a4e1365.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "237",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/3ad8dcfe7a4af299f859d6306ffe32e1.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d0228298fd3973699732fcf1df5a3901.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "246",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/32114c35f097a17992d12e1c8f61b767.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6d583689cc6e61598b90622607b80ba6.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "247",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/ad69f8763d748be370971ded936e9da6.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a29135e5fc1b2cca6f5c6dc2ae4f74f0.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "248",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/d85a0d74ad445e927ad1860f16d2eab7.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/dc38470287cda857042d1ed9c6ac83de.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "1070",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/19deb155e493c178ad8fd48b235c7615.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/b4bceec2c7fea85a821b71e5ca99a369.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "517",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/c7a8797eebe8a222cb1c386966e4998c.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/d7b2266f3c47290e8ee4ab82342ac4c4.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "518",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/2dd8346a00d1d3c0187fb503ea336adc.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/2bbbae40f52e5f8558b77bc02c69f638.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "524",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/e322fc922bf0a464bfc1ac883625af02.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/adbce33f085a6634449b79563b7b6dac.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "238",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a8838c69cef055f29b983f3eaeebdcaf.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7735812180fcd63f9d8e625d30efd038.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "252",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/46f2dd479025e02dc8c374fb2af315a0.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/694d077b128528f5f787648e31f85117.png?imageView2/2/w/100",
+        "layerIndex": "7",
+        "type": "12",
+        "dressupId": "250",
+        "isNew": "0"
+      }
+    ],
+    "isNew": "0"
+  },
+  {
+    "categoryId": "11",
+    "name": "外套",
+    "iconSelected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconselected/20180816/171304e2ab91527f303e3108c010a2c7.png",
+    "iconUnselected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconunselected/20180816/626a65cbca654beb1debfb4b04473a4b.png",
+    "isClear": "1",
+    "dressupList": [
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/8b1b2a3c0f3b4d136129409550527c4d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/0fe6f6386650cb807540528ad561551d.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "497",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/82873333b13f99d62604e6ea1a9018df.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/5a772f3b745fdd41cc45ca8d6851f679.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "498",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/bf3efebbd33acbc7a83cb434dece7d85.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d03a236c969ae9a0bc226d37d13ab9de.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "228",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/96be05aa9caee78c7cfad3b025f6009b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/69a04ac5773d27de299526ab4c160435.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "1027",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/72f696ffdee3baf2b1e672a7478fc64b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/cedd4e2cdb3fc9e8da51d36403fcec7f.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "1026",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/e7a1f0d3dd585130a7bc4ba50cb7415c.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/476329cc02df9e844a22a4e8e64b937c.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "220",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/58414a86b3d7e4c27fbaf192723af10d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/391e6539704ec4a24b06be6f5518c4dd.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "230",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/278ebe1c801e63ccbf83bce55a0a3002.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/520db9baf66cf8ceaa7ff2ecb4c32060.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "235",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/30ec1da1a02ab701fb6f95874a239237.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/9529526806655467bf63148e921fd40b.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "808",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/656de6551270b9398361e0b866abe347.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/ddd67135e4708d259e843877973a902a.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "669",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/33ac2636de3432f7824bc7f2b17c66f7.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/1015d678a20aebbfd5cfc72da8ff2650.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "219",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180518/6c7168a5a5b6daf8075cc0c83e779f88.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180518/81052d1399d2e370aa8e831b2d8afdee.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "930",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/58eb5ac4675f1a3106b6a6b7a464dd48.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/fe367a81fdd7ca6634424a0b06fcf89d.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "229",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/8d54cfe033d39f98dd0f2d42598a3c5e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/823c713ef08ca0b93b07bebd12ece0a3.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "774",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/659acd5e5c33e7b372ecd17842a3ed3a.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/4f926738dc8f057953fcc70b37a4e659.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "884",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/588968ee76ec7b1cc1ccf7b02657b1a6.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7aaeb66792fcfdc95d6f358ed013b95f.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "221",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/02ac10c29694e1d72ef8214ce95e81f6.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/8a0223cc85707e4aa1825bfe0c02bb23.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "218",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/7167bc4c518140e50067c83ce906e419.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/f920fe3b9c36d4936a6d2883afe8c2fd.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "499",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f7e2f1bacaa25ea9c8ecfa8af2cc11cb.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/8fcc6dd7b70212edb3f2a1ebbff9dbeb.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "234",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/ff0b3419e54d5a5f4763228ac20b6dd2.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/9c475476d1548ea294a3d215978a6c25.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "222",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/ef37d7497ddcfcfad1441e7ec6fb148e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6b2c77b9d4516c291ed4ed4e02762770.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "223",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/2b4cef18ec62b52de56f454826fa734a.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b0d950d6f95864e3ea4df7a9ebdcf3f9.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "227",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/af41a71dca493333bcc7f4ed61620c8e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/79e30b0170921e8650e82809fa448ef3.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "231",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/c00b858bddfc5ea1246659696e43ed50.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4e39df5db533677cd2bb900b93ef2861.png?imageView2/2/w/100",
+        "layerIndex": "10",
+        "type": "14",
+        "dressupId": "232",
+        "isNew": "0"
+      }
+    ],
+    "isNew": "0"
+  },
+  {
+    "categoryId": "12",
+    "name": "袜子",
+    "iconSelected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconselected/20180427/08ece25edcb3967d66bc5709a4204381.png",
+    "iconUnselected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconunselected/20180427/e16ead3a12e7e51b510d0a182ccb20eb.png",
+    "isClear": "1",
+    "dressupList": [
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/aeec5d300dc9c9aa7ec4dfd5559b8165.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7d822136fd43e1323bb40337e325c94c.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "435",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/19682c59a32c932abf0a481b932e83f6.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a6c05f60ecc424edbe757d91d93a01f0.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "432",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/8743bd4dc9db8a91060f9a7216e9ee47.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/fe2d49b12748ba669bba5ebac4bc14df.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "433",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/04c729f5c1a75d57190a1e074e051ba8.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/0aadbbf61e31071d1f0d7471c496982c.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "434",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/aa8b3405ee757a73aa37957475d5db21.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/e710679a824a94a0a1eeb911f46fd3bf.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "416",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/a16de34d94874c6f2638df75faf3a082.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/223c5c34ab822637ced278903c85b6e3.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "906",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/19b8d36c8a17580bdc6cd877f7997b92.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/7a4374667ef37b4ba7a069503593bb54.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "907",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/e873d2f822b1b0e6a5fba46a18eace4a.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/9f98bc77a7fdda52072cc7790dba2eda.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "430",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6b6c67bb605ae5e9bf041635f7a784bf.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/515c4d4ecfb6e24dc22823cd6fe54a7b.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "429",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6ade1b7a321f538f9109261e13da9e6f.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/71c5be0423904287b70ce92926894347.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "417",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/160f6b4fe874bc3045f9c4f2f13390f2.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/08eefc8bab7ff633eaae8975994142f2.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "418",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/94ce1949f2accd3cfe1cedb75cf50f84.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4f82d5579633b767ce0539504cd486c5.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "422",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/bddb3ef729608eb17a3f2a6f95667171.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7defd30727d31c08994ed42d02be82f2.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "419",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/1a92c380bde8b48bd9fb95a5c83d18bf.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/2eb16c3a6f8091da51e73b97053a0a30.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "428",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/3450aaa10272f09789ee8ac15acb866e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/61587c1770f148f99a0c07b4102db704.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "420",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/886fc6f41a3d975cbd3fb38a3ef2642f.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/162fa53918585dc0fafdf9ab0150d1a2.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "426",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/dc9c997c8f72786234d8fa3e278e3edc.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/19ede6a9feb438f7f590e711a5dbe913.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "421",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4b91878f0f417a0035056b237ab22c5e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/1608652982db030ddbb65889ce00e9be.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "423",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d594c8b10fc9abb4b01870ef0616e582.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b7fecc6e414401d555db7165a0bc93e0.png?imageView2/2/w/100",
+        "layerIndex": "4",
+        "type": "8",
+        "dressupId": "425",
+        "isNew": "0"
+      }
+    ],
+    "isNew": "0"
+  },
+  {
+    "categoryId": "13",
+    "name": "鞋子",
+    "iconSelected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconselected/20180427/b98e70660b7a6cb2d02ee77ec1aa5ef5.png",
+    "iconUnselected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconunselected/20180427/e8a8c30456e357a2d84ac4dc07dcc702.png",
+    "isClear": "1",
+    "dressupList": [
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f3e1ea0867baa9ba9810e147f1625c1f.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f2d68acedbfaed2be1d8d4125ec5c3cc.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "210",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/48849ecf23c53117c85af1c342f3e826.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/98806c9dfb83ea051056c8e6b3b65d17.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "998",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/d03b3f1057265b199ca48cb7b19b4c2b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/c4db2a9098d7b45ff9d3f675629693f5.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "1010",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/74055a34ac1e5207495f1b5e5a32f9de.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b374484a8ecb227f710a92197dad26df.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "217",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/c26781e2cf1f14fb3eb3f3b31a7ac819.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/e3d9cdeecd15d9bb68731c326cac6c2d.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "997",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/488050ff37daa241a155bc6d1115432e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/a97328d2bb8facd09a96cdeca4a8efd2.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "1006",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/988b956b3f2d658b1808a076bbc7dd40.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/e6d5f1a4b4834c80b6bc11f9561a6b8d.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "1005",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/3df8813ff09178752507c813e4ff4293.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/3e61ba381633ff2cb303c8c053a742f3.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "809",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/186dc4edcb95e5aa4c2277012629ff39.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/ef00f0bd6b26ca74c95850ae50cdc227.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "999",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/254c599943212a46921873dfbb6c33c6.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/fc0f375cad34831bcc06d90aa5174692.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "206",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/818ad17d15f1d945eca4d2596deeda29.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a3229cff4f89200e3f03f1c2235d93ba.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "214",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/c3135d072d06f200e9547aa8eb30683d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/1c3e3dab4b5f5008571ff3c777298fc6.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "1004",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b0c10d281093cf780f209af53683b2a9.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/fb74706ed180255834ae033d8404f6c7.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "199",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/ddcaaa6af3bdb072fcb07c1fe8a1e13b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b09958405568798f1c6a2e818b1ba343.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "201",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/fb06a2403ce167e417f30667813ce768.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/af49a4b53af36ca21208d4ae346571e3.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "908",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/c104102cb48eb559924594e331867b44.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a2541146b9f3cbc44066d0f1d0f43688.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "198",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7b4b9f6164076a99a527511fb6d4d27b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/3a5d2fff094725379902573dd319a89a.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "200",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/36694491a27227f6dc3b3d4dbdc0960f.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/c737160efc26ede38ae13606b7275b8b.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "909",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f3ad237514d238aebd899acc14385015.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/8ffec064fccd25916d6ea135cb6f3d2e.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "215",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/ba6c31a1a7f4dec1adfb5789dc803278.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/4bd413cfcdff4a7e81a087ed71558f6a.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "1003",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a758992f8afb29f77047deb2bb217e05.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/e027d0c9b2902396e4721ce9d67e6477.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "204",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/ab7573ba584cecc3a5da374bc29e07fe.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/3fbd31c35daebc87e37cb2f5144772d5.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "1000",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/b73e4ddcd7ef4c77f2c613e5e5ac0b73.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/4649351d621a4b20f802f36ad4f4e100.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "1002",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/010a2f2f897553968caaa4b4758d6e30.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/20668c20e8868434c3acd6b44a6f1a2b.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "1030",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/b9444ccf1eeb64a705b26bad1cb8d14d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/366062736e72472b01c3fd11a8c07fdf.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "1001",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/255fb354b00eb150ae4f6fabafca2da5.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f6810cb8cc2f4f71b117c608c9e967d2.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "203",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/fe0657d30beed9eceb62e7c82c177e15.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/376d2e688e5cbaefd849b76f033900fb.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "213",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/126ccd04a16043d3c7be9beb946f07c1.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/ef34793e87368a8b4e1cb79b7b497343.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "202",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/8d8e0b598c83871b0a211a5afc56064d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/3827c1b35c67fa20b0a65c5f646eaa81.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "1007",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/c01bdeb38901e91274ff93a664a0d29a.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/a5eb3fd0a5d10281a46997138cb62032.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "1011",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f1e934a49ea5745a4840c645c3a27c92.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/64c33a20f100359247517c03b413bd05.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "208",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4a75a05dba87b294d644587360cc8d3e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/aa2a3694b8fccd8b85791a99444e8b78.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "205",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/77f82fe111226a07668ef7a7513916e5.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b6b87010d6732b5265d2362955205743.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "212",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/8525e66ce12f34622f92d99432e1309e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f98053c2f05311625e4ee8eb042f009d.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "207",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f62f8354098126bd0f2bc90a1215afcd.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6e6eabe046d5609a35b033cdb17663fd.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "209",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/7db1bd300ba23841170f541d28c27d11.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/ca0b98edad92573cdada044bdd43d2ee.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "810",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/86f4292b6a5ee0fe87a72ff072364b82.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/92d4e78ce1f6b53a1a607c9fda5f8349.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "996",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/1ee792f0e8baaa62937315b2c59db06f.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/7c8b2328dc2218af3ce1f748a79023bb.png?imageView2/2/w/100",
+        "layerIndex": "5",
+        "type": "9",
+        "dressupId": "1009",
+        "isNew": "0"
+      }
+    ],
+    "isNew": "0"
+  },
+  {
+    "categoryId": "15",
+    "name": "装扮",
+    "iconSelected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconselected/20180427/26936f3992fd07e3e2788fdee8efd8c1.png",
+    "iconUnselected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconunselected/20180427/bba8055b918e604f3b405bb14bf4242e.png",
+    "isClear": "1",
+    "dressupList": [
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/4e4655e1b2cd20772193a7c8c405065d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/b71ff0f504a29843921203bed721e6ec.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "888",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/0ddc97ffedc0b9289772fae33b63eee3.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/3d869f535fa841021c776baba28be368.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "1013",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/0f1dfae1f2b004caa4fce46661f9b7bc.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/75921ca92040c023237667d45af1e318.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "172",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/c0877ba2f34ca32bc56b48b75dc413f1.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/57b4129af35355a3ec14b052cdfa8ed3.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "171",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/c392ed26327d10609be1af5324b233ec.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/76e2207e9a37b671d4b46c863d054676.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "174",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/62e1c7fd71a91c46df58da8b464d7f14.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/88c7978cd50b43a1ebe7bae9fb21e461.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "175",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/254ac17a001af286c84ba13bbbf1e511.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/1455d9aaf4ada77a99c1adb3a28344e5.png?imageView2/2/w/100",
+        "layerIndex": "2",
+        "type": "3",
+        "dressupId": "686",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/1d5287d721a365aec0df877a94dee0d8.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/721f584dbbe4858f683a538f05d02ba8.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "1012",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/941c224d992c093d58dab5bb9ef784cc.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180820/d5e0dfe7afc91b5ec47155ab06dbbb78.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "822",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/81ad648c05acabdc1c87c23a59b66d1c.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/325d639d3b307e6ae1a98a2ed532032a.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "173",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/3fcedd11cd735362a4fc89182c9f9e7b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/468b0e1372a371974d33c2380d650df1.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "163",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/aae47397df3d57e42ba78e5f3eb90b36.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/e80794e49e40a28e014b621fcd0b8128.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "1014",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6588d4e29f2b27551ea9f0fcb4cea499.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/2adc0507cae516139f44117449547242.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "165",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6673ee280e2f1c65db1b66f0916e6611.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/db67516bec9a7bdf5b18d68e6bfda444.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "164",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180820/c9fba72192df073882a7fa9046e6b9db.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180820/35a89e4e11c1233f00be6c8769e2030d.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "1457",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180820/0782323f0186c4cd531ed335d92764d8.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180820/76ad82fdd56cde9e05258e307cea0278.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "1460",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180820/460fb07beb045939aa3ff00a967c68fa.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180820/3015d6900e740e3e7668ba27f2978d06.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "1462",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180820/665f9a720b7bba992f188bb9ebf7345f.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180820/93ac80c27af58f22d7268e9ec080dc64.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "1458",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180820/0a62ed045dea2fc732f1a7a06d3d3272.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180820/b5daae56203c0f4dc018b905f81fac77.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "1459",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180820/76a9447fcf314d65021b5fd0f2d168e2.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180820/c53b5fdd69a3c77c517dd3b4e3332cea.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "1461",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/04ba265833fa5d7c28523e86ab82922c.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/9604d935e039585cd85dbc879421c94c.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "160",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180502/bba8edc5abefa61902adefdf4b472e99.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180502/b7392ca20edbaec00ce587b7b1e5da95.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "914",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/c89f834f79b73e04c8dab5a126e737ab.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/bf80c285ee11bf057c116e020e8419fa.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "159",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/c344f87617294d83f66c85f851f665ea.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/00874c6f609e1966c253752bf21777bd.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "161",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/20fe25bd47020cd212ecb6f55511b5a4.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/36a148e47e9fb326d78e26e68ce3b75e.png?imageView2/2/w/100",
+        "layerIndex": "16",
+        "type": "4",
+        "dressupId": "158",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/2217f1adea98e7542c1593e5fb819be3.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4bad695daad98c430c6c9592eb94595c.png?imageView2/2/w/100",
+        "layerIndex": "8",
+        "type": "13",
+        "dressupId": "176",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/fe2c4afd94a3b84399481e21e85f2406.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/b5fa7bc9734243f8110acb8cca4fe32c.png?imageView2/2/w/100",
+        "layerIndex": "8",
+        "type": "13",
+        "dressupId": "494",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/c1f558b6b835bc890cd95d6d7ac00822.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a46bc0f6a45526bf3143a401915b534c.png?imageView2/2/w/100",
+        "layerIndex": "8",
+        "type": "13",
+        "dressupId": "177",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/1eff10a95dddfec3b68429c54dbeda76.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/084da1b74775ea534303c2b64dc0a5e7.png?imageView2/2/w/100",
+        "layerIndex": "2",
+        "type": "3",
+        "dressupId": "890",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/6b091e8c132a363ffa3c053b0c4e83a2.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/11e638ff53d69a64053814699effd6c1.png?imageView2/2/w/100",
+        "layerIndex": "2",
+        "type": "3",
+        "dressupId": "521",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/8ebe5abd1bf0ff3927f3dabbd668dc1d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/cae1f25896105f7ce5df569c1a328a97.png?imageView2/2/w/100",
+        "layerIndex": "2",
+        "type": "3",
+        "dressupId": "994",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/83319c63a0ba2086bcaac063cc1c81f3.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/3b5c8766c88f59b6df1a5696604c1ffd.png?imageView2/2/w/100",
+        "layerIndex": "2",
+        "type": "3",
+        "dressupId": "995",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/55e43e3e883a5206c4316f28d7de26b2.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/e6e1a9502702878e646739f792890f71.png?imageView2/2/w/100",
+        "layerIndex": "2",
+        "type": "3",
+        "dressupId": "993",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/667c64372561d937fcd9eb28ebaa8f8b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/4b2b30412fc28f62a780682003f39466.png?imageView2/2/w/100",
+        "layerIndex": "2",
+        "type": "3",
+        "dressupId": "991",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/31423d00b334c975d9f75809bc09aef9.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/4f51ab65514ed457ff31a5fad35ce02c.png?imageView2/2/w/100",
+        "layerIndex": "2",
+        "type": "3",
+        "dressupId": "992",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/538ae5cd357c8d384d358ac1ee880e7b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/025e8edc4e9fefc27d49984663b3e200.png?imageView2/2/w/100",
+        "layerIndex": "2",
+        "type": "3",
+        "dressupId": "988",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/f244b900f20c4adb5cd1fce02576e6dc.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/485122b45398c76166cb858bb07ec3f9.png?imageView2/2/w/100",
+        "layerIndex": "2",
+        "type": "3",
+        "dressupId": "989",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/20ddef165e012c510dba4dd42a671d70.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/f74417b669336469cc90e274c399f6cd.png?imageView2/2/w/100",
+        "layerIndex": "2",
+        "type": "3",
+        "dressupId": "1146",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/a1bf5069475f63a92d1bb047bcceb6e0.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/cfe620005c6e51eb355be958d4b2e8f5.png?imageView2/2/w/100",
+        "layerIndex": "2",
+        "type": "3",
+        "dressupId": "1063",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/1579172a2ac8f46e8bbdb603304a0807.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/c6bb7bc2fdab0e44384de433c6207d2c.png?imageView2/2/w/100",
+        "layerIndex": "2",
+        "type": "3",
+        "dressupId": "1148",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/b3143f8234323f261c5b393cc188840e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180601/ce6cde9c779b60150b58a989445935c8.png?imageView2/2/w/100",
+        "layerIndex": "2",
+        "type": "3",
+        "dressupId": "1147",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180518/e97a10e8bcfb436464eaa6e7f35e5c62.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180518/7530bdcf70ceb7e77af92ceaa48bb1a4.png?imageView2/2/w/100",
+        "layerIndex": "2",
+        "type": "3",
+        "dressupId": "925",
+        "isNew": "0"
+      }
+    ],
+    "isNew": "0"
+  },
+  {
+    "categoryId": "14",
+    "name": "包包",
+    "iconSelected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconselected/20180428/719ba83efd44720deb04f469f6c4e3ba.png",
+    "iconUnselected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconunselected/20180428/44e20b8357b998664d190c786930c37d.png",
+    "isClear": "1",
+    "dressupList": [
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/118e1544557563fd20325d1d6565dfc1.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/15b22fd6c81c74e8b16e894c0aae0dea.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "786",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a75d6162850329a7c58f8ccf2d9c37a9.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/58146a443c8321ba464be3c09ea4f177.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "178",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/290cbbf242881cd7afaff183afc9b805.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/dc3a85c01046d551e527b830f844fa82.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "180",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/0f527b3dde2eb437ad9a8aae1763ed93.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d6a538ede6d26904b1e6e3cb94ae0807.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "196",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/d22b8d60f39401f13a4d29c49bbadb2e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/e8aaf2e5100fd10015376edf5ba6512b.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "183",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/ca9e3e934797ed239546a7a3103e2298.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f6f9cd37d239612bd7fd52653b218811.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "179",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/09cc2b47522122ca50046ad9348222b6.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/5c73d2b484a901414b61ef16afe7fdaf.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "197",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/5191a8618b63109af71274759c742526.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/be577349e5bfd568300e8fdd91b28729.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "193",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/30dafbfa3fe2b400adcac2adabf5ec05.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/11e21eef256e60f2e52ec6d1c5ea834f.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "186",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a57eecac8deb973a6f554cdf41a05098.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a7b46826e5ab898183af52cb4409db61.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "181",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/21a392a7b7ae28820090236fece4be10.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/048eb2a6d9dcb7a3678efed60636cf1f.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "195",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4c62b4fee0be3effcf8297ac7cfc63d9.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/63e06111db50b511050c062b358e6dab.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "185",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/03b599417457c58e74684d4951610e27.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4df99155d18052f7312f2919b8151015.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "190",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b05e6b3c58f6a341737c2edb108dfc5f.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/993d705d2e1271f522b30ad10f24ebb3.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "188",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/40fbeba286e70b0963bca1faeb270dc4.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/7f3799457beaa056cf3c093948add39b.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "486",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a5b01ed27afa5927ae1ea58ff882808e.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f9970fda32cc07196f46c445f88eae22.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "189",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/fb145898e211f5872ef037abe6defb09.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f6ec107beab092943a77d016f8fe639e.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "187",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/84a67ae1157388ed3f005dbac2b472d6.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/06ce67297617186463fe0c7ab24b31b9.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "194",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/c0988b35d9e05b7e01f5c8c9bf730a11.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/0f0185ea864686977a23f831e197efc1.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "192",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/8eeb467ae0261cc240c036e056f95e81.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4f8279c338e97fc7c1d56a6f5673652e.png?imageView2/2/w/100",
+        "layerIndex": "17",
+        "type": "18",
+        "dressupId": "191",
+        "isNew": "0"
+      }
+    ],
+    "isNew": "0"
+  },
+  {
+    "categoryId": "4",
+    "name": "背景",
+    "iconSelected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconselected/20180425/da3bc5b66d4689512026936eff0046b8.png",
+    "iconUnselected": "http://api.playkp.com/wx/app/dressup/pastelgirldressupcategory/iconunselected/20180427/b2770977bfb40ad6b2d3a7e7ff7f44cd.png",
+    "isClear": "1",
+    "dressupList": [
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/ea75455d586544c6a98072812167df5a.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/ea75455d586544c6a98072812167df5a.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "609",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/81f7fb0211d19b29c103fc785629e222.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/81f7fb0211d19b29c103fc785629e222.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "610",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/757748c5568d767cc916045afb9aff62.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/757748c5568d767cc916045afb9aff62.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "612",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/fcbc9d45aee1b416f55902d9fdc12317.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/fcbc9d45aee1b416f55902d9fdc12317.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "613",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/f9d1c651b240169d797415672ee7cf73.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/f9d1c651b240169d797415672ee7cf73.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "614",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/8641ee1865fc0629bc52e387ac5ade2d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/8641ee1865fc0629bc52e387ac5ade2d.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "615",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/cf3d30da117920d8b5b4f02c6143e099.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/cf3d30da117920d8b5b4f02c6143e099.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "616",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/bbd2157bcaba52f2eed8bcd0417cd94c.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/bbd2157bcaba52f2eed8bcd0417cd94c.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "617",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/633a8e09fdaf2f83cd0bc342a6be4492.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/633a8e09fdaf2f83cd0bc342a6be4492.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "618",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/106ed59db77b1c68b8e7d1ae23d8e4a4.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/106ed59db77b1c68b8e7d1ae23d8e4a4.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "619",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/5d191973fbe8af30cb06c7f046a9d3e5.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/5d191973fbe8af30cb06c7f046a9d3e5.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "589",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/c603774a7a2d2e14d7fe90eb16acd2cf.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/c603774a7a2d2e14d7fe90eb16acd2cf.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "590",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/02a2c8ab095aedf741349b402420eb48.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/02a2c8ab095aedf741349b402420eb48.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "591",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/9a6c12fbe94c1e00a9ad077317287d07.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/9a6c12fbe94c1e00a9ad077317287d07.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "592",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7c3ce20b14da2ecbf140eed874ce87f2.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/de072e5aa54757d71c0d9a711af0e226.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "413",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/2d78226b8351d8e160d1a4f124f6fd1d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/249935dc6d3b61f49cf3e415e3364772.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "450",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7bbcd14fb425731996a9b254fac3b484.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/e6bd50a6c2e15096932ca2d1cae8b705.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "449",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/0a8e78453273bdec72b717d64a499d4c.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/1d62e70daea94978b7cbb103d9145a09.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "411",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/6cc91527af0cd3f38a10bec15bc3cfb6.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/a5d496e9268b98f8d07cf51e15b8bd83.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "412",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b95d29abb1fca5c1d6c6d2b291a49af8.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b2ca501406be7341d424e47de19a5965.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "414",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b9bdbc58e6b72ed9cefe7fcdf5f083c0.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/cd756f61c51974d518b68874266d3e94.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "415",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4e9f6586e0f1b5924d0ae431b0e15992.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/f6b47bce4285fe621e7998262d8e23d5.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "480",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/f5c341bf848f1e4c8b9b145f7166c5be.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180427/f3451ef528ea650d4094feded1b8ec8a.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "522",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/e1a84f114f180a84dc529454847c086a.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180521/03baa9a4da7c54afe28fd7ab8ef78036.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "1041",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/0942709c68a97f31526e4217af311cfe.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/40585a8accd2c667a719d8b23452dc9f.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "606",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/914242595348bda9cc87a2c6dadd8ee5.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/ca7f84716a9f8200d9a710710fd02907.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "410",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/37b0210fc302602315c56d547c0fd5b0.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/b8cb858d380084d0b70b858ceecdf859.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "448",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/4df6bdf7398ff66a60a04d9adbf48523.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/c5420f943e91a0b0b0b99346c2560903.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "451",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/a2c3dec121aa01972cd2e4213e07653b.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/b22a0ef84261c71a4c7454af702efb60.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "608",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/eedd3ad9ce9d430ba3976b1fcb219fe7.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/eedd3ad9ce9d430ba3976b1fcb219fe7.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "593",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/fc1ec15c18476f5b9129060cff8f46e2.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/fc1ec15c18476f5b9129060cff8f46e2.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "594",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/3d7325879e35e0d75b67dbd2651865e8.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/3d7325879e35e0d75b67dbd2651865e8.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "595",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/db0c9702f8701bb0f2fe1bb15388248d.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/db0c9702f8701bb0f2fe1bb15388248d.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "596",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/45b45656b5446628ed0b9dfce9272aca.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/45b45656b5446628ed0b9dfce9272aca.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "597",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/373912e9a4bcf4c4157d32f20cace064.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/373912e9a4bcf4c4157d32f20cace064.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "598",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/a634e9daa2a13a420eabc100ca8b60d2.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/a634e9daa2a13a420eabc100ca8b60d2.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "599",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/dec0339aeb6ccb7744a6db6b9ff55ad1.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/dec0339aeb6ccb7744a6db6b9ff55ad1.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "600",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/b2b56f9bedc8cd02cfedde0678121c90.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/b2b56f9bedc8cd02cfedde0678121c90.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "601",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/7dd7e97e37e299248e2a60532a012898.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/7dd7e97e37e299248e2a60532a012898.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "602",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/859bc5a3c53d53511a18a07cfeab1da7.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/859bc5a3c53d53511a18a07cfeab1da7.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "603",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/5378cdc065edac48dd4d73021b3a95ed.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/5378cdc065edac48dd4d73021b3a95ed.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "604",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/378fccdb86fb65c95863121a4922f1a5.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/378fccdb86fb65c95863121a4922f1a5.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "605",
+        "isNew": "0"
+      },
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/eead0f8cbb6deee39b2bc238aa9175ce.png",
+        "thumb": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180428/eead0f8cbb6deee39b2bc238aa9175ce.png?imageView2/2/w/100",
+        "layerIndex": "0",
+        "type": "1",
+        "dressupId": "611",
+        "isNew": "0"
+      }
+    ],
+    "isNew": "0"
+  },
+  {
+    "categoryId": "1",
+    "name": "身体",
+    "iconSelected": "",
+    "iconUnselected": "",
+    "isClear": "0",
+    "dressupList": [
+      {
+        "image": "http://api.playkp.com/wx/app/dressup/pastelgirldressup/image/20180426/7d298eb47e23c18137c5904c0cc290d4.png",
+        "thumb": "",
+        "layerIndex": "3",
+        "type": "5",
+        "dressupId": "396",
+        "isNew": "0"
+      }
+    ],
+    "isNew": "0"
+  }
+]

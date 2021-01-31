@@ -1,0 +1,12 @@
+{
+  "usingComponents": {
+     "wxad": "/component/wxad/wxad",
+     
+     "my-grade": "../../component/my-grade/my-grade",
+     
+     "my-customs": "../../component/my-customs/my-customs",
+     "my-redpacket": "../../component/my-redpacket/my-redpacket",
+     "my-power": "../../component/my-power/my-power",
+     "my-gift": "../../component/my-gift/my-gift"
+  }
+}

@@ -1,0 +1,4967 @@
+var emojiData = [[
+    {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f525,1f004,1f4aa-1f3fc,1f330",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "火中取栗",
+  wordchoice: "火中取栗无万先水十主定生目二燕路言意坐自孙"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "chufa,1f33e,1f31e,1f514,1f483-1f3fb",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "锄禾日当午",
+  wordchoice: "锄禾日当午同异无在瑟错守一史乌淑夙不峰则臣"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f4ac,1f33a,1f444,1f33e",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "寻花问柳",
+  wordchoice: "寻花问柳天发山诗水命千舞歌青指地细心成耳花"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f439,1f47d,1f42d,1f440",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "獐头鼠目",
+  wordchoice: "獐头鼠目井恢子莺极观炎井门火意顶为人连若由"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f4ba,1f645,1f192,1f6e9",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "坐失良机",
+  wordchoice: "坐失良机十全红天乐朝井中网意身好是百和立一"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f4a1,1f31b,1f424,1f550,1f236",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "明月几时有",
+  wordchoice: "明月几时有角方专其衅微新郎过云语高臣服乎卒"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f435,1f6aa,1f345,1f30a",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "侯门似海",
+  wordchoice: "侯门似海而孝臣报声明间下余窈磁之高臣服乎卒"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f446-1f3fc,1f528,1f4cc,1f3b6",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "一锤定音",
+  wordchoice: "一锤定音不年中有也尤高入意阿而扬何士游国中"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f6cc,1f4b0,1f4a1,1f319,1f4bf",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "床前明月光",
+  wordchoice: "床前明月光臣苦而节才以也远有养饮举短江闵侧"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f9d2-1f3fb,1f57a,1f375,2603",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "人走茶凉",
+  wordchoice: "人走茶凉凤再语迹往己一心四言古蛙北毛向城一"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f388,1f444,1f449-1f3fc,1f445",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "七嘴八舌",
+  wordchoice: "七嘴八舌八麟名胜底雨骇冷后同惊绿欣甜吃流鸣"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f305,1f410,1f3bc,1f44d-1f3fc",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "夕阳无限好",
+  wordchoice: "夕阳无限好之悠哉妇罗太小郡宿晚风碧行复女夫"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f332,1f332,1f332,1f34d,1f4aa-1f3fc,1f418",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "森罗万象",
+  wordchoice: "森罗万象十美一非山家五风心绿面看安五全画安"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f40d,1f425,1f377,1f468-1f3fb",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "舍己救人",
+  wordchoice: "舍己救人春前明无群龙大非处再先井卓惊白息入"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f42d,1f440,1f596-1f3fc,1f4a1",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "鼠目寸光",
+  wordchoice: "鼠目寸光红言涛冷怦柳不川直欣不蜜言过思众人"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f424,1f424,1f3b6,1f33f",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "两只黄鹂鸣翠柳",
+  wordchoice: "两只黄鹂鸣翠柳令威马一者寻酒逼之颜情之年清"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f60a,1f446-1f3fc,1f339,1f525",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "喜上眉梢",
+  wordchoice: "喜上眉梢凤百快然角想而单白不仙龙后过秋画刀"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f4a7,1f4a7,1f380,1f493,1f62d",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "粒粒皆辛苦",
+  wordchoice: "粒粒皆辛苦阳翁鸟老山入重十窈已于臣无无而指"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f52d,26f4,1f3c0,1f4a6",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "望穿秋水",
+  wordchoice: "望穿秋水知手纹大下为烈弱相而烟眼斤丝南食不"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f440,1f645-1f3fb-200d-2642-fe0f,1f450-1f3fc,1f418",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "盲人摸象",
+  wordchoice: "盲人摸象尔上不举过另八绩之堂半斤五小哄家名"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f425,1f6e9,1f95a,1f528",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "鸡飞蛋打",
+  wordchoice: "鸡飞蛋打逢道出闻毛漫日九大丰木看彩肉独画累"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f7e0,1f412,1f1f7,1f30a,1f402",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "黄河入海流",
+  wordchoice: "黄河入海流而甚驱也右今山西畏而人此而饮散逵"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f690,1f4a6,1f434,1f432",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "车水马龙",
+  wordchoice: "车水马龙众耳唤省取千年代寸度语蹦约终形问想"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f3c6,1f341,1f41f,1f525,2714,1f614,1f4a4",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "江枫渔火对愁眠",
+  wordchoice: "江枫渔火对愁眠作无在顺而听当妾来废雎非是洌"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f5e1,26a1,1f680,ye",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "刀光剑影",
+  wordchoice: "刀光剑影刨变冻无长头所而万继状呼秋叶丹荣繁"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f30a,2b06,1f319",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "海上升明月",
+  wordchoice: "海上升明月敢来还不废庶不肯秀见为奄茕本时峰"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f44f-1f3fc,1f332,1f3e2,1f47d,1f613,26f0,34-20e3",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "姑苏城外寒山寺",
+  wordchoice: "姑苏城外寒山寺林立蔌故兮母语诏影悯县生年而"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f449-1f3fc,1f370,1f388,1f410",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "趾高气扬",
+  wordchoice: "趾高气扬不川直欣不蜜言过思众人花成天睛凤百"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f40a,1f4a6,1f52a,1f466-1f3fb",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "恶语伤人",
+  wordchoice: "恶语伤人人花成天睛凤百快然角想而单白不仙龙"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f319,1f343,1f483-1f3fb,1f460,1f46f,1f235,1f304",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "月落乌啼霜满天",
+  wordchoice: "月落乌啼霜满天乐今悠醉石亭闻夙山勤迳荇优皇"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f52d,1f440,1f41f,1f6f3",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "望眼欲穿",
+  wordchoice: "望眼欲穿刀语海明舞点南志快浪之荣动丰陈穿做"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f455,1f4a1,1f40b,1f468-1f3fb-200d-1f9b1",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "一鸣惊人",
+  wordchoice: "一鸣惊人眼海推同不一合烈水比心心口笑四帜缤"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f44b,1f31e,1f455,26f0,1f6ab",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "白日依山尽",
+  wordchoice: "白日依山尽玉也光矜行逋六峰客乐日笃不菜阳酿"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f6ac,1f468-1f3fb-200d-1f9b1,1f442,1f440",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "掩人耳目",
+  wordchoice: "掩人耳目轰强勾轰石月解云登较谷五反牛出斗尔"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f451,1f480,1f480,1f480,1f480,1f480",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "一将功成万骨枯",
+  wordchoice: "一将功成万骨枯春复也随起安至余朝特愚遗智也"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f41f,1f3b6,1f300,1f35a",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "余音绕梁",
+  wordchoice: "余音绕梁知手纹大下为烈弱相而烟眼斤丝南食不"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f48a,1f440,1f64c-1f3fb,1f645-1f3fb-200d-2642-fe0f,1f349,1f4b0,1f6e5",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "遥看瀑布挂前川",
+  wordchoice: "遥看瀑布挂前川右书孙在渐针暝子渥无好切应种"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f3ba,1f403,1f4f7,1f434",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "吹牛拍马",
+  wordchoice: "吹牛拍马山家五风心绿面一安五全画安立天面静"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f480,1f47b,1f47d,1f47f",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "魑魅魍魉",
+  wordchoice: "魑魅魍魉十主定生目二燕路言意坐自孙热平立百"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f4a8,1f42f,1f422,26f0",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "放虎归山",
+  wordchoice: "放虎归山水命千舞歌青指地细心成耳花有赤业为"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f41f,1f1f6,1f4b0,1f381,1f440",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "欲穷千里目",
+  wordchoice: "欲穷千里目命枫是乐狼纭幅臣暮贵门水者弟左食"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f52d,1f52d,1f52d,1f52c,1f52c",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "三长两短",
+  wordchoice: "三长两短千头美点快不面人长所净目问白三马才"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f31e,1f4f7,1f418,1f1f1,1f304,1f7e3,1f6ac",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "日照香炉生紫烟",
+  wordchoice: "日照香炉生紫烟醉祚也物新不愿知悬虎当尽鉴之"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f402,1f52a,1f41c,1f345",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "牛刀小试",
+  wordchoice: "牛刀小试半找今谊一三秀做墙毛星急往古短非人"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f44a-1f3fc,1f340,1f627,1f40d",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "打草惊蛇",
+  wordchoice: "打草惊蛇跳心舍火头生我深明柳为表绿张日和人"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f469-200d-1f469-200d-1f467,1f512,37-20e3,1f577",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "众所周知",
+  wordchoice: "众所周知骑长一毛手取答一厚狗中的外年人山脚"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f44f-1f3fc,1f377,1f618,1f31e,1f304",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "把酒问青天",
+  wordchoice: "把酒问青天众呼自之药沐四不落风皆绿之时化遇"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f449-1f3fc,1f413,1f5e3,1f415",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "指桑骂槐",
+  wordchoice: "指桑骂槐另八绩之堂半斤五小哄家名得脱积角逢"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f5e1,1f6a3,1f3c0,1f680",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "刻舟求剑",
+  wordchoice: "刻舟求剑漫日九大丰木看彩肉独画累山七出题知"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f6e9,1f402,1f446-1f3fc,2b07,26f0,1000,1f4cf",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "飞流直下三千尺",
+  wordchoice: "飞流直下三千尺淑心鬓于外奉水舅忘所也以山奉"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f457,1f432,1f483-1f3fb,1f590-1f3fc",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "群龙无首",
+  wordchoice: "群龙无首为烈弱相而烟眼斤丝南食不计树一春一"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f425,1f468-1f3fb,1f31e,1f418",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "吉人天相",
+  wordchoice: "吉人天相枯寿隐盛八四见众耳唤省取千年代寸"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f49f,1f49f,1f418,1f463",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "心心相印",
+  wordchoice: "心心相印边吐千化胡身后自大烂显地额十黄浪入"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "31-20e3,1f51f,1f3b6,1f6a3,1f343,1f377,1f47c",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "疑是银河落九天",
+  wordchoice: "疑是银河落九天刘长为以非四作辞往责喧知朝幽"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f493,1f526,1f463,1f4e3",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "心照不宣",
+  wordchoice: "心照不宣非古点非星你今贪窗是风亲足故情中水"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f425,1f6e9,1f415,1f574",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "鸡飞狗跳",
+  wordchoice: "鸡飞狗跳妙毛有无万枝底吃用雨始吞茂聪日言际"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f3c6,1f38e,1f645,1f3e9",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "悲喜交加",
+  wordchoice: "悲喜交加变冻无长头所而万继状呼秋叶丹荣繁"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f4a3,1f4a4,1f489,1f442",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "雷声震耳",
+  wordchoice: "雷声震耳十黄浪入十美一非山家五风心绿面一安"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f468-1f3fb,1f410,1f434,26f5",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "人仰马翻",
+  wordchoice: "人仰马翻立天面静无万先水十主定生目二燕路言"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f339,1f440,1f6a2,1f469-200d-2764-fe0f-200d-1f48b-200d-1f468",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "眉目传情",
+  wordchoice: "眉目传情热平立百天发山诗水命千舞歌青指地细"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f30c,1f913,1f570",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "天涯共此时",
+  wordchoice: "天涯共此时蜀无前饮守天相勿物乐且臣以花者陈"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f437,1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc,1f415,1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "猪朋狗友",
+  wordchoice: "猪朋狗友有赤业为井恢子莺极观炎井门火意顶为"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f446-1f3fc,1f489",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "一针见血",
+  wordchoice: "一针见血恢不条八十全红天乐朝井中网意身一百"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f629,1f33a,1f48a,1f469",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "愁眉苦脸",
+  wordchoice: "愁眉苦脸人桃马烧千头美点快不面人长所净目问"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f449-1f3fc,1f9df,27a1,1f7e8,1f38e",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "只是近黄昏",
+  wordchoice: "只是近黄昏风所弈州奸长其愿府人去辗太阴守胜"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f449-1f3fc,1f468-1f3fb,1f4de,1f38e",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "指腹为婚",
+  wordchoice: "指腹为婚赶月更明半找今谊一三秀做墙毛星急往"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f446-1f3fc,1f44f-1f3fc,1f425,1f4e6",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "一拍即合",
+  wordchoice: "一拍即合补几中团跳心舍火头生我深明柳为表绿"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f54a,1f54a,1f54a,1f54a,1f6e9",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "一行白鹭上青天",
+  wordchoice: "一行白鹭上青天山佳府云朝无纷太醉俘谓苦霜月"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f33a,1f44c-1f3fb,1f319,2b55",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "花好月圆",
+  wordchoice: "花好月圆春满直累骑长一毛手取答一厚狗中外年"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "31-20e3,1f9df,1f4a7,1f199,1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "疑似地上霜",
+  wordchoice: "疑似地上霜日圣熟参宦而再刘饮陨此况猥觥太望"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f630,1f4a7,1f33e,2b07,1f407",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "汗滴禾下土",
+  wordchoice: "汗滴禾下土辞咽大近府病兮有六疾仍高拔独守岩"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f6a9,1f42f,1f535,1f447-1f3fc",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "骑虎难下",
+  wordchoice: "骑虎难下口面气李非古点非星你今贪窗是风亲足"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f42f,1f466-1f3fb,1f42f,1f9e0",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "虎头虎脑",
+  wordchoice: "虎头虎脑一心四言古蛙北毛向城一尔喝华众八麟"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f32c,1f32c,1f528,1f528",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "吹吹打打",
+  wordchoice: "吹吹打打骇冷后同惊绿欣甜吃流鸣来实三大春前"
+}, {
+  mode: 1,
+  difficulty: 1,
+  isshowemoji: !0,
+  guesspic: "",
+  emojis: "1f425,1f444,1f402,1f412",
+  guessclass: "成语诗词",
+  guessHint: "",
+  answer: "鸡口牛后",
+  wordchoice: "鸡口牛后大非处再先井卓惊白息入多晴约动红言"
+} ], [ {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f430,1f1fa,1f1fa",
+guessclass: "明星名人",
+guessHint: "",
+answer: "屠呦呦",
+wordchoice: "屠呦呦志郭陈正涛蔡斌蓝学勋郑赵吴军之城孙鸿"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f40e,1f32b",
+guessclass: "明星名人",
+guessHint: "",
+answer: "马云",
+wordchoice: "马云俞齐丹存伟吴伟辛宝毅王镇洲周甲霖子华飞"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f402,1f250,1f338",
+guessclass: "明星名人",
+guessHint: "",
+answer: "刘德华",
+wordchoice: "刘德华王依雄大受飞粤萧格为王镇轮浩楠陈强汉"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3bc,1f40b",
+guessclass: "明星名人",
+guessHint: "",
+answer: "普京",
+wordchoice: "普京大受飞粤萧格为王镇轮浩楠陈庹东王元巨杰"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f319,1f6e9",
+guessclass: "明星名人",
+guessHint: "",
+answer: "岳飞",
+wordchoice: "岳飞凡樊任华李彬赵上袁顿黄霖宋笑俞光丁柏月"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f383,1f437,1f389",
+guessclass: "明星名人",
+guessHint: "",
+answer: "南柱赫",
+wordchoice: "南柱赫海而孝臣报声明间下余窈磁之高臣服卒中"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f421,1f34a,1f389",
+guessclass: "明星名人",
+guessHint: "",
+answer: "庾澄庆",
+wordchoice: "庾澄庆冰茜彭甜加婕君傲宁萌袁梅景启亮俊张霖"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f42f,1f3bc",
+guessclass: "明星名人",
+guessHint: "",
+answer: "胡歌",
+wordchoice: "胡歌涛琳元张惜雯唐兰蒋阿母杨兰牛童梁麟智解"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f7e5,1f556,1f474-1f3fb",
+guessclass: "明星名人",
+guessHint: "",
+answer: "洪七公",
+wordchoice: "洪七公敏王均戴欣嘉政俞英徐辉怡泉勋郑赵梁奇"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f919-1f3fc,1f3e0,1f1f4",
+guessclass: "明星名人",
+guessHint: "",
+answer: "刘嘉玲",
+wordchoice: "刘嘉玲古甘伊萨尚丽静松桑沈紫小江子康任岗鹏"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f329,1f607",
+guessclass: "明星名人",
+guessHint: "",
+answer: "雷神",
+wordchoice: "雷神奕王张安陈少林王张渝达张柏佟周启育值汶"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "梨,1f4a1,1f44d-1f3fc",
+guessclass: "明星名人",
+guessHint: "",
+answer: "李敏镐",
+wordchoice: "李敏镐卫队中有也尤高入意阿而扬何士游的国中"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f36d,1f1e7,1f42f",
+guessclass: "明星名人",
+guessHint: "",
+answer: "唐伯虎",
+wordchoice: "唐伯虎焦冯纲嘉保莫海晓值汶怡存周罗远明柏任"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4b0,1f505,1f34a",
+guessclass: "明星名人",
+guessHint: "",
+answer: "金日成",
+wordchoice: "金日成张安陈少林王张渝达张柏佟周蓝学吴军之"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f34a,1f424,1f55f,1f605",
+guessclass: "明星名人",
+guessHint: "",
+answer: "成吉思汗",
+wordchoice: "成吉思汗建春中温志马李祥甲祖东正正宗冰润鸿"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f1f4,1f3b1,1f434",
+guessclass: "明星名人",
+guessHint: "",
+answer: "奥巴马",
+wordchoice: "奥巴马黄路谢海岷祥志宪晓川明晓大传陈民红洲"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f345,1f31e,1f409",
+guessclass: "明星名人",
+guessHint: "",
+answer: "史泰龙",
+wordchoice: "史泰龙波陈然李辉岷黄路谢海岷祥志宪晓川明晓"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f328,1f328",
+guessclass: "明星名人",
+guessHint: "",
+answer: "韩寒",
+wordchoice: "韩寒菲安林宏永啸豪黄井伟志申学明陈陈小宗许"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f440,1f33e",
+guessclass: "明星名人",
+guessHint: "",
+answer: "邓超",
+wordchoice: "邓超健叶陈赵山启海承楚菲鹏殿海东力贤祥乔俞"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f91b-1f3fb,1f1f5,1f6f3",
+guessclass: "明星名人",
+guessHint: "",
+answer: "拿破仑",
+wordchoice: "拿破仑赵梁奇薛健叶陈赵山启海承楚菲鹏殿海东"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f437,1f518,1f419",
+guessclass: "明星名人",
+guessHint: "",
+answer: "朱元璋",
+wordchoice: "朱元璋昆思庹陈安甲霖子华飞强兵旭梁立明明潘"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4a1,1f6f3",
+guessclass: "明星名人",
+guessHint: "",
+answer: "邓伦",
+wordchoice: "邓伦伟志申学明陈陈小宗许武巴行林井李鑫咏纲"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f233,1f455,1f35b",
+guessclass: "明星名人",
+guessHint: "",
+answer: "吴亦凡",
+wordchoice: "吴亦凡旭梁立明明潘世陈维罗志郭陈正涛勋郑蔡"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f468-1f3fb-200d-1f9b3,1f232,1f17f",
+guessclass: "明星名人",
+guessHint: "",
+answer: "白敬亭",
+wordchoice: "白敬亭明吕张邢潘啸希游伟浚智伦明宋马协李晨"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f33a,1f33a",
+guessclass: "明星名人",
+guessHint: "",
+answer: "华晨宇",
+wordchoice: "华晨宇周成强生荣生有粤景天付李伦传建吴奇刘"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f451,1f234,1f442",
+guessclass: "明星名人",
+guessHint: "",
+answer: "王嘉尔",
+wordchoice: "王嘉尔鸣正宗冰润鸿李陈张解罗信雷斌迅刘川乐"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f1ef,1f476-1f3fc,1f41f",
+guessclass: "明星名人",
+guessHint: "",
+answer: "贾宝玉",
+wordchoice: "贾宝玉道周成强生荣生有粤景天付李伦传建吴奇"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f7e4,1f525,1f7e4,1f525",
+guessclass: "明星名人",
+guessHint: "",
+answer: "哪吒",
+wordchoice: "哪吒周成强生荣生有粤景天付李伦传建吴奇刘维"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f350,1f3f9",
+guessclass: "明星名人",
+guessHint: "",
+answer: "李健",
+wordchoice: "李健伦王张华强汉宝黄驰彦栎文立乐陈帝克霍陈"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f382,1f315,1f315",
+guessclass: "明星名人",
+guessHint: "",
+answer: "高圆圆",
+wordchoice: "高圆圆雨梅左贾辰俪嫣汤蒋丫加金谢戴许唐柯斯"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f36d,1f441",
+guessclass: "明星名人",
+guessHint: "",
+answer: "唐嫣",
+wordchoice: "唐嫣顶俪伟张冰琍王何沈唯刘丁一思当娜伊含娜"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f419,1f446-1f3fc,1f4ab",
+guessclass: "明星名人",
+guessHint: "",
+answer: "张艺兴",
+wordchoice: "张艺兴泉治宸凡超朔徐毛殷董凯金张赵珠攀妤萌"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f35a,1f34a,1f34a",
+guessclass: "明星名人",
+guessHint: "",
+answer: "范丞丞",
+wordchoice: "范丞丞绍凡樊任华李彬赵上袁顿霖郭希棋何旭胡"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f451,1f315",
+guessclass: "明星名人",
+guessHint: "",
+answer: "王源",
+wordchoice: "王源宜徐艺泉治宸凡超朔徐毛殷董金张刘赵珠攀"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f350,1f1ee,1f4a8",
+guessclass: "明星名人",
+guessHint: "",
+answer: "李易峰",
+wordchoice: "李易峰绍凡樊任华李彬赵上袁顿黄郭希棋何旭胡"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f40e,1f914,1f444",
+guessclass: "明星名人",
+guessHint: "",
+answer: "马思纯",
+wordchoice: "马思纯兰云马牛欣何霍冰李雯茜刘燕车唐丹青鲍"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f1f4,1f43a,1f3bf",
+guessclass: "明星名人",
+guessHint: "",
+answer: "令狐冲",
+wordchoice: "令狐冲康任岗鹏秋杜黄王熊屠坤飞正窦孔永奇朱"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6b6,1f328,1f327",
+guessclass: "明星名人",
+guessHint: "",
+answer: "周冬雨",
+wordchoice: "周冬雨蓉娜伊燕韵袁涛琍涵雪杨赵弥君母元娇怡"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f1ee,1f411,1000,1f60d",
+guessclass: "明星名人",
+guessHint: "",
+answer: "易烊千玺",
+wordchoice: "易烊千玺绍凡樊任华李彬赵上袁黄霖郭希棋何旭"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f350,1f34a",
+guessclass: "明星名人",
+guessHint: "",
+answer: "李晨",
+wordchoice: "李晨子华飞强兵旭梁立明明潘陈维罗志郭陈正涛"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f411,1f4fd",
+guessclass: "明星名人",
+guessHint: "",
+answer: "杨颖",
+wordchoice: "杨颖于雯昕刘丁陈清甘艳顶俪伟张琍王何沈唯刘"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f411,1f411",
+guessclass: "明星名人",
+guessHint: "",
+answer: "杨洋",
+wordchoice: "杨洋刘浩芯绍凡樊任华李彬上袁顿黄霖郭希棋何"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f418,1f327",
+guessclass: "明星名人",
+guessHint: "",
+answer: "项羽",
+wordchoice: "项羽毅王镇洲周怡恩成朝学文奇洲窦孔永奇朱志"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f420,1f424",
+guessclass: "明星名人",
+guessHint: "",
+answer: "虞姬",
+wordchoice: "虞姬许唐柯斯巩兰其马谭丽刘于宁萌迅熊玲傲婷"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f463,1f463,1f608,1f463",
+guessclass: "明星名人",
+guessHint: "",
+answer: "庞麦郎",
+wordchoice: "庞麦郎明吕张邢潘啸希游伟浚伦明宋马协李晨景"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f451,1f476-1f3fc,1f52b",
+guessclass: "明星名人",
+guessHint: "",
+answer: "王宝强",
+wordchoice: "王宝强畊亚谦吴昕炫佑勋郑赵奇薛健叶陈赵山启"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f419,1f4a1,1f3a5",
+guessclass: "明星名人",
+guessHint: "",
+answer: "张靓颖",
+wordchoice: "张靓颖丽含一萌吴晓冰杨顶爱霄顶李清晨青张袁"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f36d,1f3e0,1f46a,勺子",
+guessclass: "明星名人",
+guessHint: "",
+answer: "唐家三少",
+wordchoice: "唐家三少辛宝毅王镇洲周怡恩成朝文奇乔洲窦孔"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f383,1f4f7,1f46a,1f4d6",
+guessclass: "明星名人",
+guessHint: "",
+answer: "南派三叔",
+wordchoice: "南派三叔林斌志宇邦逸李周庆洪郑霖思鸿文巴明"
+} ], [ {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3ad,1f3a4,1f451",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "蒙面歌王",
+wordchoice: "蒙面歌王猜猜的任经纪人意外的曲新旅玉琳军接"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f1f7,1f3c3,1f3c3,1f3c3,1f3c3,1f3c3,1f3c3",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "奔跑吧兄弟",
+wordchoice: "奔跑吧兄弟养微厅奔青春我要打篮球我和大逃脱"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "2b55,1f437,1f478-1f3fb,1f478-1f3fb",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "还珠格格",
+wordchoice: "还珠格格超孩案啦辣之声我问高等请吃一顿饭超"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "fu,1f44b",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "扶摇",
+wordchoice: "扶摇戏曲艺跑吧拜托样唱好美奇葩说明星大侦探"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f463,1f463,1f40b,1f493",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "步步惊心",
+wordchoice: "步步惊心星西游记女王之国西班牙寄宿您尽管化"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f402,1f31f,1f338,2b55",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "流星花园",
+wordchoice: "流星花园市笑口慧树幸福三重奏呀好身一本尚杂"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f489,2b55,1f48e",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "甄嬛传",
+wordchoice: "甄嬛传天屠龙记还珠格格扶摇步步惊心流金马奖"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f339,1000,1f480",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "花千骨",
+wordchoice: "花千骨礼美人了冰箱点脱电影之调歌访秀蒙面唱"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f440,1f492,1f23a,1f472-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "延禧攻略",
+wordchoice: "延禧攻略记琅琊榜生活大爆炸破产姐妹权利的游"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f345,1f44d-1f3fc,1f4b0",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "西虹市首富",
+wordchoice: "西虹市首富雕英雄传仙剑奇侠传花梦无辈射雕英"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f004,1f32a,1f485-1f3fc,1f9d2-1f3fb",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "国风美少年",
+wordchoice: "国风美少年天向对王牌快乐餐非凡创会中相光辉"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f467-1f3fb,1f478-1f3fb,1f337,1f3e0",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "小姐姐的花店",
+wordchoice: "小姐姐的花店蒙面唱将猜猜的任经纪人意外的新"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f449-1f3fc,39-20e3,34-20e3,1f3c0",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "这就是灌篮",
+wordchoice: "这就是灌篮样唱好美奇葩说明养成班妹星大侦探"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f402,1f466,1f466-1f3fb,1f474-1f3fb,1f338",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "放牛班的春天",
+wordchoice: "放牛班的春天父后少歌大乐舞之堂动是明队超孩"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f493,1f514,1f574,1f590-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "心灵捕手",
+wordchoice: "心灵捕手孩案啦辣老女乖男爸女生高女扬舞大辣"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f61d,1f3d5",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "快乐大本营",
+wordchoice: "快乐大本营经纪人意外的新旅玉琳军接招凤凰精"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f646,1f418,270d-1f3fc,1f468-1f3fb-200d-1f393",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "偶像练习生",
+wordchoice: "偶像练习生全运场伦理好号极限乐送甜蜜儿职哎"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f483-1f3fb,1f32a,1f4a5",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "舞蹈风暴",
+wordchoice: "舞蹈风暴点脱电影之调歌访秀蒙面唱将猜猜的任"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f484,1f934-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "口红王子",
+wordchoice: "口红王子全运场伦理好号极限乐送甜蜜儿职哎养"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f5e3,1f3a4,1f44f-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "好声音",
+wordchoice: "好声音演员请就位快养微厅奔青春我要打篮球哈"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f64b,1f3e0,1f469-200d-2764-fe0f-200d-1f468",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "我家小两口",
+wordchoice: "我家小两口我问高等请吃一顿超新疯好菜星全运"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f5e3,1f4d6",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "朗读者",
+wordchoice: "朗读者口慧树金重奏呀好务天口一本尚杂谈书欢"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3cd,1f46c-1f3fb,1f469-1f3fb-200d-1f9bc,1f46e-1f3fb",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "无名之辈",
+wordchoice: "无名之辈如懿传笑情公寓高女扬芭倚天屠傲江湖"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f44d-1f3fc,1f4aa-1f3fc,1f9e0",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "最强大脑",
+wordchoice: "最强大脑这士林中梦之声我问高等请吃一顿饭超"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f934-1f3fc,1f449-1f3fc,1f438",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "王子变青蛙",
+wordchoice: "舞大阵辣箩爱不架完家哎王子变青蛙起开房个间"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3eb,31-20e3,270d-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "开学第一课",
+wordchoice: "开学第一课上至大发跑本会好书号极限心动的信"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f31f,1f4a1,1f6e3",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "星光大道",
+wordchoice: "星光大道浩角翔起声林之王金马奖颁奖典礼美人"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "2694,1f575",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "杀死比尔",
+wordchoice: "杀死比尔乖男爸女生高女扬芭主前麻欢完狂儿人"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f431,1f42d,1f3ae",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "猫鼠游戏",
+wordchoice: "猫鼠游戏箩爱不架变新妈宝反妹啦美食绑神比人"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4d6,1f608,1f621,1f630,1f645",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "少年的你",
+wordchoice: "少年的你爆名义长安十二时辰我的前半生小欢喜"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fb,1f3e0,1f469-200d-2764-fe0f-200d-1f48b-200d-1f468",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "爱情公寓",
+wordchoice: "爱情公寓人来疯好菜改变的起万夜追凶潜变新妈"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3b9,1f3b8,1f3a4,1f31e",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "乐队的夏天",
+wordchoice: "乐队的夏天新星全运戏曲艺跑吧拜托样唱好美奇"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f62d,1f4b0,1f46f",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "破产姐妹",
+wordchoice: "破产姐妹夜食堂杜拉拉升职记大热门组现场说法"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f409,1f409,1f409,1f451,1f469-1f3fb-200d-1f9b3",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "权利的游戏",
+wordchoice: "权利的游戏灯火全运演员请就位快养微厅奔青春"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f34a,1f468-200d-2764-fe0f-200d-1f468,1f6d0",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "陈情令",
+wordchoice: "陈情令痛倒冒学星飞同彻雪女冰灰歌辣产身姑大"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f7e5,1f3ef,1f4a4",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "红楼梦",
+wordchoice: "红楼梦英雄传仙剑奇侠传花木兰延禧攻略如懿传"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f32a,1f469",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "旋风少女",
+wordchoice: "旋风少女湖来自星星的你蓝色大海的传说孤单又"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f004,1f5e3,1f3a4,1f918-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "中国新说唱",
+wordchoice: "中国新说唱点脱电影之调歌访秀蒙面唱将猜猜的"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f338,1f338,1f4cc,1f4ce,1f4cf",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "花花万物",
+wordchoice: "花花万物非凡创的会中国相的美食晚会少浩角翔"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f493,1f4f6",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "心动的信号",
+wordchoice: "心动的信号成班妹妹一起开房间人来疯好菜改变"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f311,dasuan",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "暗算",
+wordchoice: "暗算龙记还珠格格扶摇步步惊心流金马奖颁奖典"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f474-1f3fb,1f468-1f3fb,1f476-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "返老还童",
+wordchoice: "返老还童筐霉美迹劲娘春险美欢夜妹天奇新男的"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f30a,1f446-1f3fc,1f338,1f338",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "浪花一朵朵",
+wordchoice: "浪花一朵朵我和大逃脱老女乖男爸女生高女扬芭"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f480,1f469,1f469-1f3fb,ffsfsfsfsfss",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "致命女人",
+wordchoice: "致命女人士兵突击亲爱的热爱的天龙八部创的会"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f195,1f40d,1f478-1f3fb,1f6a2,1f6a9",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "新白娘子传奇",
+wordchoice: "新白娘子传奇舞大阵辣箩爱不架完家哎养成班的"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3e0,1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fb,1f466-1f3fb,1f467-1f3fb",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "家有儿女",
+wordchoice: "家有儿女菜改变的起万夜追凶潜变新妈宝反妹啦"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f304,1f303,1f46c-1f3fb,1f5e1",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "白夜追凶",
+wordchoice: "白夜追凶任经纪人父后少歌大乐舞之堂动是明队"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4b0,1f3ca",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "潜伏",
+wordchoice: "潜伏案啦辣之声我问高等请吃一顿饭超新星全运"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f44d-1f3fc,1f468-1f3fb-200d-1f9b1",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "好先生",
+wordchoice: "好先生跑吧拜托样唱好美奇葩说明星大侦探超新"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f48b,1f469-200d-2764-fe0f-200d-1f48b-200d-1f468,1f525,1f469-200d-2764-fe0f-200d-1f48b-200d-1f468",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "亲爱的热爱的",
+wordchoice: "亲爱的热爱的之国西班牙寄宿您尽管化十分更都"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f304,1f409,38-20e3,1f463",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "天龙八部",
+wordchoice: "天龙八部树幸福三重奏呀好身一本尚杂谈公寓倚"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6eb,1f32b,1f468-1f3fb-200d-2708-fe0f,1f6ec,1f6a9",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "中国机长",
+wordchoice: "中国机长步步惊心流星花园甄嬛传花千骨延禧攻"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3b1,1f32a,1f9d2-1f3fb,1f44d-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "台风少年行",
+wordchoice: "台风少年行起万家更生文材武谈明天向对王牌中"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1000,1000,1f4b0,1f476-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "百万美元宝贝",
+wordchoice: "百万美元宝贝明队超故事致命女人新白娘子传升"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f69e,1f5fb,1f38e,1f30b,1f469-200d-2764-fe0f-200d-1f48b-200d-1f468",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "你的名字",
+wordchoice: "你的名字自星星的你蓝色大海的传说孤单又灿烂"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f449-1f3fc,1f575,1f6ab,1f192",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "这个杀手不太冷",
+wordchoice: "这个杀手不太冷冰灰歌辣产身姑大辣筐霉美迹劲"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f610,1f645,1f48a,1f47c-1f3fb",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "我不是药神",
+wordchoice: "我不是药神大宅门武林外传西游记琅琊榜生活大"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "270d-1f3fc,1f442,1f468-1f3fb-200d-1f52c,1f4a5",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "生活大爆炸",
+wordchoice: "生活大爆炸桃花楚乔传陈情令红楼梦无名之辈雕"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f60d,1f424,1f468-1f3fc-200d-1f91d-200d-1f468-1f3fb,1f48e",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "射雕英雄传",
+wordchoice: "射雕英雄传人名的名义长安十二时辰我的前半生"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6f6,1f3c5,1f3dd,1f405",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "少年派的奇幻漂流",
+wordchoice: "少年派的奇幻漂流笑陈情令红楼梦无名险之辈射"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f483-1f3fb,1f32a",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "舞蹈风暴",
+wordchoice: "舞蹈风暴猜上至大会一本好书心动的厅奔信我解"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f1fb,1f3ad,1f5e1,2714",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "v字仇杀队",
+wordchoice: "v字仇杀队禧攻略如宅门武林外学传西游懿传笑"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f30a,1f451",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "海王",
+wordchoice: "海王传笑记传奇箩爱情不架家之堂动是明有大宅"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f562,1f004,1f44d-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "七宗罪",
+wordchoice: "七宗罪倒冒学星飞同彻乐舞之雪女冰灰辣产身姑"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f934-1f3fc,1f0cf,1f19a,1f934-1f3fc,1f0cf",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "王牌对王牌",
+wordchoice: "王牌对王牌问高等请吃一饭超攻新星全运戏曲艺"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f303,1f35c,1f60a",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "深夜食堂",
+wordchoice: "深夜食堂我哥带走河神都挺好星花园甄嬛传花千"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f489,1f47b,1f380",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "镇魂街",
+wordchoice: "镇魂街秀小屋最近的孩子金牌林游务宅门武中餐"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f1e9,1f6aa,1f472-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "大宅门",
+wordchoice: "大宅门霉美迹劲娘春险美欢夜妹天奇新男王子变"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3ce,1f3ce,1f3ce,1f327,1f493",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "速度与激情",
+wordchoice: "速度与激情伏士兵突击亲爱的热爱的天龙八部射"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f338,1f52a,1f424,1f62d",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "葵花宝典",
+wordchoice: "葵花宝典转他圈有也尤高入意阿而何士游有国中"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6e9,1f35a,1f64d,1f3d8",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "非凡任务",
+wordchoice: "非凡任务王子变青蛙爱情公寓倚天屠龙记还珠格"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f69e,1f449-1f3fc,1f4a3,1f6e9",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "让子弹飞",
+wordchoice: "让子弹飞八传西游记琅琊榜女扬芭主前麻欢生活"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6f3,1f3b9,1f345",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "海上钢琴师",
+wordchoice: "海上钢琴师女的故事致命女人笑傲江湖来自星星"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f604,1f9d2-1f3fb,1f3a4",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "快乐男声",
+wordchoice: "快乐男声梦之马好号极限乐送现场甜蜜儿问高等"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f634,1f4a4,1f3a4",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "梦想的声音",
+wordchoice: "梦想的声音金颁典礼美人了箱点脱电影关之调歌"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "jiandao,1f590-1f3fc,1f493,1f338",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "剪刀手爱德华",
+wordchoice: "剪刀手爱德华门武林外传游记琅夜天奇新男王生"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f643,1f634,1f32b,1f3f9",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "盗梦空间",
+wordchoice: "盗梦空间梦无名之辈射雕英雄传深夜食堂杜拉拉"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1000,1f41f,1000,1f50d",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "千与千寻",
+wordchoice: "千与千寻龙八部射雕英雄传仙剑奇侠传花木兰延"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4af,1f426,1f449-1f3fc,1f32a",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "百鸟朝凤",
+wordchoice: "百鸟朝凤校记满青一公痛倒冒学星飞同彻雪即破"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f68d,1f41a,1f424,1f573,1f44c-1f3fb",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "攻壳机动队",
+wordchoice: "攻壳机动队英雄传深夜食堂杜拉拉动是明队超升"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f64f-1f3fc,1f9ca,1f4e6",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "拜托了冰箱",
+wordchoice: "拜托了冰箱点脱电影之调歌访秀蒙面唱将猜猜的"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f004,1f37d,1f442",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "中餐厅",
+wordchoice: "中餐厅班牙寄宿您尽管化十分更材都市笑口慧树"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f9d2-1f3fb,1f934-1f3fc,1f476-1f3fc,1f934-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "大王小王",
+wordchoice: "大王小王女法绿之国更都市笑口慧树幸福班牙寄"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f412,1f412,1f412,1f171,1f404,1f3e0",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "三傻大闹宝莱坞",
+wordchoice: "三傻大闹宝莱坞舞大阵辣箩爱不架变新妈宝反妹"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f338,1f338,1f3e0,1f46c-1f3fb,1f416",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "春田花花同学会",
+wordchoice: "春田花花同学会筐霉美迹劲娘春险美欢夜妹天奇"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6f3,1f5fb",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "泰坦尼克号",
+wordchoice: "泰坦尼克号男王子变青蛙爱情公寓倚天乐舞龙记"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f413,1f9f6,1f938-1f3fb-200d-2642-fe0f,2694",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "极限挑战",
+wordchoice: "极限挑战翔起声林之王金马奖颁奖典礼美人了冰"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f30c,1f31f,1f575",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "明星大侦探",
+wordchoice: "明星大侦探非凡创的会中国相的美食晚会少浩角"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f418,1f578,1f930-1f3fb,1f525",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "向往的生活",
+wordchoice: "向往的生活演员请就位快养微厅奔青春我要打篮"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6ab,1f34a,1f645-1f3fb-200d-2642-fe0f,1f5e3",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "非诚勿扰",
+wordchoice: "非诚勿扰这士林中梦之声我问高等请吃一顿饭超"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f32b,1f32b,1f418,2b06",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "天天向上",
+wordchoice: "天天向上班机社全职高考王牌猜上至大会一本会"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f483-1f3fb,1f460,1f47f",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "穿普拉达的恶魔",
+wordchoice: "穿普拉达的恶魔西游记琅琊榜生活大爆炸破产姐"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f47c-1f3fb,1f493,1f444,1f490",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "天使爱美丽",
+wordchoice: "天使爱美丽潜伏士兵击亲梦无名辈射雕爱热爱的"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f31f,1f31e,1f577,1f476-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "明日之子",
+wordchoice: "明日之子秀小屋最近的孩子金牌林游务天口秀法"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f475-1f3fc,1f467-1f3fb,1f478-1f3fb,1f469-200d-2764-fe0f-200d-1f468",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "女儿们的恋爱",
+wordchoice: "女儿们的恋爱这士林中梦之声我问高等请吃一顿"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "shuaijiao,1f3b1,1f3b1",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "摔跤吧爸爸",
+wordchoice: "摔跤吧爸爸海的传说孤单又灿烂的神人名的名义"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f474-1f3fb,1f3a3,1f6f6",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "老人与海",
+wordchoice: "老人与海杜拉拉升职记大宅门武林外传西游记琅"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468,1f3d4",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "断背山",
+wordchoice: "断背山击亲爱的热爱的天龙八部射雕令红楼英雄"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f44c-1f3fb,1f5e1,1f468-200d-1f469-200d-1f466",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "三剑客",
+wordchoice: "三剑客的你蓝色大海的传说孤单又灿烂的神人名"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3c3,1f3c8,1f3c6,1f3d3,1f4b0",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "阿甘正传",
+wordchoice: "阿甘正传变青蛙爱情公寓倚天屠龙记还珠格格扶"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6b6,1f30d,1f30e,1f30f,1f463",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "从你的全世界路过",
+wordchoice: "从你的全世界路过乐舞之堂动是明队超孩案啦辣"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f91b-1f3fb,1f43a",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "战狼",
+wordchoice: "战狼传仙剑奇侠传花木兰延禧攻略如懿传大爆炸"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f47c,1f3f9,1f6b4,1f364,1f48e",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "仙剑奇侠传",
+wordchoice: "仙剑奇侠传点脱电影之调歌访秀蒙面唱将猜猜想"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f33a,1f332,1f7e6",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "花木兰",
+wordchoice: "花木兰榜生活大爆炸破产姐妹权利的游林外传西"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f525,junren,1f601",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "烈火军校",
+wordchoice: "烈火军校武谈明天向对王牌戏侍女的故事致命女"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f44f-1f3fc,1f3f9,1f6a9,1f3b8",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "古剑奇谭",
+wordchoice: "古剑奇谭子传奇家有儿女白狂儿人校记满青一公"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f30a,2b06,1f441-200d-1f5e8,1f32b,2714",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "海上牧云记",
+wordchoice: "海上牧云记琅琊流金马奖颁奖典礼美人了冰箱点"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3ee,1f3ef,1f55b,1f552,1f558,1f55b",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "长安十二时辰",
+wordchoice: "长安十二时辰兰延禧攻略如懿传笑傲江湖来自哦"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f47c,1f426,1f364,1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "神雕侠侣",
+wordchoice: "神雕侠侣辰我的前生小喜快把河都好星花园甄嬛"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f30a,1f6cc,1f46c-1f3fb",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "嗨室友",
+wordchoice: "嗨室友说明星大侦探超新星西游记女王之国西德"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f30a,1f41f,1f41a,1f42c,1f433",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "海底总动员",
+wordchoice: "海底总动员蓝色大海的传说孤单又灿烂的神人名"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3e0,1f388,1f6e9,1f5fa",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "飞屋环游记",
+wordchoice: "飞屋环游记比贝乖父后少歌大乐舞之堂动是明队"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f463,1f460,1f457,1f380,1f478-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "灰姑娘",
+wordchoice: "灰姑娘乔传陈情令红楼梦无名之辈射雕英雄测队"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "31-20e3,1f9cd-1f3fb-200d-2642-fe0f,1f938-1f3fb-200d-2642-fe0f,1f4a7",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "一站到底",
+wordchoice: "一站到底新星全运场伦理好号极限乐送甜蜜儿职"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f46a,1f3a4,33-20e3,30-20e3,30-20e3",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "合唱吧三百",
+wordchoice: "合唱吧三百菜改变的起万家更生文材武谈明天黑"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f90f-1f3fc,1f600,1f601",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "小欢喜",
+wordchoice: "小欢喜们书欢星秀小屋最近的孩子金牌林游务宅"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4a8,1f32b",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "风云",
+wordchoice: "风云中福三餐非凡筐女的故霉美迹劲娘春险美欢"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3de,1f607",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "河神",
+wordchoice: "河神侠天奇新男王子变青蛙意外的新旅玉琳军接"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f64b-1f3fb-200d-2642-fe0f,1f5e3,1f455,1f377,38-20e3,38-20e3",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "请回答1988",
+wordchoice: "请回答1988雕这士林中梦红白歌会街头美食斗超"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3a4,1f483-1f3fb,1f7e2,1f331",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "歌舞青春",
+wordchoice: "歌舞青春更都市笑口慧树幸福三重奏呀好身一本"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f64b,34-20e3,1f3a4,1f590-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "我是歌手",
+wordchoice: "我是歌手们书欢星秀小屋最近的孩子金牌林游务"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4fc,1f57a,1f30c",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "银河护卫队",
+wordchoice: "银河护卫队中有也尤高入意阿而扬何士游的国中"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f468-1f3fb,1f3c3,27a1,2753",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "爸爸去哪儿",
+wordchoice: "爸爸去哪儿凡创的会中国相的美食晚会少浩角翔"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f7e2,1f331,2b55,1f3ca,1f413",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "青春环游记",
+wordchoice: "青春环游记点脱电影之调歌访秀蒙面唱将猜猜的"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f930-1f3fb,1f476-1f3fc,1f9d2-1f3fb,1f468-1f3fb",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "一路成年",
+wordchoice: "一路成年点脱电影之调歌访秀蒙面唱将猜猜的任"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f5dd,1f3e0,1f449-1f3fc,1f3c3",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "密室大逃脱",
+wordchoice: "密室大逃脱新星全运戏曲艺跑吧拜样唱好美奇葩"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f631,a8e1g23585266356855,1f430,2b55",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "疯狂动物园",
+wordchoice: "疯狂动物园凶潜伏士兵突击亲爱的热爱的天龙八"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "37-20e3,1f9ca,1f47c-1f3fb,1f415-200d-1f9ba",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "奇兵神犬",
+wordchoice: "奇兵神犬女王之国西班牙寄宿您尽管化十分更都"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f338,1f41f,1f466-1f3fb",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "花儿与少年",
+wordchoice: "花儿与少年招凤凰这士林中梦空间问高等吃一顿"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f004,1f415-200d-1f9ba,1f3b1,1f474-1f3fb",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "忠犬八公",
+wordchoice: "忠犬八公步步惊心流星欢完狂儿人校记满青花园"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f1e6,1f35a,1f4e1",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "阿凡达",
+wordchoice: "阿凡达女扬芭主前金架变新妈宝反妹啦美完狂儿"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f409,1f408",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "龙猫",
+wordchoice: "龙猫名的名义长安十二时辰我的半生小欢喜快把"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f483-1f3fb,1f485-1f3fb,1f444,1f490",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "美丽人生",
+wordchoice: "美丽人生宝反妹啦美食绑神比贝乖父后少歌大乐"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f938-1f3fb-200d-2642-fe0f,1f44d-1f3fc,1f476-1f3fc,1f468-200d-1f468-200d-1f466-200d-1f466",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "高能少年团",
+wordchoice: "高能少年团奇葩说明星大侦探超新星西游记女王"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3c5,1f5e3,1f469-200d-2764-fe0f-200d-1f468",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "金牌调解",
+wordchoice: "金牌调解改变的起万家更生文材武谈明天向对得"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f455,1f32b,2694,1f409,1f425",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "倚天屠龙记",
+wordchoice: "倚天屠龙记美食绑的任经纪人父后少歌大乐舞之"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f41c,1f46a,1f9c0,1f5e3",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "以团之名",
+wordchoice: "以团之名起声林之王金马奖颁奖典礼美人了冰箱"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f602,1f631,1f3de",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "笑傲江湖",
+wordchoice: "笑傲江湖星飞同彻雪女冰灰歌辣产身姑大辣射雕"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f449-1f3fc,1f31f,1f31f,1f47d",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "来自星星的你",
+wordchoice: "来自星星的你侠传花木兰延禧攻略如懿传笑傲江"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f30a,1f6a2,1f5e3",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "蓝色大海的传说",
+wordchoice: "蓝色大海的传说色大海的传说孤单又灿烂的神额"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f60c,1f61d,1f607",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "孤单又灿烂的神",
+wordchoice: "孤单又灿烂的神十二时辰我的前半生小欢喜快把"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3a4,1f449-1f3fc,1f9cd-1f3fb-200d-2642-fe0f,1f498",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "声入人心",
+wordchoice: "声入人心秀时热门组现场说法爱早们造灯火全运"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "33-20e3,1f930-1f3fb,33-20e3,1f345,1f338",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "三生三世十里桃花",
+wordchoice: "三生三世十里桃花更生文材武谈明天向对王牌戏"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "chufa,1f309,1f48e",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "楚乔传",
+wordchoice: "楚乔传人新白娘子传奇家有儿女白狂儿人校记满"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f483-1f3fb,2b55,1f4de,1f48e",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "武林外传",
+wordchoice: "武林外传外的新旅玉琳军接招凤凰精选这士林中"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f468-1f3fb-200d-1f9b2,1f435,1f437,1f434",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "西游记",
+wordchoice: "西游记会街头美食斗超新星全运场伦理好号极限"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f43a,1f913,1f44d-1f3fc",
+guessclass: "影视综艺",
+guessHint: "",
+answer: "琅琊榜",
+wordchoice: "琅琊榜蜜儿职游神比贝乖爱情骨延禧攻略三生三"
+} ], [ {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f409,1f91b-1f3fb",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "龙拳",
+wordchoice: "龙拳了我发誓翻馆对的你不快乐可惜你不快乐越"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f7e2,1f4a1",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "绿光",
+wordchoice: "绿光种感觉贝凝霜的骗子我问你追贝当你走是不"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f442,1f469-200d-1f467,1f469-200d-1f467,1f4ac",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "听妈妈的话",
+wordchoice: "听妈妈的话了飞行绿色若不道下一辈的笑我曾将"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f36d,1f36f,1f36f",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "甜蜜蜜",
+wordchoice: "甜蜜蜜想在平了我发誓翻馆对的你不快乐可惜不"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f33e,1f34c",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "稻香",
+wordchoice: "稻香善良多抽象可能水可风了若只贪恋青春啊摘"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f645-1f3fb-200d-2642-fe0f,1f6ac",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "戒烟",
+wordchoice: "戒烟啊摘下月亮给你给陌生热涌活拥抱你我跌跌"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f440,1f443-1f3fb,1f444",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "眼鼻嘴",
+wordchoice: "眼鼻嘴客官不可以你靠的否弹的爱的酒了膛伪装"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6b6,1f40e",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "走马",
+wordchoice: "走马把完整的镜子打碎夜挂可嗅仲夏柠叶香晚妻"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f350,1f250,1f377,2714,1f64b,1f91b-1f3fb,1f411",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "你的酒馆对我打了烊",
+wordchoice: "你的酒馆对我打了烊渡我不渡她我前几世下不断"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f44b,1f369,1f95b,1f375,1f35c",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "卡路里",
+wordchoice: "卡路里整的镜子打碎夜晚妻四妾每一天换一种感"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "2603,1f431,1f5e3",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "学猫叫",
+wordchoice: "学猫叫她我前几世种下不断的是牵挂可嗅到仲夏"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f412,1f44b,1f449-1f3fc",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "好嗨哟",
+wordchoice: "好嗨哟是来越近我曾我曾把完整的镜子打碎夜晚"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f64b-1f3fb-200d-2642-fe0f,1f463,1f463,1f463,1f463,1f440,1f30c",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "星晴",
+wordchoice: "星晴发誓翻馆对的你不快乐可惜你不快乐越来越"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f49f,1f47b,1f330,1f48e,2b55,2b55",
+guessclass: "网络用语",
+guessHint: "",
+answer: "爱的魔力转圈圈",
+wordchoice: "爱的魔力转圈圈有也尤高入意阿而何士游有国中"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f338,1f525",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "花火",
+wordchoice: "花火给陌生热涌活拥抱你我跌跌撞完整撞奔向你"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f442,1f30a,1f602,1f5e3",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "听海哭的声音",
+wordchoice: "听海哭的声音然闯进烈的白羊多善抽象可水可风"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "26ab,2b07,31-20e3,1f550,1f418,1f449-1f3fc,1f3c3",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "嘿下一秒向你靠近",
+wordchoice: "嘿下一秒向你靠近会堕落月檐怀念青春怀念是眼"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "梨,1f4a5,26f0,1f50d",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "理想三旬",
+wordchoice: "理想三旬队中有也尤高入意阿而扬何士游的国中"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f469-1f3fb,1f440,1f601",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "当你",
+wordchoice: "当你靠的否弹的爱的酒了是膛伪装我伪装的很你"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "31-20e3,1f9cd-1f3fb-200d-2642-fe0f,27a1,1f5fc",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "一个人去巴黎",
+wordchoice: "一个人去巴黎上睬在飞云之下以为忘了的家知子"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f43a,1f319,1f478-1f3fc,1f637",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "发如雪",
+wordchoice: "发如雪爱太容易来想摘下星肥红曾瘦渡我不渡她"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f642,1f48a,31-20e3,1f45f,31-20e3,1f45f,2197,1f3c3",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "蜗牛",
+wordchoice: "蜗牛头屋突然闯进烈的白羊多善良多抽象可能水"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f418,31-20e3,1f30a,1f331,1f30a,1f331",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "海草海草",
+wordchoice: "海草海草到仲夏柠叶香你莞星给多了昨天想在平"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f448-1f3fc,1f468-1f3fb-200d-1f9b1,1f409,1f449-1f3fc,1f468-1f3fb-200d-1f9b1,1f308",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "野狼迪斯科",
+wordchoice: "野狼迪斯科你去你因为我不知怎会把守的寂不会"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f469-200d-2764-fe0f-200d-1f468,1f645,1f483-1f3fb",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "谈恋爱不如跳舞",
+wordchoice: "谈恋爱不如跳舞渡我不渡她前几世种下是牵挂可"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "2b55,2b55,1f534,1f534,2b55,2b55",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "江南",
+wordchoice: "江南多不理查封了飞行绿色若不道下一辈的笑我"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f32a,1f32c,1f327,1f338,1f552,1f44b,1f40e",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "时间煮雨",
+wordchoice: "时间煮雨春活我能我撞落你听会成她也曾指尖强"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "2b06,2b07,2b06,2b06,2b07",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "上下",
+wordchoice: "上下爱情看可能否应是绿尔了烊你旅行起啊我风"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f5fb,2b07",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "富士山下",
+wordchoice: "富士山下我们的单知否庸的生回头吧星球坠不能"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f534,1f339",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "红玫瑰",
+wordchoice: "红玫瑰担心变忆力生根发芽出山在夜半三更过天"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6ab,1f5e3,1f36f,1f36f",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "不能说的秘密",
+wordchoice: "不能说的秘密桥从来不敢回头屋突然闯进烈的白"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f447-1f3fc,26f0,1f447-1f3fc,1f446-1f3fc,1f30a,1f446-1f3fc",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "南山南",
+wordchoice: "南山南跌撞撞奔向你你也南墙才你客官不可以客"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f5bc,1f426,26a1,1f9f6,1f68f,1f5e3",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "七里香",
+wordchoice: "七里香我伪装的很你去你因为我不知怎会把死守"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f98b,1f98b",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "两只蝴蝶",
+wordchoice: "两只蝴蝶守的寂不会堕落月檐怀念青春怀念是眼"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f5e3,1f3c3,1f377,1f3c3",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "说散就散",
+wordchoice: "说散就散眼泪多不理查封了飞行绿色若不道下一"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f469-200d-2764-fe0f-200d-1f468,1f474-1f3fb",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "爱情宗师",
+wordchoice: "爱情宗师辈的笑我曾将青春活撞了是落你听会成"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f493,1f601,1f440",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "爱笑的眼睛",
+wordchoice: "爱笑的眼睛成她也曾指尖强悍是来越近我曾我曾"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3c3,1f4ab,1f9cd-1f3fb-200d-2642-fe0f",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "追光者",
+wordchoice: "追光者完整的镜子打碎夜晚妻四妾每一天换一种"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f635,1f420",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "失忆的金鱼",
+wordchoice: "失忆的金鱼不是会写给你听我想请你坦然只是太"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f303,27a1,1f307",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "天亮了",
+wordchoice: "天亮了生就更加爱太容易来想摘下星肥红瘦渡我"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f338,1f338,1f5fa",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "花花世界",
+wordchoice: "花花世界渡她我前几世种下不断的是牵挂可嗅到"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f645-1f3fb-200d-2642-fe0f,1f5e3",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "不要说话",
+wordchoice: "不要说话仲夏柠叶香你莞星给多了昨天在想在平"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f5e3,1f44c-1f3fb,1f44b,1f62d",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "说好不哭",
+wordchoice: "说好不哭越来越不懂得不到的简三我谁的心啊孤"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f48c,1f388",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "告白气球",
+wordchoice: "告白气球单地留下成一只野兽你的酒馆对我打越"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6a3,1f418,1f446-1f3fc",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "飘向北方",
+wordchoice: "飘向北方打了烊子弹在我心头出盛夏起是你牙湾"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f90f-1f3fc,1f483-1f3fb,1f438",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "小跳蛙",
+wordchoice: "小跳蛙上眼睛心如止枕头光者带寞放任了你失眠"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "39-20e3,39-20e3,38-20e3,31-20e3",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "九九八十一",
+wordchoice: "九九八十一眠都上睬在飞云下以为忘的家知子还"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3c7,1f64b,1f493,1f3cd",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "小摩托",
+wordchoice: "小摩托是否能遇见这首歌人离去光明当灰烬的就"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "2b05,1f590-1f3fc,1f446-1f3fc,1f319",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "左手指月",
+wordchoice: "左手指月的生回头吧星球坠不能一个担心变忆力"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "26ab,1f6e3,1f32a,1f338",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "末路狂花",
+wordchoice: "末路狂花你我跌跌的镜子打碎夜越打撞奔向看你"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1000,1f552,1f449-1f3fc",
+guessclass: "歌曲歌词",
+guessHint: "",
+answer: "一千年以后",
+wordchoice: "一千年以后想在平了我发誓翻馆对的你不快乐可"
+} ], [ {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f64b-1f3fb-200d-2642-fe0f,1f6eb",
+guessclass: "国家城市",
+guessHint: "",
+answer: "南非",
+wordchoice: "南非图丹春顺南宜保衢克汾安太城古同江达自感"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3b1,1f349",
+guessclass: "国家城市",
+guessHint: "",
+answer: "巴西",
+wordchoice: "巴西中东亚昌齐巴长弗潭晋克齐多东犁苏京斯鄂"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "2601,1f383",
+guessclass: "国家城市",
+guessHint: "",
+answer: "云南",
+wordchoice: "云南三旬队中有也尤高入意阿而扬何士游的国中"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f319,1f64b-1f3fb-200d-2642-fe0f",
+guessclass: "国家城市",
+guessHint: "",
+answer: "越南",
+wordchoice: "越南普马阳漯奥埠康萨海明东明日尔安鲁六治悉"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f349,1f382",
+guessclass: "国家城市",
+guessHint: "",
+answer: "希腊",
+wordchoice: "希腊辽缅滨州铜咸波河安漳纽巴朱新州丹宾泰石"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4ab,1f349,1f3c0",
+guessclass: "国家城市",
+guessHint: "",
+answer: "新西兰",
+wordchoice: "新西兰水铜港海阳店荷州巴康德克抚池遵夏斯盟"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f446-1f3fc,1f63b,1f689",
+guessclass: "国家城市",
+guessHint: "",
+answer: "以色列",
+wordchoice: "以色列利赤大图丹春顺南宜保衢克汾安太城古同"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f1e6,1f4b0,1f5e3",
+guessclass: "国家城市",
+guessHint: "",
+answer: "阿富汗",
+wordchoice: "阿富汗山黎苏安纳九江鸭福连阳罗日州则德博威"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f40e,1f37c,1f349,1f631",
+guessclass: "国家城市",
+guessHint: "",
+answer: "马来西亚",
+wordchoice: "马来西亚港四芜兰阿庄堰约花州洱阳州皇德黔水"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f512,1f434,1f350",
+guessclass: "国家城市",
+guessHint: "",
+answer: "索马里",
+wordchoice: "索马里利山远宁渠济州吉特滨密州博菏州重溪福"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f35c,1f4a1",
+guessclass: "国家城市",
+guessHint: "",
+answer: "缅甸",
+wordchoice: "缅甸德河新遂得士州密伦斯波北尔龙潜楚小岛来"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f304,1f416",
+guessclass: "国家城市",
+guessHint: "",
+answer: "日本",
+wordchoice: "日本舟纳张锦永海娄哈迁株张安伦特州阳壁湖尔"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f304,1f33a",
+guessclass: "国家城市",
+guessHint: "",
+answer: "朝鲜",
+wordchoice: "朝鲜银多固莆江昌宁城山孝泰尾门治鹤因通汕南"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f430,1f430,1f6a9",
+guessclass: "国家城市",
+guessHint: "",
+answer: "土耳其",
+wordchoice: "土耳其奴州阜北果泉邵德山西辛大汉岗昌义第底"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f62e,1f6aa",
+guessclass: "国家城市",
+guessHint: "",
+answer: "澳门",
+wordchoice: "澳门利水铜港海阳店荷州巴康德克抚池遵夏斯盟"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3b1,1f350",
+guessclass: "国家城市",
+guessHint: "",
+answer: "巴黎",
+wordchoice: "巴黎春州原澳乌木华银山德托昌梅门张雄黄信吉"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f232,1f46b-1f3fd,1f532",
+guessclass: "国家城市",
+guessHint: "",
+answer: "布拉格",
+wordchoice: "布拉格赣州蚌池敦阳州乌延湛兰吕安孜惠鞍石色"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f42a,1f434",
+guessclass: "国家城市",
+guessHint: "",
+answer: "罗马",
+wordchoice: "罗马罗兴三黄鸡茂石北玉镇吴泉石开杰营第钦门"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f328,1f433",
+guessclass: "国家城市",
+guessHint: "",
+answer: "东京",
+wordchoice: "东京佐山枣巴海塔尔苏溪阳那韶宁口临庆港番乡"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6f3,1f4a1",
+guessclass: "国家城市",
+guessHint: "",
+answer: "伦敦",
+wordchoice: "伦敦通长因昌州州安阳七门南斯江百山旧北深顶"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f51d,1f30a",
+guessclass: "国家城市",
+guessHint: "",
+answer: "上海",
+wordchoice: "上海舟纳张锦永海娄哈迁株张安伦特州阳壁湖尔"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f40c,1f44f-1f3fc",
+guessclass: "国家城市",
+guessHint: "",
+answer: "曼谷",
+wordchoice: "曼谷亚拉常托衡斯海洛州门黑州佳安西南石河州"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f232,1f3b5,1f622",
+guessclass: "国家城市",
+guessHint: "",
+answer: "吴哥窟",
+wordchoice: "吴哥窟西葫台彦头达里安南浩山绵哈伊景伊陇宏"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f919-1f3fc,1f552,1f425",
+guessclass: "国家城市",
+guessHint: "",
+answer: "洛杉矶",
+wordchoice: "洛杉矶山黎苏安纳九江鸭福连阳罗日州则德博威"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f377,1f433,1f304",
+guessclass: "国家城市",
+guessHint: "",
+answer: "旧金山",
+wordchoice: "旧金山桥广易岩锦海南阳焦州厦封福宁安莞盐荆"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f913,26a1",
+guessclass: "国家城市",
+guessHint: "",
+answer: "雅典",
+wordchoice: "雅典舟纳张锦永海娄哈迁株张安伦特州阳壁湖尔"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "26ab,1f442,1f5d2",
+guessclass: "国家城市",
+guessHint: "",
+answer: "墨尔本",
+wordchoice: "墨尔本达自感阳临萨州无特林阿桃涅田丽秦峰勒"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f618,1f3b5,1f339",
+guessclass: "国家城市",
+guessHint: "",
+answer: "温哥华",
+wordchoice: "温哥华州原澳乌木华银山德托昌梅门张雄黄信吉"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f403,1f319",
+guessclass: "国家城市",
+guessHint: "",
+answer: "纽约",
+wordchoice: "纽约塞卡云阳洲郭黄神尔安津辽伊吐阿中珠山南"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4b3,1f5e1,1f645,1f535,1f4b3",
+guessclass: "国家城市",
+guessHint: "",
+answer: "卡萨布兰卡",
+wordchoice: "卡萨布兰卡源狄州靖天西葫台彦头达里安南浩亚"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f343,1f6e3,1f5e1,1f328",
+guessclass: "国家城市",
+guessHint: "",
+answer: "耶路撒冷",
+wordchoice: "耶路撒冷京州尔沧头萨斯逊滁盟山洛镇州宿拉宣"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f405,1f483-1f3fb,2314xia",
+guessclass: "国家城市",
+guessHint: "",
+answer: "虎跳峡",
+wordchoice: "虎跳峡江肯淮林肯州城江忠保孜里定包内贵宜淮"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f418,1f3e4,1f350,1f910",
+guessclass: "国家城市",
+guessHint: "",
+answer: "香格里拉",
+wordchoice: "香格里拉江肥柏西博城芝林矶佛法斯铁州南宜首"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f41f,1f3ee,1f5fb",
+guessclass: "国家城市",
+guessHint: "",
+answer: "玉龙雪山",
+wordchoice: "玉龙雪山东火夏界化卫尔南徐利树州西呼山绵哈"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f53c,1f40b",
+guessclass: "国家城市",
+guessHint: "",
+answer: "北京",
+wordchoice: "北京伊陇宏瓦州驻科毕南郸拉衡口台基塔盟沈塔"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f34a,1f250",
+guessclass: "国家城市",
+guessHint: "",
+answer: "承德",
+wordchoice: "承德香大临港宿中利山远宁渠济州吉特滨密州博"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3bc,1f442",
+guessclass: "国家城市",
+guessHint: "",
+answer: "普洱",
+wordchoice: "普洱重溪福蒙玉银多固莆江昌宁城山孝泰尾门治"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f238,1f411",
+guessclass: "国家城市",
+guessHint: "",
+answer: "沈阳",
+wordchoice: "沈阳六治悉那亳庆海佛宁田拉凉淖呼顿伊斯哈州"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f21a,1f349",
+guessclass: "国家城市",
+guessHint: "",
+answer: "无锡",
+wordchoice: "无锡南尔州顺枝春州原澳乌木华银山德托昌梅门"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3fb,1f6b6",
+guessclass: "国家城市",
+guessHint: "",
+answer: "郑州",
+wordchoice: "郑州黄信吉文和楞比山嘉菲水盘利许梅阳平泽南"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f195,1f3de",
+guessclass: "国家城市",
+guessHint: "",
+answer: "新疆",
+wordchoice: "新疆河边郑杰京佐山枣巴海塔尔苏溪阳那韶宁口"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f1f0,1f32a",
+guessclass: "国家城市",
+guessHint: "",
+answer: "开封",
+wordchoice: "开封港番乡嘉巴辽缅滨州铜咸波河安漳纽巴朱新"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f425,1f384",
+guessclass: "国家城市",
+guessHint: "",
+answer: "吉林",
+wordchoice: "吉林宾泰石贡云利水铜港海阳店荷州巴康德克抚"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3d1,1f4da",
+guessclass: "国家城市",
+guessHint: "",
+answer: "甘肃",
+wordchoice: "甘肃夏斯盟门州兴利赤大图丹春顺南宜保衢克汾"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f5fb,1f328",
+guessclass: "国家城市",
+guessHint: "",
+answer: "山东",
+wordchoice: "山东城古同江坊州达自感阳临萨州无特林阿桃涅"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f505,1f4f7",
+guessclass: "国家城市",
+guessHint: "",
+answer: "日照",
+wordchoice: "日照秦峰勒阳临中东亚昌齐巴长弗潭晋克齐多东"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f505,1f518",
+guessclass: "国家城市",
+guessHint: "",
+answer: "太原",
+wordchoice: "太原京斯鄂萍阳金左夷林抚贺阳喀杭那余阳山双"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f43d,1f30a",
+guessclass: "国家城市",
+guessHint: "",
+answer: "珠海",
+wordchoice: "珠海台攀西版口圳奴州阜北果泉邵德山西辛大汉"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6f3,1f6f6",
+guessclass: "国家城市",
+guessHint: "",
+answer: "杭州",
+wordchoice: "杭州义第底达鲁吉岛尼通音陵曲山州晋春州宁掖"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3de,1f349",
+guessclass: "国家城市",
+guessHint: "",
+answer: "江西",
+wordchoice: "江西浮凉州三甘化山黎苏安纳九江鸭福连阳罗日"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3ee,1f4aa-1f3fc",
+guessclass: "国家城市",
+guessHint: "",
+answer: "福建",
+wordchoice: "福建德博威中福口泸兰安苏阳绍台潮林州湖宾布"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4ad,1f3c0",
+guessclass: "国家城市",
+guessHint: "",
+answer: "云南",
+wordchoice: "云南壁湖尔恩波亚拉常托衡斯海洛州门黑州佳安"
+} ], [ {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f55b,jiandao,1f4a9",
+guessclass: "名著小说",
+guessHint: "",
+answer: "时间简史",
+wordchoice: "时间简史佛游记鲁麦片小看集欧亨利短篇哦说集"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f47b,1f32c,1f4a1",
+guessclass: "名著小说",
+guessHint: "",
+answer: "鬼吹灯",
+wordchoice: "鬼吹灯条军规愤怒泊桑中短篇望者永别了雨果巴"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f307,1f303,1f6b6",
+guessclass: "名著小说",
+guessHint: "",
+answer: "白夜行",
+wordchoice: "白夜行山庄查尔斯狄更斯雾都孤儿远大前列夫托"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f43d,1f47c",
+guessclass: "名著小说",
+guessHint: "",
+answer: "诛仙",
+wordchoice: "诛仙格列佛游记鲁短篇小说集欧亨利短篇小说集"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f30a,32-20e3,1000,1f350",
+guessclass: "名著小说",
+guessHint: "",
+answer: "海底两万里",
+wordchoice: "海底两万里隐形新娘环月旅行莫宾孙飘流记雪莱"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f90f-1f3fc,1f451,1f476-1f3fc",
+guessclass: "名著小说",
+guessHint: "",
+answer: "小王子",
+wordchoice: "小王子伪君子忏悔录梅里美帅克历险记生莫业牛"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f329,1f327",
+guessclass: "名著小说",
+guessHint: "",
+answer: "雷雨",
+wordchoice: "雷雨月亮与六便士尤利海马克吐温泊桑河羊脂球"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f416,1f416,1f437,1f416,1f416",
+guessclass: "名著小说",
+guessHint: "",
+answer: "一只特立独行的猪",
+wordchoice: "一只特立独行的猪虻月亮与六便士尤利海马克吐"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f44b,1f6e3,2b55",
+guessclass: "名著小说",
+guessHint: "",
+answer: "白鹿原",
+wordchoice: "白鹿原球基督山伯爵茶花女园童年我的大学钢铁"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f534,1f327,1f533",
+guessclass: "名著小说",
+guessHint: "",
+answer: "红与黑",
+wordchoice: "红与黑钢铁是怎样炼成的在人泊间静静的顿河日"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1000,1f518,1f1ee,1f303",
+guessclass: "名著小说",
+guessHint: "",
+answer: "一千零一夜",
+wordchoice: "一千零一夜日瓦格医生浮士德少论人生失乐园漂"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f1f9,1f1f9,1f1f9",
+guessclass: "名著小说",
+guessHint: "",
+answer: "三体",
+wordchoice: "三体记奥斯丁傲慢与偏见人艾米丽勃朗特呼啸山"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4b0,1f550",
+guessclass: "名著小说",
+guessHint: "",
+answer: "黄金时代",
+wordchoice: "黄金时代山庄查尔斯狄更斯雾都孤儿远大前列夫"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f61a,1f34a,1f449-1f3fc,1f48f",
+guessclass: "名著小说",
+guessHint: "",
+answer: "倾城之恋",
+wordchoice: "倾城之恋托尔斯泰复活童年少年青年塞瓦斯托波"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6eb,1f426,1f3b8",
+guessclass: "名著小说",
+guessHint: "",
+answer: "飞鸟集",
+wordchoice: "飞鸟集的故事战争年维特之烦恼海涅抒情诗选阴"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f643,1f327,1f612",
+guessclass: "名著小说",
+guessHint: "",
+answer: "傲慢与偏见",
+wordchoice: "傲慢与偏见阴谋与爱情神曲十日谈斯巴达克斯堂"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f441,1f31e,1f31e,1f31e",
+guessclass: "名著小说",
+guessHint: "",
+answer: "假如给我三天光明",
+wordchoice: "假如给我三天光明堂格列佛游记鲁短篇小说集欧"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3c5,1f512,1f3b8",
+guessclass: "名著小说",
+guessHint: "",
+answer: "金锁记",
+wordchoice: "金锁记小说集飘马丁伊登美国的悲剧第二十二条"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f1ff,1f31e,1f3b8",
+guessclass: "名著小说",
+guessHint: "",
+answer: "择天记",
+wordchoice: "择天记黎圣母院日本平安时代中期紫式部源氏物"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f004,1f30c",
+guessclass: "名著小说",
+guessHint: "",
+answer: "将夜",
+wordchoice: "将夜物语清少纳言草枕子纳撒尼尔红字斯情托夫"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f44d-1f3fc,1f55a,1f44e-1f3fc,1f55a",
+guessclass: "名著小说",
+guessHint: "",
+answer: "双城记",
+wordchoice: "双城记的顿河日瓦格医生浮士德少论人生失乐园"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6cc,1f62a,1f449-1f3fc,1f41e",
+guessclass: "名著小说",
+guessHint: "",
+answer: "变形记",
+wordchoice: "变形记选阴谋与爱情神曲十日谈斯巴达克斯堂格"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f90f-1f3fc,1f350,1f5e1,1f5e1",
+guessclass: "名著小说",
+guessHint: "",
+answer: "小李飞刀",
+wordchoice: "小李飞刀飘马丁伊登美国的悲剧第二十二条军规"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f427,1f48e",
+guessclass: "名著小说",
+guessHint: "",
+answer: "腾讯传",
+wordchoice: "腾讯传愤怒泊桑中短篇望者永别了雨果巴黎圣母"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6f6,1f57a",
+guessclass: "名著小说",
+guessHint: "",
+answer: "摆渡人",
+wordchoice: "摆渡人圣母院日本平安时代中期紫式部源氏物语"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f46a",
+guessclass: "名著小说",
+guessHint: "",
+answer: "我们仨",
+wordchoice: "我们仨清少纳言草枕子纳撒尼尔红字斯托夫人汤"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f44d-1f3fc,1f4b0,1f4b0,1f4b0,1f574",
+guessclass: "名著小说",
+guessHint: "",
+answer: "了不起的盖茨比",
+wordchoice: "了不起的盖茨比姆叔叔的小屋英国笛福鲁里神西"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4af,1f3ee,1f615",
+guessclass: "名著小说",
+guessHint: "",
+answer: "百年孤独",
+wordchoice: "百年孤独简爱红字汤姆叔叔的小屋教传蒙田中短"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f1fd,1f46e-1f3fb,1f64c-1f3fb",
+guessclass: "名著小说",
+guessHint: "",
+answer: "嫌疑人X的献身",
+wordchoice: "嫌疑人X的献身小说集红与黑欧也妮葛朗台高老"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4b0,1f468-1f3fb,1f645,1f4b0,1f468-1f3fb",
+guessclass: "名著小说",
+guessHint: "",
+answer: "富爸爸穷爸爸",
+wordchoice: "富爸爸穷爸爸头基度山伯爵三个火枪手茶小说集"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f42a,1f4e6",
+guessclass: "名著小说",
+guessHint: "",
+answer: "骆驼祥子",
+wordchoice: "骆驼祥子萌芽普希金抒情诗选叶甫盖尼奥涅金钦"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3e0,1f375",
+guessclass: "名著小说",
+guessHint: "",
+answer: "茶馆",
+wordchoice: "茶馆差大臣死魂灵父与子战争与和平安娜卡列尼"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f476-1f3fc,1f431,1f431,1f431,1f402,1f30a,2714",
+guessclass: "名著小说",
+guessHint: "",
+answer: "三毛流浪记",
+wordchoice: "三毛流浪记娜契诃夫小说选罪与罚樱桃命不能承"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "jiandao,1f493",
+guessclass: "名著小说",
+guessHint: "",
+answer: "简爱",
+wordchoice: "简爱受之轻玩偶之家俄国十九世纪山庄大卫科波"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f375,1f338,1f483-1f3fb",
+guessclass: "名著小说",
+guessHint: "",
+answer: "茶花女",
+wordchoice: "茶花女菲尔福尔摩斯探案集道连里的葡萄麦田里"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f631",
+guessclass: "名著小说",
+guessHint: "",
+answer: "呐喊",
+wordchoice: "呐喊人的职的守花女包法利夫人巴黎圣母院悲惨"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f304,1f33a,1f306,1f51f",
+guessclass: "名著小说",
+guessHint: "",
+answer: "朝花夕拾",
+wordchoice: "朝花夕拾世界莫哀吝啬鬼十九世纪司汤达红与黑"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f468-1f3fb,1f451,1f4ce,1f424",
+guessclass: "名著小说",
+guessHint: "",
+answer: "霸王别姬",
+wordchoice: "霸王别姬比亚全集与和平安娜卡列尼娜气球上的"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4cf,1f60f,1f3b6",
+guessclass: "名著小说",
+guessHint: "",
+answer: "长恨歌",
+wordchoice: "长恨歌纳撒尼尔红字斯托夫高人汤姆叔叔的小屋"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4de,1f34a",
+guessclass: "名著小说",
+guessHint: "",
+answer: "围城",
+wordchoice: "围城部源氏物语清少纳言草枕利短子纳撒尼尔红"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4a8",
+guessclass: "名著小说",
+guessHint: "",
+answer: "飘",
+wordchoice: "飘羊脂球基督山伯爵茶花女园童年我的大学钢铁"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f612,1f610,1f610,1f610",
+guessclass: "名著小说",
+guessHint: "",
+answer: "沉默的大多数",
+wordchoice: "沉默的大多数卫科波菲尔父老人与秘岛隐形新娘"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f62d,1f62d,1f30f",
+guessclass: "名著小说",
+guessHint: "",
+answer: "悲惨世界",
+wordchoice: "悲惨世界呼啸山庄查尔斯狄更斯雾都孤儿远大前"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4d2,1f33e,1f3b9,1f440",
+guessclass: "名著小说",
+guessHint: "",
+answer: "本草纲目",
+wordchoice: "本草纲目纳撒尼尔红字斯托夫人汤姆叔叔的小屋"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f468-1f3ff-200d-1f9b1,1f3e0",
+guessclass: "名著小说",
+guessHint: "",
+answer: "汤姆叔叔的小屋",
+wordchoice: "汤姆叔叔的小屋说集红与黑欧也妮葛朗台高老头"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f5fb,1f6a4,1f40b",
+guessclass: "名著小说",
+guessHint: "",
+answer: "山海经",
+wordchoice: "山海经尔斯泰复活童年少年青年塞瓦斯托波尔的"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f44b,1f52b",
+guessclass: "名著小说",
+guessHint: "",
+answer: "永别了武器",
+wordchoice: "永别了武器尼尔红字斯托夫人汤姆叔叔的小屋英"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3c3,fengz",
+guessclass: "名著小说",
+guessHint: "",
+answer: "追风筝的人",
+wordchoice: "追风筝的人期紫式部源氏物语清少纳言草枕子纳"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f474-1f3fb,1f468-1f3fb,1f468-1f3fb-200d-1f9b1,1f476-1f3fc",
+guessclass: "名著小说",
+guessHint: "",
+answer: "四世同堂",
+wordchoice: "四世同堂道连里的葡萄麦田里人的职的守花女包"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f32c,1f31d,1f3f0",
+guessclass: "名著小说",
+guessHint: "",
+answer: "呼啸山庄",
+wordchoice: "呼啸山庄黑比亚全集与和平安娜卡列尼娜气球上"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f44b,1f40b",
+guessclass: "名著小说",
+guessHint: "",
+answer: "白鲸",
+wordchoice: "白鲸篇小说集飘马丁伊登美国的悲剧第二十二条"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f637,1f489,1f491",
+guessclass: "名著小说",
+guessHint: "",
+answer: "霍乱时期的爱情",
+wordchoice: "霍乱时期的爱情代中期紫式部源氏物语清少纳言"
+} ], [ {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f427,1f427,1f98b,1f697",
+guessclass: "游戏",
+guessHint: "",
+answer: "QQ飞车",
+wordchoice: "QQ飞车传说英雄世纪网络三国笑傲江湖网创世"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3b9,1f963,1f7e6,1f319",
+guessclass: "游戏",
+guessHint: "",
+answer: "贪玩蓝月",
+wordchoice: "贪玩蓝月火线圣群侠传猛将传飙车神书迹魔界堂"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4aa-1f3fc,2694,1f955",
+guessclass: "游戏",
+guessHint: "",
+answer: "保卫萝卜",
+wordchoice: "保卫萝卜飘魔剑魔幻忘传江湖网络创游记英雄战"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f91b-1f3fb,1f9b8-1f3fb-200d-2642-fe0f",
+guessclass: "游戏",
+guessHint: "",
+answer: "一拳超人",
+wordchoice: "一拳超人武魂英雄蜗牛游戏幸福蒸汽幻想信长野"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f600,1f004",
+guessclass: "游戏",
+guessHint: "",
+answer: "欢乐麻将",
+wordchoice: "欢乐麻将奇魔法火枪团幻想学园夺宝旋风炎龙那"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f431,1f439",
+guessclass: "游戏",
+guessHint: "",
+answer: "猫和老鼠",
+wordchoice: "猫和老鼠骄树世界吞食天地如使国惊天动地劲舞"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f621,1f426",
+guessclass: "游戏",
+guessHint: "",
+answer: "愤怒的小鸟",
+wordchoice: "愤怒的小鸟自在飞车悠游三国天空神话探索天尊"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3b5,1f3b9,1f9d9-1f3fb",
+guessclass: "游戏",
+guessHint: "",
+answer: "节奏大师",
+wordchoice: "节奏大师仙剑奇泡大亨密传猛将新魔心烈焰飞雪"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6f3,1f319,1f525,1f9f6",
+guessclass: "游戏",
+guessHint: "",
+answer: "穿越火线",
+wordchoice: "穿越火线圣群侠传猛将传飙车神书迹魔界堂热血"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4a7,35-20e3,1f9cd-1f3fb-200d-2642-fe0f,1f4cf",
+guessclass: "游戏",
+guessHint: "",
+answer: "第五人格",
+wordchoice: "第五人格湖丝路传说石器时代盛大富翁三球什么"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f601,1f61c,1f92a,1f472-1f3fc",
+guessclass: "游戏",
+guessHint: "",
+answer: "欢乐斗地主",
+wordchoice: "欢乐斗地主剑舞江南口袋西游墨香魔域冒险岛泡"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f98c,26f0,26f4,1f5e3",
+guessclass: "游戏",
+guessHint: "",
+answer: "炉石传说",
+wordchoice: "炉石传说蝶剑九洲英雄乱武天下龙魂科隆领土精"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "33-20e3,1f34e,1f52a",
+guessclass: "游戏",
+guessHint: "",
+answer: "三国杀",
+wordchoice: "三国杀下贰踢踢反恐行动洛奇龙族劲舞团新江的"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f9d9-1f3fb,1f99b,1f5fa",
+guessclass: "游戏",
+guessHint: "",
+answer: "魔兽世界",
+wordchoice: "魔兽世界指环王唯舞独尊仙剑奇泡大亨密传猛将"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f303,1f52a,1f413",
+guessclass: "游戏",
+guessHint: "",
+answer: "黎明杀机",
+wordchoice: "黎明杀机灵复兴劲爆足球开天巨商凯旋江山龙骑"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f354,1f355,1f356,1f40d",
+guessclass: "游戏",
+guessHint: "",
+answer: "贪吃蛇",
+wordchoice: "贪吃蛇新魔心烈焰飞雪极道车神龙影剑侠世界骑"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f31a,1f31d,lion",
+guessclass: "游戏",
+guessHint: "",
+answer: "阴阳师",
+wordchoice: "阴阳师突袭推侠墨香特勤队天上人间特种部队天"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f34e,1f34c,1f34d,1f52a",
+guessclass: "游戏",
+guessHint: "",
+answer: "水果忍者",
+wordchoice: "水果忍者梦想岛龙虎门哼哼哈嘿金庸奇侠幻想世"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f469-200d-2764-fe0f-200d-1f468,1f327,1f933-1f3fc,1f466-1f3fb",
+guessclass: "游戏",
+guessHint: "",
+answer: "恋与制作人",
+wordchoice: "恋与制作人手飘飘魔剑魔幻忘传说新西游记英雄"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f427,1f427,1f300,1f483-1f3fb",
+guessclass: "游戏",
+guessHint: "",
+answer: "QQ炫舞",
+wordchoice: "QQ炫舞幻境明星拍部落子流星孔兵雀碰时代炮"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f469-1f3fb,27a1,1f478-1f3fb",
+guessclass: "游戏",
+guessHint: "",
+answer: "奇迹暖暖",
+wordchoice: "奇迹暖暖纸客帝国炸弹人舞街区小鱼儿和花无缺"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "26f5,265f",
+guessclass: "游戏",
+guessHint: "",
+answer: "传奇",
+wordchoice: "传奇爱盒子流星学院孔雀王世纪可乐吧金庸群侠"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f33b,2694,1f9df",
+guessclass: "游戏",
+guessHint: "",
+answer: "植物大战僵尸",
+wordchoice: "植物大战僵尸侠客天下英雄岛希望倚天界泡泡岛"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f577,1f0cf",
+guessclass: "游戏",
+guessHint: "",
+answer: "蜘蛛纸牌",
+wordchoice: "蜘蛛纸牌家园战国英雄真孔雀王遗龙八部天使天"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f9f9,1f4a3",
+guessclass: "游戏",
+guessHint: "",
+answer: "扫雷",
+wordchoice: "扫雷网络三国笑傲江湖石器网络创世纪武魂英雄"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3c2,1f9e2,1f573",
+guessclass: "游戏",
+guessHint: "",
+answer: "滑雪大冒险",
+wordchoice: "滑雪大冒险游记英雄战场永恒仙界传侠客行佣兵"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "2694,1f31f",
+guessclass: "游戏",
+guessHint: "",
+answer: "消灭星星",
+wordchoice: "消灭星星龙骑士如来丢丢球巨人缺开创世纪九的"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f68a,1f3c3",
+guessclass: "游戏",
+guessHint: "",
+answer: "地铁跑酷",
+wordchoice: "地铁跑酷流星蝴蝶剑九洲英雄乱武天下龙魂科隆"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f369,1f3ed",
+guessclass: "游戏",
+guessHint: "",
+answer: "甜甜圈工厂",
+wordchoice: "甜甜圈工厂游雷霆战队龙与地下城绝对女神机战"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f32b,1f409,38-20e3,1f463",
+guessclass: "游戏",
+guessHint: "",
+answer: "天龙八部",
+wordchoice: "天龙八部传奇魔法火枪团幻想学园夺宝旋风炎龙"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f32b,1f9b7,1f319,1f52a",
+guessclass: "游戏",
+guessHint: "",
+answer: "天涯明月刀",
+wordchoice: "天涯明月刀望新郑和武林外无厘头快完美际版战"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fb,27a1,1f9cd-1f3fb-200d-2642-fe0f,1f469-1f3fb-200d-1f373",
+guessclass: "游戏",
+guessHint: "",
+answer: "分手厨房",
+wordchoice: "分手厨房龙魂科隆领土精灵复兴劲爆足球开天巨"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f930-1f3fb,1f338,1f4de,1f413",
+guessclass: "游戏",
+guessHint: "",
+answer: "生化危机",
+wordchoice: "生化危机人开创世纪九鼎开星际家园战国英雄真"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f31f,1f413,1f5e3,1f44d-1f3fc",
+guessclass: "游戏",
+guessHint: "",
+answer: "星际争霸",
+wordchoice: "星际争霸族劲舞团新江湖街头篮传超级乒乓笑闹"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f469-1f3fb,1f4b0,1f9f6",
+guessclass: "游戏",
+guessHint: "",
+answer: "少女前线",
+wordchoice: "少女前线飙车神迹魔界堂热血江湖丝路传说石器"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3d8,1f3d7,1f4a4",
+guessclass: "游戏",
+guessHint: "",
+answer: "家国梦",
+wordchoice: "家国梦队龙与地下城绝对女神机战激客行战猎人"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f451,1f934-1f3fc,1f3c6,1f31f",
+guessclass: "游戏",
+guessHint: "",
+answer: "王者荣耀",
+wordchoice: "王者荣耀武魂英雄蜗牛游戏幸福蒸汽幻想信长野"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f431,1f436,2694",
+guessclass: "游戏",
+guessHint: "",
+answer: "猫狗大战",
+wordchoice: "猫狗大战战神传说侠客天下英雄岛希望倚天说石"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3f9,26f5,1f5e3",
+guessclass: "游戏",
+guessHint: "",
+answer: "弓箭传说",
+wordchoice: "弓箭传说隆领土精灵复兴劲爆足球开天巨商凯旋"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3b5,1f5fa",
+guessclass: "游戏",
+guessHint: "",
+answer: "音乐世界",
+wordchoice: "音乐世界王可乐吧金庸群侠传科洛斯决战抗战灵"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "2694,1f30e",
+guessclass: "游戏",
+guessHint: "",
+answer: "守卫地球",
+wordchoice: "守卫地球庸群传科洛斯决战抗战灵游记乱世三魔"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f606,1f468-1f3fb-200d-1f33e,1f402,1f410",
+guessclass: "游戏",
+guessHint: "",
+answer: "欢乐农场",
+wordchoice: "欢乐农场空神话探索天尊天书奇谈数码宝贝梦幻"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f95a,1f373,1f680,1f95a,1f4a3,1f373",
+guessclass: "游戏",
+guessHint: "",
+answer: "蛋蛋大乱斗",
+wordchoice: "蛋蛋大乱斗龙影剑侠世界舞江看袋西香魔域冒险"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f338,2694",
+guessclass: "游戏",
+guessHint: "",
+answer: "花与剑",
+wordchoice: "花与剑翁三球什么对国群英传童话天骄树世界吞"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "31-20e3,1f9cd-1f3fb-200d-2642-fe0f,1f9c0,2b07",
+guessclass: "游戏",
+guessHint: "",
+answer: "一人之下",
+wordchoice: "一人之下梦幻星魔法飞球破天一泡恐小游黄说倚"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "26f9-1f3fb,1f3c0,1f44d-1f3fc,1f3c6",
+guessclass: "游戏",
+guessHint: "",
+answer: "灌篮高手",
+wordchoice: "灌篮高手传说飞天风云疯狂飚车疯狂派世界梦幻"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f64b,1f5fa",
+guessclass: "游戏",
+guessHint: "",
+answer: "我的世界",
+wordchoice: "我的世界数码宝贝梦幻古龙魔法气泡堂之梦想岛"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f934-1f3fc,2694",
+guessclass: "游戏",
+guessHint: "",
+answer: "皇室战争",
+wordchoice: "皇室战争食天地如使国惊天动地劲舞世界机甲法"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "2694,1f578,33-20e3",
+guessclass: "游戏",
+guessHint: "",
+answer: "剑网三",
+wordchoice: "剑网三侠机神泣突袭推推侠特勤队天上人间特种"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3a8,1f004,1f5fa",
+guessclass: "游戏",
+guessHint: "",
+answer: "画中世界",
+wordchoice: "画中世界食天地如使国惊天动地劲舞世界机甲世"
+} ], [ {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f327,1f64d,1f21a,1f349",
+guessclass: "网络用语",
+guessHint: "",
+answer: "雨女无瓜",
+wordchoice: "雨女无瓜盘它秀或者特别出其不意可你看碗又大"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f64b-1f3fb-200d-2642-fe0f,1f34b",
+guessclass: "网络用语",
+guessHint: "",
+answer: "我酸了",
+wordchoice: "我酸了哟感润盘它秀或者特刺激别出其不意可瓜"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f933-1f3fc,1f933-1f3fc,36-20e3,36-20e3,36-20e3",
+guessclass: "网络用语",
+guessHint: "",
+answer: "双击六六六",
+wordchoice: "双击六六六奇的干理背负着巨强脑是络你好品巴"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f489,1f493,1f474-1f3fb,1f528",
+guessclass: "网络用语",
+guessHint: "",
+answer: "扎心了老铁",
+wordchoice: "扎心了老铁特别出其不意受可瓜一点都不生已大"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f649,1f649,1f422,1f5e3",
+guessclass: "网络用语",
+guessHint: "",
+answer: "不听不听王八念经",
+wordchoice: "不听不听王八念经网衣服出特别活压力好嗨哟感"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4af,1f32b,1f58a,1f236,1f34e",
+guessclass: "网络用语",
+guessHint: "",
+answer: "百因必有果",
+wordchoice: "百因必有果刺激了像这个骚道巅峰去严肃化下你"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f35a,1f645-1f3fb-200d-2642-fe0f,27a1,1f35a,1f60d",
+guessclass: "网络用语",
+guessHint: "",
+answer: "真香",
+wordchoice: "真香火又长又宽就奇骚的干理背负着巨是络你好"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f64b,1f31e,1f383,1f60a",
+guessclass: "网络用语",
+guessHint: "",
+answer: "我太难了",
+wordchoice: "我太难了谁这鸡窟女孩能不知道先达了圆又圆打"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f4b3,27a1,1f6cd",
+guessclass: "网络用语",
+guessHint: "",
+answer: "买它",
+wordchoice: "买它遍了全网衣服出特别活压力好嗨哟感润盘它"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3c0,1f528,1f64c-1f3fb,1f528",
+guessclass: "网络用语",
+guessHint: "",
+answer: "求锤得锤",
+wordchoice: "求锤得锤子总要发光天都是直播麻赖赖贴吧网友"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f30a,1f31f",
+guessclass: "网络用语",
+guessHint: "",
+answer: "还行",
+wordchoice: "还行圈车厘子自由贫民圈围鲲救鳗你看碗又大救"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f21a,1f327",
+guessclass: "网络用语",
+guessHint: "",
+answer: "无语",
+wordchoice: "无语雨女无乐里巴人和阳不知发挥超强脑洞硬核"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f437,1f437,1f467-1f3fb",
+guessclass: "网络用语",
+guessHint: "",
+answer: "猪猪女孩",
+wordchoice: "猪猪女孩能不知道达了圆又圆我s了打篮球神啊"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f64b-1f3fb-200d-2642-fe0f,1f44c-1f3fb",
+guessclass: "网络用语",
+guessHint: "",
+answer: "我觉得可以",
+wordchoice: "我觉得可以干理背负着巨是络你好品巴巴啊你春"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "2601,1f411,1f431",
+guessclass: "网络用语",
+guessHint: "",
+answer: "云养猫",
+wordchoice: "云养猫宽就奇的干理背负着巨是络你好品巴巴啊"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f6cd,1f46f",
+guessclass: "网络用语",
+guessHint: "",
+answer: "塑料姐妹花",
+wordchoice: "塑料姐妹花这个骚道巅峰去严肃化下你太美雨女"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f962,1f413",
+guessclass: "网络用语",
+guessHint: "",
+answer: "吃鸡",
+wordchoice: "吃鸡鸡窟女孩能不知道先达了圆又圆吧打篮球神"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f418,1f413,1f469-200d-2764-fe0f-200d-1f468",
+guessclass: "网络用语",
+guessHint: "",
+answer: "像极了爱情",
+wordchoice: "像极了爱情火又长又宽就奇的干理背负着巨是络"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f3c3,27a1,1f476-1f3fc",
+guessclass: "网络用语",
+guessHint: "",
+answer: "来了老弟",
+wordchoice: "来了老弟你太美雨女无火又长乐里人和阳不知发"
+}, {
+mode: 1,
+difficulty: 1,
+isshowemoji: !0,
+guesspic: "",
+emojis: "1f300,1f300,1f466-1f3fb,1f446-1f3fc,34-20e3",
+guessclass: "网络用语",
+guessHint: "",
+answer: "窝窝头一块钱四个",
+wordchoice: "窝窝头一块钱四个咱也为什么穿爱来打篮球源于"
+} ]]
+
+
+module.exports = {
+  emojiData,
+}

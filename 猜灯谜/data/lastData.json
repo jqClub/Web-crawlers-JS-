@@ -1,0 +1,4636 @@
+[
+  {
+    "question": "半作半息",
+    "answer": "怎",
+    "explain": "作字取一半的乍，息字取一半的心，组合为怎字",
+    "level": 1
+  },
+  {
+    "question": "美中不足",
+    "answer": "关",
+    "explain": "“美”字中间不足为“关”",
+    "level": 2
+  },
+  {
+    "question": "灭顶之灾",
+    "answer": "火",
+    "explain": "将“灾”上的宝盖头，用方位词“顶”字借代，由“灭”字将其叫去，馀下“火”",
+    "level": 3
+  },
+  {
+    "question": "半推半就",
+    "answer": "掠",
+    "explain": "推取一半是扌，就的一半是京，组合为掠字",
+    "level": 4
+  },
+  {
+    "question": "日落而宴",
+    "answer": "晏",
+    "explain": "晏字中的“日”，下移位后为“宴”字",
+    "level": 5
+  },
+  {
+    "question": "一语道破",
+    "answer": "吾",
+    "explain": "将“语”旁的“讠（言）”与“道”同义相替，由“破”叫去“讠（言）”而余“吾”",
+    "level": 6
+  },
+  {
+    "question": "晕头转向",
+    "answer": "晖",
+    "explain": "晕字，由日和军字组成，移位后为晖",
+    "level": 7
+  },
+  {
+    "question": "下上其音",
+    "answer": "昱",
+    "explain": "“音”是核心词，上“立”下“日”，换位成“昱”字",
+    "level": 8
+  },
+  {
+    "question": "三十而立",
+    "answer": "丰",
+    "explain": "谜面中的“三十”，与“卅”同义。“而立”提示“卅”站起来看，这样自然就成了“丰”字。",
+    "level": 9
+  },
+  {
+    "question": "乘人不备",
+    "answer": "乖",
+    "explain": "不备”原作“没有预备”解，这里别解作“不具备”，乘字的“人”不具备。乘字的“人”被“不备”叫去后，则为“乖”",
+    "level": 10
+  },
+  {
+    "question": "中外服装",
+    "answer": "衷",
+    "explain": "“中”居谜文首位，以实形作为包纳对象；“服”会意“衣”字，是由谜底“衷”字上部、下部的字素合成得来；“外”是方位词，指“中”之外由“衣”装着。",
+    "level": 11
+  },
+  {
+    "question": "长留一片月",
+    "answer": "胀",
+    "explain": "直取面句中“长”、“月”两个核心词组成谜底“胀”字",
+    "level": 12
+  },
+  {
+    "question": "日晚却理残妆",
+    "answer": "娩",
+    "explain": "晚少了日是免，妆残后为女，却理为连接提示词，免和女组合为娩",
+    "level": 13
+  },
+  {
+    "question": "墙头马上",
+    "answer": "丑",
+    "explain": "墙的头“土”，马上为“┐”，组合为“丑”",
+    "level": 14
+  },
+  {
+    "question": "半作蝌蚪半作篆",
+    "answer": "蠡",
+    "explain": "“蝌”“蚪”“篆”三字为核心词，两个“半”字相间示意，取三字中的各一半，以扣底“蠡”字。",
+    "level": 15
+  },
+  {
+    "question": "夤夜梦多都相同",
+    "answer": "夕",
+    "explain": "“夤”“夜”“梦”“多”相同的有“夕”",
+    "level": 16
+  },
+  {
+    "question": "人在尔旁",
+    "answer": "你",
+    "explain": "“人”和 “尔” 组合为你 ",
+    "level": 17
+  },
+  {
+    "question": "子女双全",
+    "answer": "好",
+    "explain": "“子” 和 “女” 组合为好 ",
+    "level": 18
+  },
+  {
+    "question": "他答对一半",
+    "answer": "符",
+    "explain": "谜面可理解为“他答对”三字各取一半，因此是“符”字。",
+    "level": 19
+  },
+  {
+    "question": "人人有一点",
+    "answer": "伏",
+    "explain": "“亻”“人”有“一”“丶”，组合为“伏”",
+    "level": 20
+  },
+  {
+    "question": "掐头去尾拿中间",
+    "answer": "抬",
+    "explain": "掐头“扌”去尾“厶”拿中间“口”，组合为“抬”",
+    "level": 21
+  },
+  {
+    "question": "日本一逃无影踪",
+    "answer": "杳",
+    "explain": "“日本”二字合起来去掉“一”乃是“杳”字",
+    "level": 22
+  },
+  {
+    "question": "脱下衣裳换围巾",
+    "answer": "常",
+    "explain": "谜面可理解为去掉“裳”字的“衣”添上“巾”合成“常”字。",
+    "level": 23
+  },
+  {
+    "question": "无可奈何大小去",
+    "answer": "仁",
+    "explain": "“何”无“可”成了单人旁，“奈”去了“大小”是“二”，合成“仁”",
+    "level": 24
+  },
+  {
+    "question": "东坡补衣",
+    "answer": "被",
+    "explain": "“坡”的东边是“皮”，补衣就是皮字前面添个衣字旁，所以组成“被” ",
+    "level": 25
+  },
+  {
+    "question": "骑马出门闲不住",
+    "answer": "椅",
+    "explain": "“骑”字去掉马，“闲”字的“木”出来，结合组成为“椅”",
+    "level": 26
+  },
+  {
+    "question": "村头放羊",
+    "answer": "样",
+    "explain": "“村头”是“木”，“羊”为明企，合成“样”",
+    "level": 27
+  },
+  {
+    "question": "人多一点点",
+    "answer": "灭",
+    "explain": "“人”添“一”和“两个点”组成“灭”",
+    "level": 28
+  },
+  {
+    "question": "要负责到底",
+    "answer": "婴",
+    "explain": "“要负责”三字的“底”合起来是“婴”",
+    "level": 29
+  },
+  {
+    "question": "善始善终心相随",
+    "answer": "总",
+    "explain": "“善始善终”的“善”字的上部下部结合再加上“心”组成在一起就是“总”",
+    "level": 30
+  },
+  {
+    "question": "枕前芳心辗转",
+    "answer": "朴",
+    "explain": "“枕”前部首是“木”，“加上“芳”的心辗转就是“卜”组成在一起就是“朴”",
+    "level": 31
+  },
+  {
+    "question": "托腮空思意中人",
+    "answer": "胭",
+    "explain": "“托腮空思”去掉“思”为“月”，“意”中为“日”加上人就是“因”合为“胭”",
+    "level": 32
+  },
+  {
+    "question": "双双结伴去异乡",
+    "answer": "缀",
+    "explain": "双双结伴一共4个又，异乡“乡”起变化成了绞丝旁，去连接词，所以是“缀”",
+    "level": 33
+  },
+  {
+    "question": "先硬后软",
+    "answer": "硬",
+    "explain": "由“硬”字的前面和“软”字的后面组成，因此该字为“砍”字",
+    "level": 34
+  },
+  {
+    "question": "离合器",
+    "answer": "畎",
+    "explain": "“器”是“畎”的替身代形字。“离”、“合”是示意词：离指“畎”左的“田”分为四个“口”；“合”指“畎”右的“犬”合四个口成“器”",
+    "level": 35
+  },
+  {
+    "question": "平反回来住西城",
+    "answer": "墙",
+    "explain": "平反”意为将“平”字反过来，“西城”指“城”字的西部分“土”，加上“回”组成“墙”",
+    "level": 36
+  },
+  {
+    "question": "去村后割茅草",
+    "answer": "柔",
+    "explain": "去掉“村”字的后半部分，剩下“木”；割掉“茅”字的草字头，剩下“矛”",
+    "level": 37
+  },
+  {
+    "question": "转业之前留一手",
+    "answer": "挛",
+    "explain": "“业”字转个方向，“之”的前一笔是“丶”，“业”“丶”组合成“亦”，“亦”留一“手”就是“挛”",
+    "level": 38
+  },
+  {
+    "question": "冀南没有冀中无",
+    "answer": "北",
+    "explain": "“冀”去掉南边、中间，剩下北边的“北”",
+    "level": 39
+  },
+  {
+    "question": "层云隐去月当头",
+    "answer": "屑",
+    "explain": "“层”字的“云”隐去剩下“尸”，加上“月”字和“当”字的头便是“屑”。",
+    "level": 40
+  },
+  {
+    "question": "一来就当官",
+    "answer": "史",
+    "explain": "当官为“吏”，“史”字加上“一”便是“吏”",
+    "level": 41
+  },
+  {
+    "question": "写上去",
+    "answer": "与",
+    "explain": "“写”最上面去掉",
+    "level": 42
+  },
+  {
+    "question": "调整前后",
+    "answer": "证",
+    "explain": "“调”字的前面和“整”字的后面合为“证”字",
+    "level": 43
+  },
+  {
+    "question": "双双到前线",
+    "answer": "缀",
+    "explain": "“双双”乃四个“又”字，“前线”指“线”的前面，因此扣“纟”，合起来就是“缀”字",
+    "level": 44
+  },
+  {
+    "question": "加多一点点",
+    "answer": "平",
+    "explain": "“加”即“十”，多“一”“点”“点”构成“平”字。",
+    "level": 45
+  },
+  {
+    "question": "睡眠之前",
+    "answer": "目",
+    "explain": "睡眠”两字的前面都是“目”，所以就是“目”",
+    "level": 46
+  },
+  {
+    "question": "游闹市到街心",
+    "answer": "闺",
+    "explain": "闹”字去掉“市”，“街”的中心“圭”组成“闺”",
+    "level": 47
+  },
+  {
+    "question": "旭日临空",
+    "answer": "九",
+    "explain": "“旭”的“日”临空即是“九”",
+    "level": 48
+  },
+  {
+    "question": "醉后出错丢了钱",
+    "answer": "醋",
+    "explain": "“醉后”出错是“酉”，“错”丢了“钱”即“昔”合成“醋”",
+    "level": 49
+  },
+  {
+    "question": "一辆飞车带人行",
+    "answer": "丙",
+    "explain": "“辆”去掉“车”，“人”剩下“丙”",
+    "level": 50
+  },
+  {
+    "question": "白首只一心",
+    "answer": "必",
+    "explain": "白首指“白”字的头部，乃一“丿”，加在“心”上就是“必”字",
+    "level": 51
+  },
+  {
+    "question": "洪水退去人归来",
+    "answer": "供",
+    "explain": "“洪水退去”是“共”加上“人”来，就是“供”",
+    "level": 52
+  },
+  {
+    "question": "佳人走时日已落",
+    "answer": "封",
+    "explain": "“佳”人走为“圭”，“时”日已落为“寸”，合起来就是“封”字",
+    "level": 53
+  },
+  {
+    "question": "有人便是",
+    "answer": "更",
+    "explain": "该字加“人”成“便”，所以是“更”字。",
+    "level": 54
+  },
+  {
+    "question": "巴西米",
+    "answer": "粑",
+    "explain": "“巴”字西边“米”为“粑”",
+    "level": 55
+  },
+  {
+    "question": "白色勺子",
+    "answer": "的",
+    "explain": "“白” 和 “勺” 组合为的 ",
+    "level": 56
+  },
+  {
+    "question": "半放红梅",
+    "answer": "繁",
+    "explain": "此谜仍用“半”字提示，从放字上单取一半“攵”，从红字上取一半“糸”，从梅字上取一半“每”，合三字的三个部件构成“繁”字。",
+    "level": 57
+  },
+  {
+    "question": "十件家具",
+    "answer": "真",
+    "explain": "“十” 和 “具” 组合为真 ",
+    "level": 58
+  },
+  {
+    "question": "手扶下巴",
+    "answer": "把",
+    "explain": "“手”和 “巴” 组合为把 ",
+    "level": 59
+  },
+  {
+    "question": "树有心眼",
+    "answer": "想",
+    "explain": "“木”和 “目”和 “心” 组合为想 ",
+    "level": 60
+  },
+  {
+    "question": "西下美女",
+    "answer": "要",
+    "explain": "“西”和 “女” 组合为要 ",
+    "level": 61
+  },
+  {
+    "question": "言及自己",
+    "answer": "记",
+    "explain": "“言”和 “己” 组合为记 ",
+    "level": 62
+  },
+  {
+    "question": "又住一起",
+    "answer": "难",
+    "explain": "“又” 和 “住” 组合为难 ",
+    "level": 63
+  },
+  {
+    "question": "进口产品",
+    "answer": "吕",
+    "explain": "“吕”进了一个“口”成为“品”",
+    "level": 64
+  },
+  {
+    "question": "大于小于等于",
+    "answer": "互",
+    "explain": "“>”“<”“=”组合成互字",
+    "level": 65
+  },
+  {
+    "question": "三鲜面",
+    "answer": "而",
+    "explain": "“鲜”在此谜中表示“少”，“面”少了“三”还剩“而”。",
+    "level": 66
+  },
+  {
+    "question": "重新构思",
+    "answer": "怙",
+    "explain": "“思”与“怙”二字结构形体互异，但是拆开来各自成为“心（忄）、十、口”三个相同的字素。“重新构”提示“思”字，重新安排字素，结果构成“怙”字。",
+    "level": 67
+  },
+  {
+    "question": "绝色少女觅不见",
+    "answer": "绥",
+    "explain": "“绝”字少了“色”剩下“纟”，“觅”不“见”了剩下“爫”，组合剩下来的“女”就是“绥”字",
+    "level": 68
+  },
+  {
+    "question": "转眼又是岁末",
+    "answer": "罗",
+    "explain": "“眼”扣“目”，转眼为“把目转过来”，“岁”末为“夕”，合为“罗”",
+    "level": 69
+  },
+  {
+    "question": "再相逢",
+    "answer": "观",
+    "explain": "“相逢”扣“见”，“再”扣“又”。",
+    "level": 70
+  },
+  {
+    "question": "上海居民",
+    "answer": "伸",
+    "explain": "上海简称“申”，居民“人”，组成“伸”",
+    "level": 71
+  },
+  {
+    "question": "汗水换来了庄稼",
+    "answer": "秆",
+    "explain": "“庄稼”就是“禾”，“汗”字的“水”换来了“禾”",
+    "level": 72
+  },
+  {
+    "question": "讨人喜欢",
+    "answer": "竺",
+    "explain": "“竺”讨到“人”便是“笑”字，喜欢就笑吧。",
+    "level": 73
+  },
+  {
+    "question": "加减后得十分",
+    "answer": "寺",
+    "explain": "“十”、“一”，长度上十分为一“寸”组成“寺”",
+    "level": 74
+  },
+  {
+    "question": "波动舟留求剑痕",
+    "answer": "必",
+    "explain": "“必”字中间的弯钩象形“舟”，周围“三点”水波，再加一“撇”留剑痕",
+    "level": 75
+  },
+  {
+    "question": "小草",
+    "answer": "薇",
+    "explain": "“草”扣“艹”，“小”扣“微”，合起来就是“薇”字。",
+    "level": 76
+  },
+  {
+    "question": "你我都是白头翁",
+    "answer": "筹",
+    "explain": "意为“个个都高寿”。“个个寿”合为“筹”",
+    "level": 77
+  },
+  {
+    "question": "搬出东西存库房",
+    "answer": "舱",
+    "explain": "“搬”字去掉东边和西边还剩余“舟”，库房扣“仓”，合起来就是“舱”字",
+    "level": 78
+  },
+  {
+    "question": "巴金",
+    "answer": "镯",
+    "explain": "“巴”扣“蜀”，“金”扣“钅”，合起来就是“镯”字。",
+    "level": 79
+  },
+  {
+    "question": "达开入川",
+    "answer": "泵",
+    "explain": "此谜详太平军将领石达开，因韦杨内讧而西遁四川的史实。“达开”以名扣“石”姓。“川”与“水”同义相扣，由“入”示意并合，终成“泵”字。",
+    "level": 80
+  },
+  {
+    "question": "落红成阵",
+    "answer": "陈",
+    "explain": "人说：“‘五经’无阵字”，前人曾以此句猜“四书”人名“陈代”，谓“陈”借代作“阵”。“陈”作“阵”，要加圈读，题面“落红”就是加朱笔圈读的提示。“落红成‘阵’（字）”，其原字实为“陈”字。",
+    "level": 81
+  },
+  {
+    "question": "意外得生",
+    "answer": "湉",
+    "explain": "“意”扣“心（忄）”，“生”扣“活”，都是会意入扣；“外”道明谜底“湉”中“忄”以外的字素——“氵”和“舌”合而得“活”（生）。",
+    "level": 82
+  },
+  {
+    "question": "欧洲小姐",
+    "answer": "要",
+    "explain": "“欧洲”扣“西”，“小姐”是“女”，合起来就是“要”字",
+    "level": 83
+  },
+  {
+    "question": "切分音",
+    "answer": "斐",
+    "explain": "谜底“斐”的上部是“非（fēi）”，声母为“f”；下部是“文（wén）”，韵母为“én”，将这两个声母韵母切读成“汾”（fén）。谜面“切分音”是音乐术语，“切”提示“分（fēn）”字切音。它读来与“汾”字声调稍有差异，以近似扣合。",
+    "level": 84
+  },
+  {
+    "question": "缠脚布",
+    "answer": "跑",
+    "explain": "缠脚布是用来包足的，合起来就“跑”字",
+    "level": 85
+  },
+  {
+    "question": "藏龙卧虎",
+    "answer": "蜃",
+    "explain": "“龙”与“辰”、“虎”与“虫”都属通义直扣；“藏”和“卧”提示关联“蜃”字的结构。",
+    "level": 86
+  },
+  {
+    "question": "成吉思汗",
+    "answer": "玩",
+    "explain": "“成吉思汗”是古代蒙古首领，1206年建立蒙古汗国，元朝建立后，被追尊为元太祖。谜底“玩”字，拆开解作“元王”切题。",
+    "level": 87
+  },
+  {
+    "question": "兰亭集序",
+    "answer": "玫",
+    "explain": "《兰亭集序》是晋代王羲之作，此谜应扣“王文”。谜底“玫”字的两部分“王”（玉）和“攵”（《篇海类编》同攴，小篆同文）均非“王”、“文”正字",
+    "level": 88
+  },
+  {
+    "question": "夜不闭户",
+    "answer": "俞",
+    "explain": "“夜不闭户”是说社会风气好，没有人偷窃。底字“俞”，“转注”的意思是：没有“人”的“偷”字。即“没有人偷”",
+    "level": 89
+  },
+  {
+    "question": "一箭双雕",
+    "answer": "伞",
+    "explain": "根据用[象画字猜谜法],'个'象一支箭,串了两只雕",
+    "level": 90
+  },
+  {
+    "question": "知法犯法",
+    "answer": "亚",
+    "explain": "“知法犯法”是有心作恶。谜底“亚”字可“转注”此义——若加“心”便成“恶”字。",
+    "level": 91
+  },
+  {
+    "question": "三八红旗手",
+    "answer": "好",
+    "explain": "三八红旗手，意会女和子，组合为好",
+    "level": 92
+  },
+  {
+    "question": "风动灰腾梁",
+    "answer": "岩",
+    "explain": "谜面语似说风把灰尘吹飞到梁上。其实它是用“风动石”（福建泉州奇景）和“灰腾梁山”（内蒙古东部的阴山山脉）两个名称，取“风动”、“灰腾梁”两个偏词组成题面句，将正词一“石”一“山”歇后构成谜底“岩”字。",
+    "level": 93
+  },
+  {
+    "question": "禾苗破土生",
+    "answer": "乘",
+    "explain": "谜面中的“土”作为破体对象，由“破”字示意，将“土”字从其中央垂直处劈破为二，形似“北”字。“禾苗生”参意进去后，便成“乘”字。",
+    "level": 94
+  },
+  {
+    "question": "酒倾浮大白",
+    "answer": "猷",
+    "explain": "谜面句上交代“酒倾”，预示“酒”的字形应偏侧写。“浮”提示“酒”的三点浮盖在“酉”和“大”字上，从而构成“猷”字。",
+    "level": 95
+  },
+  {
+    "question": "一千零一夜",
+    "answer": "歼",
+    "explain": "阿拉伯著名民间故事集《一千零一夜》，可理解为“千一夕”，组成“歼”",
+    "level": 96
+  },
+  {
+    "question": "秋后的蚂蚱",
+    "answer": "烛",
+    "explain": "秋后”指“秋”字的后面，因此扣“火”“蚂蚱”扣“虫”合起来就是“烛”字",
+    "level": 97
+  },
+  {
+    "question": "丢出去拾回来",
+    "answer": "千",
+    "explain": "“丢”出了“去”，再加进“十”）“千”字",
+    "level": 98
+  },
+  {
+    "question": "凭君传语报平安",
+    "answer": "信",
+    "explain": "谜面撷自唐代岑参《逢入京使》诗：“马上相逢无纸笔，凭君传语报平安”。谜底“信”字，依法读成“人言信”。它表示的意思是，因乘马不曾带纸笔，就托个你替我捎个平安的口信给家里人。",
+    "level": 99
+  },
+  {
+    "question": "以战争消灭战争",
+    "answer": "武",
+    "explain": "谜底“武”字，按此法应读成“武止戈”（武是本字，止、戈从武字中化出），释作以武力制止战争。",
+    "level": 100
+  },
+  {
+    "question": "150000丈",
+    "answer": "踵",
+    "explain": "国市制，150丈等于一里。谜底“踵”拆成“足千里”三字，变换“千里”之数，正求出十五万丈的足数。",
+    "level": 101
+  },
+  {
+    "question": "翠翳幽篁别有天",
+    "answer": "笑",
+    "explain": "前四字会意扣“竹”，“天”扣“夭”是讹似。谜面用“别有”点明“夭”与“天”有别",
+    "level": 102
+  },
+  {
+    "question": "但听左右尽歌声",
+    "answer": "戬",
+    "explain": "“戬”字由左“晋”右“戈”构成。谜面用“但听”关联“尽歌”的读声，此二字与“晋戈”同音。",
+    "level": 103
+  },
+  {
+    "question": "党号召个个响应",
+    "answer": "口",
+    "explain": "“党”“号”“召”同形“口”",
+    "level": 104
+  },
+  {
+    "question": "二十载后重相会",
+    "answer": "董",
+    "explain": "谜面上的“二十”读“二”时稍顿，则可被解为“两个十”。“两个十”便是对草字头的摹形说法。于是谜面被解为：草字头与装载在后面的“重”字相会合。谜底“董”",
+    "level": 105
+  },
+  {
+    "question": "好水好山看不足",
+    "answer": "凼",
+    "explain": "“凼”若看作全整的“水”字，“山”字则不足；若看作全整的“山”字，“水”又不足。此谜是由“凼”中的“亅”重复补偿“[水-亅]”和“凵”，才成“水”、“山”二字的。",
+    "level": 106
+  },
+  {
+    "question": "女真侵宋分南北",
+    "answer": "案",
+    "explain": "“女（真）”侵入后，“宋”才分南北为理由，把“宋”补成“案”字。",
+    "level": 107
+  },
+  {
+    "question": "偏安一隅召归师",
+    "answer": "嫔",
+    "explain": "谜底“嫔”字本是由“女”和“宾”两个部件构成。此谜拟面时，强将“宾”上的宝盖头斜按在“女”上，配搭成“安”字，作为核心词。然后，提示将其“一隅”（即“宀”），沿偏斜方向，“召归”“师”（会意为“兵”）处。谜底“嫔”字由此推出。",
+    "level": 108
+  },
+  {
+    "question": "声声鼓乐起西东",
+    "answer": "胡",
+    "explain": "“鼓乐”托借“胡”字左右的“古、月”，由“声声”提示音谐，并以“西东”说明“胡”字中“古”和“月”的方位。",
+    "level": 109
+  },
+  {
+    "question": "诗圣诗仙姓名连",
+    "answer": "楮",
+    "explain": "诗圣（杜甫）的姓“杜”，由“土”与“木”组成。诗仙（李白）的名“白”。“土”“白”连笔成“者”",
+    "level": 110
+  },
+  {
+    "question": "十字栏杆隔画桥",
+    "answer": "壶",
+    "explain": "“亚”象形栏杆；“冖”象形桥。“十”字与“亚冖”组成“壶”。",
+    "level": 111
+  },
+  {
+    "question": "事职【反切格】",
+    "answer": "饭",
+    "explain": "谜面上的事（shì），切声母sh，下字“职”（zhí）取韵母í，二者合拼读shí，恰与谜底“饭”字左旁的“食”拼音相同。",
+    "level": 112
+  },
+  {
+    "question": "说尽心中无限事",
+    "answer": "皖",
+    "explain": "把无限的心事尽情说出来，自然是“白（说）完”。",
+    "level": 113
+  },
+  {
+    "question": "说与旁人浑不解",
+    "answer": "信",
+    "explain": "谜面系撷取宋人刘季孙《题屏》七绝诗的一句，原意本说梦里的闲人被梁间的燕子吵醒，纵然听他呢喃之声，也不可理解。此谜把“与”（给与）别解作“和”义，“不解”别解作“不分开”。结果核心词“说（言）”和“人（亻）”按“浑不解”的提示组成底字“信”。",
+    "level": 114
+  },
+  {
+    "question": "新月初挂远山角",
+    "answer": "么",
+    "explain": "“新月”（丿）、“远山角”（厶）、“挂”是关联词",
+    "level": 115
+  },
+  {
+    "question": "雁阵三行乱北斗",
+    "answer": "痰",
+    "explain": "“雁阵三行”（厂仌）、“北斗”（七星：七个点），“乱”是关联词",
+    "level": 116
+  },
+  {
+    "question": "一定建设好中国",
+    "answer": "帼",
+    "explain": "谜底“帼”字，由谜面“中国”二字作为形似替身，但缺一笔。为补足此一笔，加上“一定”",
+    "level": 117
+  },
+  {
+    "question": "一弯斜月映三星",
+    "answer": "心",
+    "explain": "“一弯斜月”（乚）、“三星”（三个点）、“映”是关联词",
+    "level": 118
+  },
+  {
+    "question": "樱桃玉粒值千金",
+    "answer": "喽",
+    "explain": "谜面解作供奉的果品和宝玉计千金价，或形容女子的樱桃小口排贝齐密如玉一样可贵，两解均可成立。谜中是把“樱桃”代“口”、“玉粒”代“米”、“千金”代“女”，合“口、米、女”成“喽”字。“值”作“当”义，关联全句。",
+    "level": 119
+  },
+  {
+    "question": "张生待月在西厢",
+    "answer": "胜",
+    "explain": "“张”作张望解，抱衬“生”字；“待月”的文意是等待在月下，谜意将“待”转读平声，作“逗留月字”解；“在西厢”本是约会地点，这里却作了安排“月”字在“生”字左边的方位词。",
+    "level": 120
+  },
+  {
+    "question": "三十六计选上策",
+    "answer": "趣",
+    "explain": "三十六计“走”为上策，“选”扣“取”，合起来就是“趣”字。",
+    "level": 121
+  },
+  {
+    "question": "听,其中有声音",
+    "answer": "嘶",
+    "explain": "“听”明企，“其中”指“其”位于“听”的中间，合起来就是“嘶”字。“嘶”字声音词",
+    "level": 122
+  },
+  {
+    "question": "差点发大水",
+    "answer": "汰",
+    "explain": "“水”扣“氵”，“汰”去掉一点乃可分为“大水”二字。",
+    "level": 123
+  },
+  {
+    "question": "有靠山进厂提干",
+    "answer": "岸",
+    "explain": "进“厂”提“干”再加上靠着“山”所以合成就是“岸”",
+    "level": 124
+  },
+  {
+    "question": "客心思归",
+    "answer": "惫",
+    "explain": "“客”的心就是“夂”，与“思”合成就是“惫”",
+    "level": 125
+  },
+  {
+    "question": "开口就错",
+    "answer": "冈",
+    "explain": "开口”就是“口”字开了一个小口即“冂”字，“错”扣“×”字，合为“冈”",
+    "level": 126
+  },
+  {
+    "question": "星临万户动",
+    "answer": "房",
+    "explain": "从形意上释字，以“丶”象形“星”，到了“万户”二字的中间（二字上下位置移动），才成“房”字",
+    "level": 127
+  },
+  {
+    "question": "月傍九霄多",
+    "answer": "肤",
+    "explain": "从形意上释字，“九霄”会意“天”，“多”指“天”上多出一些而成“夫”，加“月”相傍，便是“肤”",
+    "level": 128
+  },
+  {
+    "question": "更加便利",
+    "answer": "俐",
+    "explain": "如将“俐”作“便利”看，尚缺“更”字。故谜面上申明“更（字）加（入）”，才是“便利”。",
+    "level": 129
+  },
+  {
+    "question": "台湾始终归一体",
+    "answer": "弘",
+    "explain": "此谜以“台湾”二字作核心词立在题面作为取形对象。方位词“始”与“终”，一指“台”的上部字素“厶”，一指“湾”的末部字素“弓”。由“归一体”提示“厶”与“弓”组合成“弘”字。",
+    "level": 130
+  },
+  {
+    "question": "顿号使用法",
+    "answer": "读",
+    "explain": "据国家公布的《标点符号用法》，顿号表示句子内部并列词语之间的停顿。旧时叫“句读”的“读”，即念文章过程中语意未尽处的停顿。按谜法，把谜底“读”字读成“读（dòu）读（dú）”二种音，并以音组合成词，正好切合题义。",
+    "level": 131
+  },
+  {
+    "question": "星球大战",
+    "answer": "斗",
+    "explain": "谜底读成“斗（dǒu）斗（dòu）”，前“斗”字作星斗解，后“斗”字作战斗解。两音组合成“星与星相争斗”，切题。",
+    "level": 132
+  },
+  {
+    "question": "十勺",
+    "answer": "合",
+    "level": 133
+  },
+  {
+    "question": "荀鸣鹤",
+    "answer": "是",
+    "level": 134
+  },
+  {
+    "question": "半个月",
+    "answer": "胖",
+    "level": 135
+  },
+  {
+    "question": "本蚀光",
+    "answer": "空",
+    "level": 136
+  },
+  {
+    "question": "东施效颦",
+    "answer": "娇",
+    "level": 137
+  },
+  {
+    "question": "胸怀祖国",
+    "answer": "忠",
+    "level": 138
+  },
+  {
+    "question": "处方有误",
+    "answer": "咎",
+    "level": 139
+  },
+  {
+    "question": "人心眼正",
+    "answer": "想",
+    "level": 140
+  },
+  {
+    "question": "日升月明",
+    "answer": "宗",
+    "level": 141
+  },
+  {
+    "question": "体之休休",
+    "answer": "柳",
+    "level": 142
+  },
+  {
+    "question": "用心生活",
+    "answer": "怎",
+    "level": 143
+  },
+  {
+    "question": "长安乱叶",
+    "answer": "鼓",
+    "level": 144
+  },
+  {
+    "question": "火中锤炼",
+    "answer": "烛",
+    "level": 145
+  },
+  {
+    "question": "一吐为快",
+    "answer": "说",
+    "level": 146
+  },
+  {
+    "question": "从五行分析",
+    "answer": "杭",
+    "level": 147
+  },
+  {
+    "question": "月落方始归",
+    "answer": "周",
+    "level": 148
+  },
+  {
+    "question": "别来春又春",
+    "answer": "棼",
+    "level": 149
+  },
+  {
+    "question": "猜前胡乱凑",
+    "answer": "智",
+    "level": 150
+  },
+  {
+    "question": "采之一何早",
+    "answer": "机",
+    "level": 151
+  },
+  {
+    "question": "草船借东风",
+    "answer": "鹅",
+    "level": 152
+  },
+  {
+    "question": "潮头来始歇",
+    "answer": "匆",
+    "level": 153
+  },
+  {
+    "question": "初晴开柳色",
+    "answer": "青",
+    "level": 154
+  },
+  {
+    "question": "待人以大义",
+    "answer": "夙",
+    "level": 155
+  },
+  {
+    "question": "但楼前明月",
+    "answer": "士",
+    "level": 156
+  },
+  {
+    "question": "点下离合器",
+    "answer": "替",
+    "level": 157
+  },
+  {
+    "question": "点下离合器",
+    "answer": "返",
+    "level": 158
+  },
+  {
+    "question": "方知天下空",
+    "answer": "寝",
+    "level": 159
+  },
+  {
+    "question": "飞机维修员",
+    "answer": "卜",
+    "level": 160
+  },
+  {
+    "question": "海水明月出",
+    "answer": "宏",
+    "level": 161
+  },
+  {
+    "question": "荷叶桥边雨",
+    "answer": "奉",
+    "level": 162
+  },
+  {
+    "question": "花错玉搔头",
+    "answer": "彘",
+    "level": 163
+  },
+  {
+    "question": "剪刀石头布",
+    "answer": "桥",
+    "level": 164
+  },
+  {
+    "question": "今后用功点",
+    "answer": "脑",
+    "level": 165
+  },
+  {
+    "question": "君在天尽头",
+    "answer": "全",
+    "level": 166
+  },
+  {
+    "question": "开弓射千里",
+    "answer": "楼",
+    "level": 167
+  },
+  {
+    "question": "来室内一谈",
+    "answer": "豆",
+    "level": 168
+  },
+  {
+    "question": "泪洒汨罗江",
+    "answer": "慌",
+    "level": 169
+  },
+  {
+    "question": "连宵停火烛",
+    "answer": "蟆",
+    "level": 170
+  },
+  {
+    "question": "明日重阳节",
+    "answer": "精",
+    "level": 171
+  },
+  {
+    "question": "明月出东海",
+    "answer": "薤",
+    "level": 172
+  },
+  {
+    "question": "鸟巢正初建",
+    "answer": "女",
+    "level": 173
+  },
+  {
+    "question": "青春须早为",
+    "answer": "豁",
+    "level": 174
+  },
+  {
+    "question": "晴雪融春水",
+    "answer": "扫",
+    "level": 175
+  },
+  {
+    "question": "秋叶正离离",
+    "answer": "鸣",
+    "level": 176
+  },
+  {
+    "question": "人间三春尽",
+    "answer": "了",
+    "level": 177
+  },
+  {
+    "question": "三度明月落",
+    "answer": "换",
+    "level": 178
+  },
+  {
+    "question": "山分积草岭",
+    "answer": "涓",
+    "level": 179
+  },
+  {
+    "question": "十号先录取",
+    "answer": "冥",
+    "level": 180
+  },
+  {
+    "question": "拾得折剑头",
+    "answer": "桎",
+    "level": 181
+  },
+  {
+    "question": "天高皇帝远",
+    "answer": "揪",
+    "level": 182
+  },
+  {
+    "question": "渭水空藏月",
+    "answer": "子",
+    "level": 183
+  },
+  {
+    "question": "吻戏开始了",
+    "answer": "亟",
+    "level": 184
+  },
+  {
+    "question": "吾将揽明月",
+    "answer": "翁",
+    "level": 185
+  },
+  {
+    "question": "五一会升迁",
+    "answer": "淞",
+    "level": 186
+  },
+  {
+    "question": "雾中看乱松",
+    "answer": "梭",
+    "level": 187
+  },
+  {
+    "question": "先挺当头卒",
+    "answer": "小",
+    "level": 188
+  },
+  {
+    "question": "小隐湖中花",
+    "answer": "混",
+    "level": 189
+  },
+  {
+    "question": "杨柳可藏乌",
+    "answer": "棵",
+    "level": 190
+  },
+  {
+    "question": "一心无二用",
+    "answer": "曾",
+    "level": 191
+  },
+  {
+    "question": "又是重阳到",
+    "answer": "酵",
+    "level": 192
+  },
+  {
+    "question": "中考又临近",
+    "answer": "容",
+    "level": 193
+  },
+  {
+    "question": "重寻春昼梦",
+    "answer": "哎",
+    "level": 194
+  },
+  {
+    "question": "成心放水么",
+    "answer": "沟",
+    "level": 195
+  },
+  {
+    "question": "春风吹又生",
+    "answer": "殺",
+    "level": 196
+  },
+  {
+    "question": "此时方独往",
+    "answer": "寸",
+    "level": 197
+  },
+  {
+    "question": "此宵秋欲半",
+    "answer": "炨",
+    "level": 198
+  },
+  {
+    "question": "定音后试音",
+    "answer": "是",
+    "level": 199
+  },
+  {
+    "question": "独步人何在",
+    "answer": "倚",
+    "level": 200
+  },
+  {
+    "question": "分明愁杀人",
+    "answer": "悉",
+    "level": 201
+  },
+  {
+    "question": "猴年富起来",
+    "answer": "审",
+    "level": 202
+  },
+  {
+    "question": "花愁人不知",
+    "answer": "悉",
+    "level": 203
+  },
+  {
+    "question": "回首白云间",
+    "answer": "着",
+    "level": 204
+  },
+  {
+    "question": "吉星高高挂",
+    "answer": "喜",
+    "level": 205
+  },
+  {
+    "question": "离乱人相失",
+    "answer": "电",
+    "level": 206
+  },
+  {
+    "question": "孟起没走吗",
+    "answer": "刀",
+    "level": 207
+  },
+  {
+    "question": "明月落前溪",
+    "answer": "汨",
+    "level": 208
+  },
+  {
+    "question": "莫负当初人",
+    "answer": "芡",
+    "level": 209
+  },
+  {
+    "question": "判前自翻供",
+    "answer": "眷",
+    "level": 210
+  },
+  {
+    "question": "前后赤壁赋",
+    "answer": "坝",
+    "level": 211
+  },
+  {
+    "question": "天晓落潮初",
+    "answer": "朝",
+    "level": 212
+  },
+  {
+    "question": "一与游人别",
+    "answer": "夸",
+    "level": 213
+  },
+  {
+    "question": "咫尺不得语",
+    "answer": "识",
+    "level": 214
+  },
+  {
+    "question": "三笔字画交易",
+    "answer": "山",
+    "level": 215
+  },
+  {
+    "question": "有点事要处理",
+    "answer": "腋",
+    "level": 216
+  },
+  {
+    "question": "盘古开天辟地",
+    "answer": "珘",
+    "level": 217
+  },
+  {
+    "question": "半老佳人可共",
+    "answer": "伦",
+    "level": 218
+  },
+  {
+    "question": "比一比多一半",
+    "answer": "毙",
+    "level": 219
+  },
+  {
+    "question": "沉静无争自清",
+    "answer": "冗",
+    "level": 220
+  },
+  {
+    "question": "从中央到地方",
+    "answer": "哇",
+    "level": 221
+  },
+  {
+    "question": "邓先生谈改革",
+    "answer": "燮",
+    "level": 222
+  },
+  {
+    "question": "个个坚守到底",
+    "answer": "艺",
+    "level": 223
+  },
+  {
+    "question": "苟以天下之大",
+    "answer": "荀",
+    "level": 224
+  },
+  {
+    "question": "三菱形四等分",
+    "answer": "嫩",
+    "level": 225
+  },
+  {
+    "question": "声誉高而不下",
+    "answer": "祠",
+    "level": 226
+  },
+  {
+    "question": "斯大林有对错",
+    "answer": "樊",
+    "level": 227
+  },
+  {
+    "question": "晚节一定要保",
+    "answer": "撑",
+    "level": 228
+  },
+  {
+    "question": "为人可要本分",
+    "answer": "套",
+    "level": 229
+  },
+  {
+    "question": "先前分分合合",
+    "answer": "实",
+    "level": 230
+  },
+  {
+    "question": "小东西正用力",
+    "answer": "协",
+    "level": 231
+  },
+  {
+    "question": "小约清明前后",
+    "answer": "消",
+    "level": 232
+  },
+  {
+    "question": "有先贫而后富",
+    "answer": "胃",
+    "level": 233
+  },
+  {
+    "question": "有中风需早治",
+    "answer": "奠",
+    "level": 234
+  },
+  {
+    "question": "于扇上图山水",
+    "answer": "喻",
+    "level": 235
+  },
+  {
+    "question": "月上小窗如水",
+    "answer": "雄",
+    "level": 236
+  },
+  {
+    "question": "真是别具一格",
+    "answer": "淡",
+    "level": 237
+  },
+  {
+    "question": "枝头飞燕斜书",
+    "answer": "烦",
+    "level": 238
+  },
+  {
+    "question": "常以真心待人",
+    "answer": "信",
+    "level": 239
+  },
+  {
+    "question": "存折下月到期",
+    "answer": "甚",
+    "level": 240
+  },
+  {
+    "question": "敌来围则败走",
+    "answer": "刮",
+    "level": 241
+  },
+  {
+    "question": "来人二郎是也",
+    "answer": "夫",
+    "level": 242
+  },
+  {
+    "question": "漫天乌云涌动",
+    "answer": "痛",
+    "level": 243
+  },
+  {
+    "question": "贪心才会失财",
+    "answer": "念",
+    "level": 244
+  },
+  {
+    "question": "同行有点贪心",
+    "answer": "祠",
+    "level": 245
+  },
+  {
+    "question": "一连四个角球",
+    "answer": "兹",
+    "level": 246
+  },
+  {
+    "question": "这小子没文化",
+    "answer": "逊",
+    "level": 247
+  },
+  {
+    "question": "三十方知愁滋味",
+    "answer": "苦",
+    "level": 248
+  },
+  {
+    "question": "后半部续前半部",
+    "answer": "陪",
+    "level": 249
+  },
+  {
+    "question": "干净做人图平安",
+    "answer": "火",
+    "level": 250
+  },
+  {
+    "question": "三藏旧书庙前展",
+    "answer": "唐",
+    "level": 251
+  },
+  {
+    "question": "能够对得起良心",
+    "answer": "熊",
+    "level": 252
+  },
+  {
+    "question": "无功心伤快发狂",
+    "answer": "猴",
+    "level": 253
+  },
+  {
+    "question": "最终取胜靠胆略",
+    "answer": "牛",
+    "level": 254
+  },
+  {
+    "question": "终宵夜明听音乐",
+    "answer": "月",
+    "level": 255
+  },
+  {
+    "question": "相约三时来柳巷",
+    "answer": "粪",
+    "level": 256
+  },
+  {
+    "question": "一传十，十传百",
+    "answer": "硅",
+    "level": 257
+  },
+  {
+    "question": "今先陪人去占卜",
+    "answer": "祁",
+    "level": 258
+  },
+  {
+    "question": "此地空馀黄鹤楼",
+    "answer": "禽",
+    "level": 259
+  },
+  {
+    "question": "此恨绵绵无绝期",
+    "answer": "怅",
+    "level": 260
+  },
+  {
+    "question": "说与旁人浑不解",
+    "answer": "悟",
+    "level": 261
+  },
+  {
+    "question": "安排女方到此游",
+    "answer": "志",
+    "level": 262
+  },
+  {
+    "question": "白首但求有寸进",
+    "answer": "杜",
+    "level": 263
+  },
+  {
+    "question": "摆脱落后靠齐心",
+    "answer": "全",
+    "level": 264
+  },
+  {
+    "question": "班上用心出点子",
+    "answer": "瑟",
+    "level": 265
+  },
+  {
+    "question": "半帘钩月画中藏",
+    "answer": "窀",
+    "level": 266
+  },
+  {
+    "question": "半锁楼台半复开",
+    "answer": "芰",
+    "level": 267
+  },
+  {
+    "question": "北方飞燕到庭前",
+    "answer": "庶",
+    "level": 268
+  },
+  {
+    "question": "北京移植香花槐",
+    "answer": "浪",
+    "level": 269
+  },
+  {
+    "question": "备酒杀鸡迎客来",
+    "answer": "消",
+    "level": 270
+  },
+  {
+    "question": "碧天无际水空流",
+    "answer": "苓",
+    "level": 271
+  },
+  {
+    "question": "变化实在多了点",
+    "answer": "突",
+    "level": 272
+  },
+  {
+    "question": "便向人间觅是非",
+    "answer": "洮",
+    "level": 273
+  },
+  {
+    "question": "别夫二载白了头",
+    "answer": "同",
+    "level": 274
+  },
+  {
+    "question": "并非一定有看头",
+    "answer": "默",
+    "level": 275
+  },
+  {
+    "question": "拨云见星映川边",
+    "answer": "百",
+    "level": 276
+  },
+  {
+    "question": "不低头，不后退",
+    "answer": "仁",
+    "level": 277
+  },
+  {
+    "question": "不堪其扰要搬迁",
+    "answer": "沆",
+    "level": 278
+  },
+  {
+    "question": "不思上进焉奋发",
+    "answer": "拜",
+    "level": 279
+  },
+  {
+    "question": "不许人到断桥头",
+    "answer": "婶",
+    "level": 280
+  },
+  {
+    "question": "不要愣头充大方",
+    "answer": "涓",
+    "level": 281
+  },
+  {
+    "question": "残花瓣瓣泪一行",
+    "answer": "心",
+    "level": 282
+  },
+  {
+    "question": "草木枯荣七十载",
+    "answer": "一",
+    "level": 283
+  },
+  {
+    "question": "层云飘荡半江霞",
+    "answer": "鸺",
+    "level": 284
+  },
+  {
+    "question": "查出木马人宽心",
+    "answer": "皇",
+    "level": 285
+  },
+  {
+    "question": "厂改呼应来声援",
+    "answer": "月",
+    "level": 286
+  },
+  {
+    "question": "厂破格局求创新",
+    "answer": "晦",
+    "level": 287
+  },
+  {
+    "question": "车七退一守边炮",
+    "answer": "灶",
+    "level": 288
+  },
+  {
+    "question": "车允萤火当烛光",
+    "answer": "迁",
+    "level": 289
+  },
+  {
+    "question": "城郭前后树飘香",
+    "answer": "捡",
+    "level": 290
+  },
+  {
+    "question": "乘舟来杭赏春光",
+    "answer": "和",
+    "level": 291
+  },
+  {
+    "question": "池塘小小水漫漫",
+    "answer": "林",
+    "level": 292
+  },
+  {
+    "question": "出山进香奏古乐",
+    "answer": "幽",
+    "level": 293
+  },
+  {
+    "question": "初成画菊腕底香",
+    "answer": "腊",
+    "level": 294
+  },
+  {
+    "question": "初会一一口无声",
+    "answer": "尘",
+    "level": 295
+  },
+  {
+    "question": "初向晴梢舒玉点",
+    "answer": "晦",
+    "level": 296
+  },
+  {
+    "question": "初向晴梢舒玉点",
+    "answer": "檑",
+    "level": 297
+  },
+  {
+    "question": "穿上工装留个影",
+    "answer": "田",
+    "level": 298
+  },
+  {
+    "question": "穿上西服去江西",
+    "answer": "硫",
+    "level": 299
+  },
+  {
+    "question": "传令扑火要小心",
+    "answer": "渴",
+    "level": 300
+  },
+  {
+    "question": "闯荡千里展高志",
+    "answer": "闷",
+    "level": 301
+  },
+  {
+    "question": "吹笛不由动相思",
+    "answer": "艚",
+    "level": 302
+  },
+  {
+    "question": "春晚迎春春不晚",
+    "answer": "广",
+    "level": 303
+  },
+  {
+    "question": "春夜柳梢新月至",
+    "answer": "臻",
+    "level": 304
+  },
+  {
+    "question": "此生终到尽头日",
+    "answer": "乎",
+    "level": 305
+  },
+  {
+    "question": "此言说姊乃诋毁",
+    "answer": "恩",
+    "level": 306
+  },
+  {
+    "question": "此中甘苦惟心知",
+    "answer": "赤",
+    "level": 307
+  },
+  {
+    "question": "从我做起先植树",
+    "answer": "辞",
+    "level": 308
+  },
+  {
+    "question": "村落老树参天开",
+    "answer": "走",
+    "level": 309
+  },
+  {
+    "question": "村头又见方先生",
+    "answer": "夙",
+    "level": 310
+  },
+  {
+    "question": "打听敷衍不可行",
+    "answer": "地",
+    "level": 311
+  },
+  {
+    "question": "大连一直就是美",
+    "answer": "兰",
+    "level": 312
+  },
+  {
+    "question": "大巧不工一笔画",
+    "answer": "夸",
+    "level": 313
+  },
+  {
+    "question": "大小搭配有亮点",
+    "answer": "待",
+    "level": 314
+  },
+  {
+    "question": "带头先富见成果",
+    "answer": "醒",
+    "level": 315
+  },
+  {
+    "question": "当初诚信至此终",
+    "answer": "讹",
+    "level": 316
+  },
+  {
+    "question": "得伴郎边心中美",
+    "answer": "瑯",
+    "level": 317
+  },
+  {
+    "question": "登上天空加油站",
+    "answer": "演",
+    "level": 318
+  },
+  {
+    "question": "点点翠柳半掩映",
+    "answer": "除",
+    "level": 319
+  },
+  {
+    "question": "点点雨来伞撑开",
+    "answer": "伞",
+    "level": 320
+  },
+  {
+    "question": "点染寒秋眉月清",
+    "answer": "关",
+    "level": 321
+  },
+  {
+    "question": "东风紧送斜阳下",
+    "answer": "啊",
+    "level": 322
+  },
+  {
+    "question": "东南峰上看日出",
+    "answer": "潮",
+    "level": 323
+  },
+  {
+    "question": "东南西北人团结",
+    "answer": "聘",
+    "level": 324
+  },
+  {
+    "question": "冬后春来边区新",
+    "answer": "桎",
+    "level": 325
+  },
+  {
+    "question": "都可动员来戒赌",
+    "answer": "砺",
+    "level": 326
+  },
+  {
+    "question": "独依小窗把衣宽",
+    "answer": "康",
+    "level": 327
+  },
+  {
+    "question": "杜绝张嘴搞台独",
+    "answer": "玺",
+    "level": 328
+  },
+  {
+    "question": "多生一口成负担",
+    "answer": "夯",
+    "level": 329
+  },
+  {
+    "question": "躲到路旁为隐身",
+    "answer": "门",
+    "level": 330
+  },
+  {
+    "question": "而今而后真无计",
+    "answer": "诠",
+    "level": 331
+  },
+  {
+    "question": "二老当心天变化",
+    "answer": "命",
+    "level": 332
+  },
+  {
+    "question": "二人横穿大马路",
+    "answer": "觉",
+    "level": 333
+  },
+  {
+    "question": "发挥皆都挺出色",
+    "answer": "樊",
+    "level": 334
+  },
+  {
+    "question": "返航路上遇沉船",
+    "answer": "鼓",
+    "level": 335
+  },
+  {
+    "question": "泛舟南北两湖头",
+    "answer": "谜",
+    "level": 336
+  },
+  {
+    "question": "放手一拼只求变",
+    "answer": "呼",
+    "level": 337
+  },
+  {
+    "question": "飞蛾终为火烛亡",
+    "answer": "栓",
+    "level": 338
+  },
+  {
+    "question": "飞花点点拂新草",
+    "answer": "瑜",
+    "level": 339
+  },
+  {
+    "question": "飞入镜中难觅痕",
+    "answer": "良",
+    "level": 340
+  },
+  {
+    "question": "飞相之后先得子",
+    "answer": "季",
+    "level": 341
+  },
+  {
+    "question": "非是是非谓之愚",
+    "answer": "诖",
+    "level": 342
+  },
+  {
+    "question": "菲首亲日全变态",
+    "answer": "墓",
+    "level": 343
+  },
+  {
+    "question": "风吹竹影掩残阳",
+    "answer": "慕",
+    "level": 344
+  },
+  {
+    "question": "风起云乱且留住",
+    "answer": "予",
+    "level": 345
+  },
+  {
+    "question": "峰前雁阵横看小",
+    "answer": "岭",
+    "level": 346
+  },
+  {
+    "question": "冯唐终老难召用",
+    "answer": "瘫",
+    "level": 347
+  },
+  {
+    "question": "凤花开处杜鹃啼",
+    "answer": "灯",
+    "level": 348
+  },
+  {
+    "question": "夫人出走游四方",
+    "answer": "元",
+    "level": 349
+  },
+  {
+    "question": "斧头去砸日系车",
+    "answer": "暂",
+    "level": 350
+  },
+  {
+    "question": "负重上山人掉队",
+    "answer": "援",
+    "level": 351
+  },
+  {
+    "question": "富裕点了享清福",
+    "answer": "亭",
+    "level": 352
+  },
+  {
+    "question": "改变过来就对了",
+    "answer": "黎",
+    "level": 353
+  },
+  {
+    "question": "改来西安过春节",
+    "answer": "削",
+    "level": 354
+  },
+  {
+    "question": "改天一定表心意",
+    "answer": "深",
+    "level": 355
+  },
+  {
+    "question": "改由假声夺第一",
+    "answer": "筜",
+    "level": 356
+  },
+  {
+    "question": "甘献谋略世代传",
+    "answer": "岭",
+    "level": 357
+  },
+  {
+    "question": "甘心愿作马前卒",
+    "answer": "喆",
+    "level": 358
+  },
+  {
+    "question": "感冒之后看先生",
+    "answer": "嗑",
+    "level": 359
+  },
+  {
+    "question": "干白飘香独诱人",
+    "answer": "佩",
+    "level": 360
+  },
+  {
+    "question": "干戈一息别淮西",
+    "answer": "驸",
+    "level": 361
+  },
+  {
+    "question": "刚做生意出一错",
+    "answer": "垂",
+    "level": 362
+  },
+  {
+    "question": "高考日近复习紧",
+    "answer": "奉",
+    "level": 363
+  },
+  {
+    "question": "高考之日转眼到",
+    "answer": "等",
+    "level": 364
+  },
+  {
+    "question": "高空皓色泻无影",
+    "answer": "篓",
+    "level": 365
+  },
+  {
+    "question": "搞怪儿子装高兴",
+    "answer": "喷",
+    "level": 366
+  },
+  {
+    "question": "个个共同等号召",
+    "answer": "箕",
+    "level": 367
+  },
+  {
+    "question": "宫中美人白头生",
+    "answer": "画",
+    "level": 368
+  },
+  {
+    "question": "共同迁移入西川",
+    "answer": "铜",
+    "level": 369
+  },
+  {
+    "question": "孤窗星影人相对",
+    "answer": "稷",
+    "level": 370
+  },
+  {
+    "question": "古庵老树又抽枝",
+    "answer": "厨",
+    "level": 371
+  },
+  {
+    "question": "古来教人要行孝",
+    "answer": "哙",
+    "level": 372
+  },
+  {
+    "question": "光阴一逝随落日",
+    "answer": "罴",
+    "level": 373
+  },
+  {
+    "question": "含羞独卧方解衣",
+    "answer": "酒",
+    "level": 374
+  },
+  {
+    "question": "行窃组织要彻除",
+    "answer": "攀",
+    "level": 375
+  },
+  {
+    "question": "好个西安天下无",
+    "answer": "酿",
+    "level": 376
+  },
+  {
+    "question": "好似破石草初长",
+    "answer": "若",
+    "level": 377
+  },
+  {
+    "question": "合约争执又出事",
+    "answer": "丢",
+    "level": 378
+  },
+  {
+    "question": "和风拂云天上飘",
+    "answer": "奉",
+    "level": 379
+  },
+  {
+    "question": "后方转移入山中",
+    "answer": "圐",
+    "level": 380
+  },
+  {
+    "question": "互比一下方得知",
+    "answer": "荤",
+    "level": 381
+  },
+  {
+    "question": "花旦走穴乱名声",
+    "answer": "朋",
+    "level": 382
+  },
+  {
+    "question": "花前邀约要表白",
+    "answer": "药",
+    "level": 383
+  },
+  {
+    "question": "花前有酒终当醉",
+    "answer": "萃",
+    "level": 384
+  },
+  {
+    "question": "花前月下盟前约",
+    "answer": "奖",
+    "level": 385
+  },
+  {
+    "question": "花未放来春已阑",
+    "answer": "问",
+    "level": 386
+  },
+  {
+    "question": "话说华北冰雪融",
+    "answer": "佯",
+    "level": 387
+  },
+  {
+    "question": "环环不空有一比",
+    "answer": "琵",
+    "level": 388
+  },
+  {
+    "question": "辉同日月名声响",
+    "answer": "友",
+    "level": 389
+  },
+  {
+    "question": "婚前先孕做父母",
+    "answer": "钟",
+    "level": 390
+  },
+  {
+    "question": "集全火花须珍藏",
+    "answer": "旺",
+    "level": 391
+  },
+  {
+    "question": "几处枫影横雁飞",
+    "answer": "党",
+    "level": 392
+  },
+  {
+    "question": "几下藏身躲不及",
+    "answer": "纤",
+    "level": 393
+  },
+  {
+    "question": "计划买书独吟诵",
+    "answer": "忽",
+    "level": 394
+  },
+  {
+    "question": "计取西川求一统",
+    "answer": "许",
+    "level": 395
+  },
+  {
+    "question": "寄人篱下受尽苦",
+    "answer": "噙",
+    "level": 396
+  },
+  {
+    "question": "寄语未来细推敲",
+    "answer": "详",
+    "level": 397
+  },
+  {
+    "question": "奸官除后国泰平",
+    "answer": "安",
+    "level": 398
+  },
+  {
+    "question": "江边谷底捕寒蟾",
+    "answer": "佖",
+    "level": 399
+  },
+  {
+    "question": "将水直送云南省",
+    "answer": "椒",
+    "level": 400
+  },
+  {
+    "question": "叫关之前日当头",
+    "answer": "粹",
+    "level": 401
+  },
+  {
+    "question": "接到命令上前线",
+    "answer": "敏",
+    "level": 402
+  },
+  {
+    "question": "节后改革现拐点",
+    "answer": "神",
+    "level": 403
+  },
+  {
+    "question": "节后上午就前往",
+    "answer": "嫉",
+    "level": 404
+  },
+  {
+    "question": "拮据生活极约束",
+    "answer": "承",
+    "level": 405
+  },
+  {
+    "question": "结果一定小于五",
+    "answer": "劲",
+    "level": 406
+  },
+  {
+    "question": "今后一定要小心",
+    "answer": "规",
+    "level": 407
+  },
+  {
+    "question": "今后用水要三思",
+    "answer": "樊",
+    "level": 408
+  },
+  {
+    "question": "今年开市好兆头",
+    "answer": "京",
+    "level": 409
+  },
+  {
+    "question": "今人不需解旧卜",
+    "answer": "雄",
+    "level": 410
+  },
+  {
+    "question": "尽力劝夫要守规",
+    "answer": "观",
+    "level": 411
+  },
+  {
+    "question": "尽心必定中榜首",
+    "answer": "泓",
+    "level": 412
+  },
+  {
+    "question": "尽心未必中榜首",
+    "answer": "仑",
+    "level": 413
+  },
+  {
+    "question": "靖节先生名节高",
+    "answer": "菩",
+    "level": 414
+  },
+  {
+    "question": "酒后城头别旧游",
+    "answer": "醋",
+    "level": 415
+  },
+  {
+    "question": "酒后行车还不少",
+    "answer": "会",
+    "level": 416
+  },
+  {
+    "question": "酒后美人全失态",
+    "answer": "氪",
+    "level": 417
+  },
+  {
+    "question": "旧车容易遭舍弃",
+    "answer": "豁",
+    "level": 418
+  },
+  {
+    "question": "旧日已逝未来远",
+    "answer": "读",
+    "level": 419
+  },
+  {
+    "question": "君来收网少差错",
+    "answer": "恩",
+    "level": 420
+  },
+  {
+    "question": "开口为了顾全局",
+    "answer": "句",
+    "level": 421
+  },
+  {
+    "question": "开始下沉就报警",
+    "answer": "井",
+    "level": 422
+  },
+  {
+    "question": "开心网上开心点",
+    "answer": "凹",
+    "level": 423
+  },
+  {
+    "question": "开支不小积蓄少",
+    "answer": "酱",
+    "level": 424
+  },
+  {
+    "question": "空中月影倚云端",
+    "answer": "册",
+    "level": 425
+  },
+  {
+    "question": "苦心随月到胡天",
+    "answer": "吴",
+    "level": 426
+  },
+  {
+    "question": "苦中同心续前缘",
+    "answer": "结",
+    "level": 427
+  },
+  {
+    "question": "来听歌后吐心声",
+    "answer": "浙",
+    "level": 428
+  },
+  {
+    "question": "兰开谷中雁阵斜",
+    "answer": "畴",
+    "level": 429
+  },
+  {
+    "question": "浪头游人勇当先",
+    "answer": "冷",
+    "level": 430
+  },
+  {
+    "question": "老两口真心无二",
+    "answer": "与",
+    "level": 431
+  },
+  {
+    "question": "老两口终生相伴",
+    "answer": "谍",
+    "level": 432
+  },
+  {
+    "question": "老人更要受关爱",
+    "answer": "做",
+    "level": 433
+  },
+  {
+    "question": "老师走后已十载",
+    "answer": "御",
+    "level": 434
+  },
+  {
+    "question": "老头子年前中风",
+    "answer": "书",
+    "level": 435
+  },
+  {
+    "question": "冷雨吹散花飘零",
+    "answer": "伴",
+    "level": 436
+  },
+  {
+    "question": "离家一载起回心",
+    "answer": "豪",
+    "level": 437
+  },
+  {
+    "question": "离间计出引误解",
+    "answer": "必",
+    "level": 438
+  },
+  {
+    "question": "离京归来务农活",
+    "answer": "尖",
+    "level": 439
+  },
+  {
+    "question": "离开公主心牵挂",
+    "answer": "拜",
+    "level": 440
+  },
+  {
+    "question": "离坐之前酒得干",
+    "answer": "充",
+    "level": 441
+  },
+  {
+    "question": "力图剖析出新意",
+    "answer": "瑞",
+    "level": 442
+  },
+  {
+    "question": "连干六杯不行了",
+    "answer": "丫",
+    "level": 443
+  },
+  {
+    "question": "帘里佳人送秋波",
+    "answer": "睦",
+    "level": 444
+  },
+  {
+    "question": "两地支出需审核",
+    "answer": "焊",
+    "level": 445
+  },
+  {
+    "question": "两人一起参如来",
+    "answer": "娲",
+    "level": 446
+  },
+  {
+    "question": "两心相异多成憾",
+    "answer": "呼",
+    "level": 447
+  },
+  {
+    "question": "亮下江东点上策",
+    "answer": "曾",
+    "level": 448
+  },
+  {
+    "question": "林间桃杏正初开",
+    "answer": "子",
+    "level": 449
+  },
+  {
+    "question": "临别叮咛子牢记",
+    "answer": "噩",
+    "level": 450
+  },
+  {
+    "question": "临别一刻心激动",
+    "answer": "治",
+    "level": 451
+  },
+  {
+    "question": "临刑挂念糟糠妻",
+    "answer": "荆",
+    "level": 452
+  },
+  {
+    "question": "流水清音月空明",
+    "answer": "摹",
+    "level": 453
+  },
+  {
+    "question": "龙游山上春意浓",
+    "answer": "委",
+    "level": 454
+  },
+  {
+    "question": "落日炊烟邑上飘",
+    "answer": "色",
+    "level": 455
+  },
+  {
+    "question": "率真心直易上当",
+    "answer": "佐",
+    "level": 456
+  },
+  {
+    "question": "马革相裹终折罪",
+    "answer": "羁",
+    "level": 457
+  },
+  {
+    "question": "马上开始搞医改",
+    "answer": "矩",
+    "level": 458
+  },
+  {
+    "question": "马蹄踏碎残月影",
+    "answer": "弱",
+    "level": 459
+  },
+  {
+    "question": "满月幼儿还无力",
+    "answer": "胤",
+    "level": 460
+  },
+  {
+    "question": "没人会介入是非",
+    "answer": "艾",
+    "level": 461
+  },
+  {
+    "question": "眉月高挂青山远",
+    "answer": "私",
+    "level": 462
+  },
+  {
+    "question": "梅枝半放杏花开",
+    "answer": "炸",
+    "level": 463
+  },
+  {
+    "question": "每见海上出明月",
+    "answer": "汨",
+    "level": 464
+  },
+  {
+    "question": "每每提起心中事",
+    "answer": "竹",
+    "level": 465
+  },
+  {
+    "question": "美金兑换差多少",
+    "answer": "件",
+    "level": 466
+  },
+  {
+    "question": "孟德放歌谁心知",
+    "answer": "但",
+    "level": 467
+  },
+  {
+    "question": "梦魂半销赴高唐",
+    "answer": "魔",
+    "level": 468
+  },
+  {
+    "question": "迷失方向人乱来",
+    "answer": "得",
+    "level": 469
+  },
+  {
+    "question": "面请三回方出山",
+    "answer": "的",
+    "level": 470
+  },
+  {
+    "question": "灭烛有心怜光满",
+    "answer": "蛉",
+    "level": 471
+  },
+  {
+    "question": "名次靠后还自夸",
+    "answer": "艳",
+    "level": 472
+  },
+  {
+    "question": "名高不朽终安用",
+    "answer": "号",
+    "level": 473
+  },
+  {
+    "question": "明星后悔又吸毒",
+    "answer": "嘴",
+    "level": 474
+  },
+  {
+    "question": "明早高考要早睡",
+    "answer": "妤",
+    "level": 475
+  },
+  {
+    "question": "命中注定缘花仙",
+    "answer": "薯",
+    "level": 476
+  },
+  {
+    "question": "模拟演习得七分",
+    "answer": "枣",
+    "level": 477
+  },
+  {
+    "question": "暮秋离别夜色沉",
+    "answer": "香",
+    "level": 478
+  },
+  {
+    "question": "男友一走心乏力",
+    "answer": "惫",
+    "level": 479
+  },
+  {
+    "question": "南下转移再就业",
+    "answer": "群",
+    "level": 480
+  },
+  {
+    "question": "内人不在直心喜",
+    "answer": "琨",
+    "level": 481
+  },
+  {
+    "question": "嫩江江流二月花",
+    "answer": "哪",
+    "level": 482
+  },
+  {
+    "question": "嫩芽初上落叶松",
+    "answer": "菇",
+    "level": 483
+  },
+  {
+    "question": "能得初吻愈开心",
+    "answer": "僧",
+    "level": 484
+  },
+  {
+    "question": "逆水行舟朝前走",
+    "answer": "陛",
+    "level": 485
+  },
+  {
+    "question": "年届三十讲仁义",
+    "answer": "端",
+    "level": 486
+  },
+  {
+    "question": "廿载护汉飞将军",
+    "answer": "渡",
+    "level": 487
+  },
+  {
+    "question": "念儿两度去云南",
+    "answer": "薛",
+    "level": 488
+  },
+  {
+    "question": "陪子高考醒得早",
+    "answer": "冥",
+    "level": 489
+  },
+  {
+    "question": "朋友有约去川西",
+    "answer": "饮",
+    "level": 490
+  },
+  {
+    "question": "偏巧遇到久别人",
+    "answer": "径",
+    "level": 491
+  },
+  {
+    "question": "平流纵橹快舟游",
+    "answer": "寻",
+    "level": 492
+  },
+  {
+    "question": "平易近人不孤单",
+    "answer": "伴",
+    "level": 493
+  },
+  {
+    "question": "平易近人愿作陪",
+    "answer": "拴",
+    "level": 494
+  },
+  {
+    "question": "破衣备齐演济公",
+    "answer": "强",
+    "level": 495
+  },
+  {
+    "question": "妻子誓言早致富",
+    "answer": "念",
+    "level": 496
+  },
+  {
+    "question": "棋子先落壮声势",
+    "answer": "侈",
+    "level": 497
+  },
+  {
+    "question": "千帆错落微风中",
+    "answer": "佩",
+    "level": 498
+  },
+  {
+    "question": "千帆舞动星空下",
+    "answer": "淆",
+    "level": 499
+  },
+  {
+    "question": "千里寻根人团圆",
+    "answer": "扬",
+    "level": 500
+  },
+  {
+    "question": "千言不抵一践行",
+    "answer": "信",
+    "level": 501
+  },
+  {
+    "question": "迁移石堆铺轨道",
+    "answer": "网",
+    "level": 502
+  },
+  {
+    "question": "牵牛遨游星河畔",
+    "answer": "志",
+    "level": 503
+  },
+  {
+    "question": "前丁后蔡相笼加",
+    "answer": "昼",
+    "level": 504
+  },
+  {
+    "question": "前功尽弃无作为",
+    "answer": "办",
+    "level": 505
+  },
+  {
+    "question": "前路渺茫心失落",
+    "answer": "忘",
+    "level": 506
+  },
+  {
+    "question": "前天一直打五折",
+    "answer": "半",
+    "level": 507
+  },
+  {
+    "question": "前往榆关人未归",
+    "answer": "大",
+    "level": 508
+  },
+  {
+    "question": "翘首以待无人走",
+    "answer": "迫",
+    "level": 509
+  },
+  {
+    "question": "亲朋一到献哈达",
+    "answer": "棚",
+    "level": 510
+  },
+  {
+    "question": "亲属相约闯天涯",
+    "answer": "闩",
+    "level": 511
+  },
+  {
+    "question": "琴声妙韵人娇美",
+    "answer": "旦",
+    "level": 512
+  },
+  {
+    "question": "琴声箫韵落桥头",
+    "answer": "畔",
+    "level": 513
+  },
+  {
+    "question": "琴声幽韵释心愁",
+    "answer": "秋",
+    "level": 514
+  },
+  {
+    "question": "青春拼却有胆略",
+    "answer": "国",
+    "level": 515
+  },
+  {
+    "question": "青山埋名岁月逝",
+    "answer": "里",
+    "level": 516
+  },
+  {
+    "question": "倾巢而出未攻破",
+    "answer": "瑙",
+    "level": 517
+  },
+  {
+    "question": "清白守道人称颂",
+    "answer": "送",
+    "level": 518
+  },
+  {
+    "question": "清风斜阳西堤柳",
+    "answer": "垛",
+    "level": 519
+  },
+  {
+    "question": "清明节前又裁衣",
+    "answer": "制",
+    "level": 520
+  },
+  {
+    "question": "清正一生人拥戴",
+    "answer": "艾",
+    "level": 521
+  },
+  {
+    "question": "晴空一色山迢远",
+    "answer": "缶",
+    "level": 522
+  },
+  {
+    "question": "秋水相连两相思",
+    "answer": "瞒",
+    "level": 523
+  },
+  {
+    "question": "秋雨绵绵盼骄阳",
+    "answer": "来",
+    "level": 524
+  },
+  {
+    "question": "求得一支上上签",
+    "answer": "喻",
+    "level": 525
+  },
+  {
+    "question": "球门依旧风中立",
+    "answer": "洒",
+    "level": 526
+  },
+  {
+    "question": "曲阜古渡杏花香",
+    "answer": "千",
+    "level": 527
+  },
+  {
+    "question": "曲终收拨当心画",
+    "answer": "亩",
+    "level": 528
+  },
+  {
+    "question": "去广西开一酒店",
+    "answer": "沾",
+    "level": 529
+  },
+  {
+    "question": "权在手上品要高",
+    "answer": "格",
+    "level": 530
+  },
+  {
+    "question": "染毒之后人变样",
+    "answer": "必",
+    "level": 531
+  },
+  {
+    "question": "人离舍后知天凉",
+    "answer": "凛",
+    "level": 532
+  },
+  {
+    "question": "人去玉树欢迎你",
+    "answer": "我",
+    "level": 533
+  },
+  {
+    "question": "人生结交在终始",
+    "answer": "春",
+    "level": 534
+  },
+  {
+    "question": "人缘广结应本分",
+    "answer": "检",
+    "level": 535
+  },
+  {
+    "question": "人在做，天看着",
+    "answer": "敌",
+    "level": 536
+  },
+  {
+    "question": "人正下到最基层",
+    "answer": "趣",
+    "level": 537
+  },
+  {
+    "question": "任其折腾坏不了",
+    "answer": "堪",
+    "level": 538
+  },
+  {
+    "question": "日本横行成现实",
+    "answer": "果",
+    "level": 539
+  },
+  {
+    "question": "日将落时来一人",
+    "answer": "算",
+    "level": 540
+  },
+  {
+    "question": "日落江头换酒归",
+    "answer": "兀",
+    "level": 541
+  },
+  {
+    "question": "日落时分归渔早",
+    "answer": "鲟",
+    "level": 542
+  },
+  {
+    "question": "日移风起意欲还",
+    "answer": "归",
+    "level": 543
+  },
+  {
+    "question": "日映千里长川前",
+    "answer": "卑",
+    "level": 544
+  },
+  {
+    "question": "如将生母当保姆",
+    "answer": "休",
+    "level": 545
+  },
+  {
+    "question": "乳沟半露显轻佻",
+    "answer": "浮",
+    "level": 546
+  },
+  {
+    "question": "入冬更要生火炕",
+    "answer": "疫",
+    "level": 547
+  },
+  {
+    "question": "入夏辞友泣泪别",
+    "answer": "产",
+    "level": 548
+  },
+  {
+    "question": "若得承诺人倾心",
+    "answer": "亲",
+    "level": 549
+  },
+  {
+    "question": "若占上春先秀发",
+    "answer": "秦",
+    "level": 550
+  },
+  {
+    "question": "三八节前听马啸",
+    "answer": "陆",
+    "level": 551
+  },
+  {
+    "question": "三个先贤拜孟子",
+    "answer": "篮",
+    "level": 552
+  },
+  {
+    "question": "三口饮酒赏菊花",
+    "answer": "品",
+    "level": 553
+  },
+  {
+    "question": "森林失火必疏散",
+    "answer": "鸿",
+    "level": 554
+  },
+  {
+    "question": "山人隐居茅庐中",
+    "answer": "毒",
+    "level": 555
+  },
+  {
+    "question": "山雨欲来风满楼",
+    "answer": "跎",
+    "level": 556
+  },
+  {
+    "question": "山中日落晚霞飞",
+    "answer": "娜",
+    "level": 557
+  },
+  {
+    "question": "山中盛会喜空前",
+    "answer": "株",
+    "level": 558
+  },
+  {
+    "question": "山中松叶堪为酒",
+    "answer": "曲",
+    "level": 559
+  },
+  {
+    "question": "商人捐助搞开发",
+    "answer": "脊",
+    "level": 560
+  },
+  {
+    "question": "赏析西游连环画",
+    "answer": "疟",
+    "level": 561
+  },
+  {
+    "question": "上层中层加下层",
+    "answer": "渝",
+    "level": 562
+  },
+  {
+    "question": "上古奇文共与析",
+    "answer": "菱",
+    "level": 563
+  },
+  {
+    "question": "上漆之后勿乱动",
+    "answer": "脑",
+    "level": 564
+  },
+  {
+    "question": "尚书一手提起来",
+    "answer": "牛",
+    "level": 565
+  },
+  {
+    "question": "舌头感觉淡无味",
+    "answer": "兀",
+    "level": 566
+  },
+  {
+    "question": "生手莫要效仿！",
+    "answer": "级",
+    "level": 567
+  },
+  {
+    "question": "失去十年好时光",
+    "answer": "玉",
+    "level": 568
+  },
+  {
+    "question": "诗吟一首独归帆",
+    "answer": "狮",
+    "level": 569
+  },
+  {
+    "question": "十载归来方始坼",
+    "answer": "坤",
+    "level": 570
+  },
+  {
+    "question": "十载云游来春归",
+    "answer": "市",
+    "level": 571
+  },
+  {
+    "question": "始终如一爱一人",
+    "answer": "彭",
+    "level": 572
+  },
+  {
+    "question": "始终严肃显清高",
+    "answer": "槑",
+    "level": 573
+  },
+  {
+    "question": "仕途畅通心宽放",
+    "answer": "竿",
+    "level": 574
+  },
+  {
+    "question": "是日无灾始心安",
+    "answer": "定",
+    "level": 575
+  },
+  {
+    "question": "誓言迁居入京中",
+    "answer": "宋",
+    "level": 576
+  },
+  {
+    "question": "收容前后必管教",
+    "answer": "叫",
+    "level": 577
+  },
+  {
+    "question": "手起刀落必切开",
+    "answer": "欣",
+    "level": 578
+  },
+  {
+    "question": "手头没钱作针线",
+    "answer": "云",
+    "level": 579
+  },
+  {
+    "question": "首先一定要进仓",
+    "answer": "鸢",
+    "level": 580
+  },
+  {
+    "question": "书寄此间总不达",
+    "answer": "还",
+    "level": 581
+  },
+  {
+    "question": "双方一定会开心",
+    "answer": "星",
+    "level": 582
+  },
+  {
+    "question": "说服二人早投靠",
+    "answer": "吏",
+    "level": 583
+  },
+  {
+    "question": "四齿钉耙裙钗扛",
+    "answer": "耍",
+    "level": 584
+  },
+  {
+    "question": "四方送水至云南",
+    "answer": "簌",
+    "level": 585
+  },
+  {
+    "question": "四望浮云蔽远山",
+    "answer": "酉",
+    "level": 586
+  },
+  {
+    "question": "送君千里终须别",
+    "answer": "玛",
+    "level": 587
+  },
+  {
+    "question": "太极张三丰传人",
+    "answer": "跋",
+    "level": 588
+  },
+  {
+    "question": "堂中正坐听鼓声",
+    "answer": "蓑",
+    "level": 589
+  },
+  {
+    "question": "桃花一谢不复发",
+    "answer": "告",
+    "level": 590
+  },
+  {
+    "question": "忒不留心又丢鸡",
+    "answer": "点",
+    "level": 591
+  },
+  {
+    "question": "提交前略为修改",
+    "answer": "咨",
+    "level": 592
+  },
+  {
+    "question": "天罡地煞法无边",
+    "answer": "坛",
+    "level": 593
+  },
+  {
+    "question": "天高云低寒风起",
+    "answer": "吴",
+    "level": 594
+  },
+  {
+    "question": "天塌下来用头顶",
+    "answer": "于",
+    "level": 595
+  },
+  {
+    "question": "天下大势如鼎足",
+    "answer": "漏",
+    "level": 596
+  },
+  {
+    "question": "天下人心齐向党",
+    "answer": "哽",
+    "explain": "谜底“斐”的上部是“非（fēi）”，声母为“f”；下部是“文（wén）”，韵母为“én”，将这两个声母韵母切读成“汾”（fén）。谜面“切分音”是音乐术语，“切”提示“分（fēn）”字切音。它读来与“汾”字声调稍有差异，以近似扣合。",
+    "level": 597
+  },
+  {
+    "question": "天下乌鸦一般黑",
+    "answer": "春",
+    "explain": "把无限的心事尽情说出来，自然是“白（说）完”。",
+    "level": 598
+  },
+  {
+    "question": "天涯怪客西游记",
+    "answer": "甲",
+    "level": 599
+  },
+  {
+    "question": "田间烟暖雨初收",
+    "answer": "遵",
+    "level": 600
+  },
+  {
+    "question": "贴心问候显周到",
+    "answer": "缰",
+    "level": 601
+  },
+  {
+    "question": "脱下西装入空门",
+    "answer": "跳",
+    "level": 602
+  },
+  {
+    "question": "外网下载三点装",
+    "answer": "室",
+    "level": 603
+  },
+  {
+    "question": "外销土产白萝卜",
+    "answer": "用",
+    "level": 604
+  },
+  {
+    "question": "挽弓边疆射贼首",
+    "answer": "坝",
+    "level": 605
+  },
+  {
+    "question": "晚上六点将反击",
+    "answer": "累",
+    "level": 606
+  },
+  {
+    "question": "万古未得一相逢",
+    "answer": "睹",
+    "level": 607
+  },
+  {
+    "question": "望夫石上点点泪",
+    "answer": "硖",
+    "level": 608
+  },
+  {
+    "question": "为了学分反复改",
+    "answer": "复",
+    "level": 609
+  },
+  {
+    "question": "为人坦荡放宽心",
+    "answer": "釜",
+    "level": 610
+  },
+  {
+    "question": "为人一生信为先",
+    "answer": "夭",
+    "level": 611
+  },
+  {
+    "question": "为四化，树正气",
+    "answer": "五",
+    "level": 612
+  },
+  {
+    "question": "为政清正心无悔",
+    "answer": "敏",
+    "level": 613
+  },
+  {
+    "question": "未来名扬不是梦",
+    "answer": "二",
+    "level": 614
+  },
+  {
+    "question": "闻风声终作佳对",
+    "answer": "肾",
+    "level": 615
+  },
+  {
+    "question": "无一幸免同中计",
+    "answer": "器",
+    "level": 616
+  },
+  {
+    "question": "五行山中孤雁飞",
+    "answer": "辞",
+    "level": 617
+  },
+  {
+    "question": "五一巧遇山谷中",
+    "answer": "争",
+    "level": 618
+  },
+  {
+    "question": "雾中起风天转明",
+    "answer": "季",
+    "level": 619
+  },
+  {
+    "question": "西北边陲吹晓角",
+    "answer": "逍",
+    "level": 620
+  },
+  {
+    "question": "西湖雨住层云散",
+    "answer": "少",
+    "level": 621
+  },
+  {
+    "question": "西泠桥边旭日升",
+    "answer": "染",
+    "level": 622
+  },
+  {
+    "question": "西楼望月两回圆",
+    "answer": "棚",
+    "level": 623
+  },
+  {
+    "question": "西南抗旱人合心",
+    "answer": "滞",
+    "level": 624
+  },
+  {
+    "question": "西至新乡见老乡",
+    "answer": "化",
+    "level": 625
+  },
+  {
+    "question": "吸毒戒后容颜新",
+    "answer": "烟",
+    "level": 626
+  },
+  {
+    "question": "喜看枝绽杏花飘",
+    "answer": "会",
+    "level": 627
+  },
+  {
+    "question": "下官月初返西南",
+    "answer": "业",
+    "level": 628
+  },
+  {
+    "question": "下令整改了我意",
+    "answer": "潸",
+    "level": 629
+  },
+  {
+    "question": "下令转移莫停顿",
+    "answer": "一",
+    "level": 630
+  },
+  {
+    "question": "下棋基本靠变术",
+    "answer": "煞",
+    "level": 631
+  },
+  {
+    "question": "下一节课，算术",
+    "answer": "禧",
+    "level": 632
+  },
+  {
+    "question": "仙人游山赏兰花",
+    "answer": "槐",
+    "level": 633
+  },
+  {
+    "question": "仙山遁迹隐一生",
+    "answer": "荡",
+    "level": 634
+  },
+  {
+    "question": "先将转移后休整",
+    "answer": "森",
+    "level": 635
+  },
+  {
+    "question": "先品尝点人头马",
+    "answer": "挺",
+    "level": 636
+  },
+  {
+    "question": "先人后己名节高",
+    "answer": "兄",
+    "level": 637
+  },
+  {
+    "question": "先生远方办画展",
+    "answer": "弋",
+    "level": 638
+  },
+  {
+    "question": "先梳妆，后外出",
+    "answer": "桨",
+    "level": 639
+  },
+  {
+    "question": "先天不足须后补",
+    "answer": "凿",
+    "level": 640
+  },
+  {
+    "question": "闲聊之中出新闻",
+    "answer": "吗",
+    "level": 641
+  },
+  {
+    "question": "相思十载方结合",
+    "answer": "喜",
+    "level": 642
+  },
+  {
+    "question": "相思一点凭雁寄",
+    "answer": "鹰",
+    "level": 643
+  },
+  {
+    "question": "香闺寂寂门半掩",
+    "answer": "桂",
+    "level": 644
+  },
+  {
+    "question": "想念良人把乡回",
+    "answer": "明",
+    "level": 645
+  },
+  {
+    "question": "消除祸端摘穷根",
+    "answer": "窝",
+    "level": 646
+  },
+  {
+    "question": "小二出差刚回来",
+    "answer": "喘",
+    "level": 647
+  },
+  {
+    "question": "小桥流水微风中",
+    "answer": "沉",
+    "level": 648
+  },
+  {
+    "question": "小雪晴现鸿泥痕",
+    "answer": "费",
+    "level": 649
+  },
+  {
+    "question": "携娃东游度六一",
+    "answer": "栽",
+    "level": 650
+  },
+  {
+    "question": "心口一致人爱戴",
+    "answer": "品",
+    "level": 651
+  },
+  {
+    "question": "心牵玉树祈上苍",
+    "answer": "奋",
+    "level": 652
+  },
+  {
+    "question": "心若在，爱就在",
+    "answer": "粹",
+    "level": 653
+  },
+  {
+    "question": "心喜天下逢端午",
+    "answer": "术",
+    "level": 654
+  },
+  {
+    "question": "新月孤星浮云伴",
+    "answer": "鸟",
+    "level": 655
+  },
+  {
+    "question": "形若游鸭啼声孤",
+    "answer": "字",
+    "level": 656
+  },
+  {
+    "question": "幸获一赦再谢君",
+    "answer": "鹊",
+    "level": 657
+  },
+  {
+    "question": "巡查组一走了之",
+    "answer": "特",
+    "level": 658
+  },
+  {
+    "question": "咽然一曲心谁知",
+    "answer": "喉",
+    "level": 659
+  },
+  {
+    "question": "眼前维权已不难",
+    "answer": "缃",
+    "level": 660
+  },
+  {
+    "question": "眼前又见乱摊派",
+    "answer": "攫",
+    "level": 661
+  },
+  {
+    "question": "雁阵高低北斗稀",
+    "answer": "月",
+    "level": 662
+  },
+  {
+    "question": "雁阵逐月春水遥",
+    "answer": "膝",
+    "level": 663
+  },
+  {
+    "question": "夭桃开后始归来",
+    "answer": "颜",
+    "level": 664
+  },
+  {
+    "question": "谣言杀头又变卦",
+    "answer": "香",
+    "level": 665
+  },
+  {
+    "question": "要晚婚不要早育",
+    "answer": "垂",
+    "level": 666
+  },
+  {
+    "question": "夜半新月空山眠",
+    "answer": "兢",
+    "level": 667
+  },
+  {
+    "question": "夜望上空自伤心",
+    "answer": "文",
+    "level": 668
+  },
+  {
+    "question": "一到春来早北归",
+    "answer": "衰",
+    "level": 669
+  },
+  {
+    "question": "一到生日有客来",
+    "answer": "汞",
+    "level": 670
+  },
+  {
+    "question": "一道杠是小队长",
+    "answer": "庙",
+    "level": 671
+  },
+  {
+    "question": "一点差错动杀机",
+    "answer": "梵",
+    "level": 672
+  },
+  {
+    "question": "一点离城到首尔",
+    "answer": "币",
+    "level": 673
+  },
+  {
+    "question": "一定要以正视听",
+    "answer": "奥",
+    "level": 674
+  },
+  {
+    "question": "一肚酒量没酒胆",
+    "answer": "理",
+    "level": 675
+  },
+  {
+    "question": "一江春水向东流",
+    "answer": "酬",
+    "level": 676
+  },
+  {
+    "question": "一江淸水出高桥",
+    "answer": "封",
+    "level": 677
+  },
+  {
+    "question": "一进山中是非起",
+    "answer": "稿",
+    "level": 678
+  },
+  {
+    "question": "一曲示儿泪纷纷",
+    "answer": "酒",
+    "level": 679
+  },
+  {
+    "question": "一日仆人去个旧",
+    "answer": "梅",
+    "level": 680
+  },
+  {
+    "question": "一入水，小心游",
+    "answer": "话",
+    "level": 681
+  },
+  {
+    "question": "一上台雄心更大",
+    "answer": "箜",
+    "level": 682
+  },
+  {
+    "question": "一生苦心付东流",
+    "answer": "仕",
+    "level": 683
+  },
+  {
+    "question": "一生买卖少改变",
+    "answer": "诱",
+    "level": 684
+  },
+  {
+    "question": "一生仗义朋友多",
+    "answer": "雯",
+    "level": 685
+  },
+  {
+    "question": "一手遮天蒙过关",
+    "answer": "憩",
+    "level": 686
+  },
+  {
+    "question": "一心助人心无图",
+    "answer": "缫",
+    "level": 687
+  },
+  {
+    "question": "一夜风情空铸错",
+    "answer": "巽",
+    "level": 688
+  },
+  {
+    "question": "一夜金钱全输光",
+    "answer": "残",
+    "level": 689
+  },
+  {
+    "question": "一一心哀悼舟曲",
+    "answer": "啊",
+    "level": 690
+  },
+  {
+    "question": "一有变迁当述说",
+    "answer": "惊",
+    "level": 691
+  },
+  {
+    "question": "一有机会就捞点",
+    "answer": "僵",
+    "level": 692
+  },
+  {
+    "question": "一再相见放宽心",
+    "answer": "觏",
+    "level": 693
+  },
+  {
+    "question": "一丈开外先哆嗦",
+    "answer": "哽",
+    "level": 694
+  },
+  {
+    "question": "一知半解别开口",
+    "answer": "医",
+    "level": 695
+  },
+  {
+    "question": "一直跟党心连心",
+    "answer": "走",
+    "level": 696
+  },
+  {
+    "question": "一直虚心求上进",
+    "answer": "此",
+    "level": 697
+  },
+  {
+    "question": "一直在关心别人",
+    "answer": "恙",
+    "level": 698
+  },
+  {
+    "question": "依稀断桥江水流",
+    "answer": "滚",
+    "level": 699
+  },
+  {
+    "question": "依稀古梅半开放",
+    "answer": "褒",
+    "level": 700
+  },
+  {
+    "question": "以后一定会更美",
+    "answer": "嚣",
+    "level": 701
+  },
+  {
+    "question": "因为贪心而下台",
+    "answer": "嗯",
+    "level": 702
+  },
+  {
+    "question": "音调低落含意深",
+    "answer": "福",
+    "level": 703
+  },
+  {
+    "question": "用此配方有起色",
+    "answer": "航",
+    "level": 704
+  },
+  {
+    "question": "用心一定会出色",
+    "answer": "署",
+    "level": 705
+  },
+  {
+    "question": "用一切小心造句",
+    "answer": "翥",
+    "level": 706
+  },
+  {
+    "question": "悠悠往事如云散",
+    "answer": "窖",
+    "level": 707
+  },
+  {
+    "question": "游子方离母追随",
+    "answer": "窒",
+    "level": 708
+  },
+  {
+    "question": "有错下岗另安排",
+    "answer": "醉",
+    "level": 709
+  },
+  {
+    "question": "有点含羞半遮颜",
+    "answer": "羚",
+    "level": 710
+  },
+  {
+    "question": "有一点吸引对方",
+    "answer": "涟",
+    "level": 711
+  },
+  {
+    "question": "又到日本做节目",
+    "answer": "靖",
+    "level": 712
+  },
+  {
+    "question": "又到重阳登高节",
+    "answer": "庚",
+    "level": 713
+  },
+  {
+    "question": "玉人难卜夫独宿",
+    "answer": "一",
+    "level": 714
+  },
+  {
+    "question": "遇难之中心一致",
+    "answer": "嫩",
+    "level": 715
+  },
+  {
+    "question": "缘分面前宜结合",
+    "answer": "古",
+    "level": 716
+  },
+  {
+    "question": "约你出门来解闷",
+    "answer": "花",
+    "level": 717
+  },
+  {
+    "question": "月缺一江水迷离",
+    "answer": "新",
+    "level": 718
+  },
+  {
+    "question": "云聚云散见新月",
+    "answer": "魂",
+    "level": 719
+  },
+  {
+    "question": "云隐仙山觅无踪",
+    "answer": "素",
+    "level": 720
+  },
+  {
+    "question": "杂音半隐似琴声",
+    "answer": "企",
+    "level": 721
+  },
+  {
+    "question": "灾后起程施援手",
+    "answer": "服",
+    "level": 722
+  },
+  {
+    "question": "灾后重建热情高",
+    "answer": "炎",
+    "level": 723
+  },
+  {
+    "question": "早上一定要早起",
+    "answer": "性",
+    "level": 724
+  },
+  {
+    "question": "造林种草矿貌新",
+    "answer": "炒",
+    "level": 725
+  },
+  {
+    "question": "辗转东行南北客",
+    "answer": "穗",
+    "level": 726
+  },
+  {
+    "question": "占山为王血换来",
+    "answer": "乔",
+    "level": 727
+  },
+  {
+    "question": "战后十载解困境",
+    "answer": "撂",
+    "level": 728
+  },
+  {
+    "question": "张松又欲献西川",
+    "answer": "梭",
+    "level": 729
+  },
+  {
+    "question": "召二连驱车入阵",
+    "answer": "愁",
+    "level": 730
+  },
+  {
+    "question": "珍藏后始终有益",
+    "answer": "盖",
+    "level": 731
+  },
+  {
+    "question": "真爱至上有几人",
+    "answer": "凭",
+    "level": 732
+  },
+  {
+    "question": "震向高天声刺耳",
+    "answer": "明",
+    "level": 733
+  },
+  {
+    "question": "争先恐后人前冲",
+    "answer": "恣",
+    "level": 734
+  },
+  {
+    "question": "整顿市容法先行",
+    "answer": "渍",
+    "level": 735
+  },
+  {
+    "question": "正要迁出官帽丢",
+    "answer": "台",
+    "level": 736
+  },
+  {
+    "question": "正在给人录口供",
+    "answer": "棣",
+    "level": 737
+  },
+  {
+    "question": "正直大方守本分",
+    "answer": "模",
+    "level": 738
+  },
+  {
+    "question": "直到白头两倾心",
+    "answer": "仳",
+    "level": 739
+  },
+  {
+    "question": "志士就义留高节",
+    "answer": "思",
+    "level": 740
+  },
+  {
+    "question": "中国应变驻西沙",
+    "answer": "海",
+    "level": 741
+  },
+  {
+    "question": "中山先生赴东洋",
+    "answer": "爻",
+    "level": 742
+  },
+  {
+    "question": "中西合作是时机",
+    "answer": "融",
+    "level": 743
+  },
+  {
+    "question": "中宵劳心谋四化",
+    "answer": "妃",
+    "level": 744
+  },
+  {
+    "question": "中学生运动会上",
+    "answer": "牵",
+    "level": 745
+  },
+  {
+    "question": "终生孤独研医道",
+    "answer": "寡",
+    "level": 746
+  },
+  {
+    "question": "重阳节后菊花开",
+    "answer": "接",
+    "level": 747
+  },
+  {
+    "question": "周日四点来大连",
+    "answer": "飨",
+    "level": 748
+  },
+  {
+    "question": "竹韵清音绕边城",
+    "answer": "筠",
+    "level": 749
+  },
+  {
+    "question": "竹韵清音堂下传",
+    "answer": "筠",
+    "level": 750
+  },
+  {
+    "question": "主体改装正合意",
+    "answer": "腹",
+    "level": 751
+  },
+  {
+    "question": "转干关头两口乐",
+    "answer": "喜",
+    "level": 752
+  },
+  {
+    "question": "转运千里天下游",
+    "answer": "理",
+    "level": 753
+  },
+  {
+    "question": "妆后更似杏半放",
+    "answer": "适",
+    "level": 754
+  },
+  {
+    "question": "自己找先生联系",
+    "answer": "亭",
+    "level": 755
+  },
+  {
+    "question": "走红之后人变了",
+    "answer": "伺",
+    "level": 756
+  },
+  {
+    "question": "奏个古曲行旧礼",
+    "answer": "雨",
+    "level": 757
+  },
+  {
+    "question": "足智多谋是吴用",
+    "answer": "酽",
+    "level": 758
+  },
+  {
+    "question": "昨晚窗前梅半开",
+    "answer": "榨",
+    "level": 759
+  },
+  {
+    "question": "作弊翻新欲隐身",
+    "answer": "泄",
+    "level": 760
+  },
+  {
+    "question": "先生五一到何处",
+    "answer": "莲",
+    "level": 761
+  },
+  {
+    "question": "主动方便予巾帼",
+    "answer": "职",
+    "level": 762
+  },
+  {
+    "question": "暗恋终生不后悔",
+    "answer": "憶",
+    "level": 763
+  },
+  {
+    "question": "半入邻家半入园",
+    "answer": "院",
+    "level": 764
+  },
+  {
+    "question": "背后挑拨忒离谱",
+    "answer": "感",
+    "level": 765
+  },
+  {
+    "question": "避开深水走木桥",
+    "answer": "八",
+    "level": 766
+  },
+  {
+    "question": "表示一定会帮人",
+    "answer": "奈",
+    "level": 767
+  },
+  {
+    "question": "冰川流水映晚照",
+    "answer": "洲",
+    "level": 768
+  },
+  {
+    "question": "并非真心来改正",
+    "answer": "耻",
+    "level": 769
+  },
+  {
+    "question": "不忘初心同甘苦",
+    "answer": "計",
+    "level": 770
+  },
+  {
+    "question": "不问人间前尘事",
+    "answer": "尖",
+    "level": 771
+  },
+  {
+    "question": "不要一直在上网",
+    "answer": "歪",
+    "level": 772
+  },
+  {
+    "question": "财色面前要约束",
+    "answer": "赖",
+    "level": 773
+  },
+  {
+    "question": "参与调解五六天",
+    "answer": "驻",
+    "level": 774
+  },
+  {
+    "question": "草长莺飞小雀闹",
+    "answer": "鹤",
+    "level": 775
+  },
+  {
+    "question": "侧卧横眠腮半遮",
+    "answer": "腘",
+    "level": 776
+  },
+  {
+    "question": "策划刺杀报前仇",
+    "answer": "筏",
+    "level": 777
+  },
+  {
+    "question": "层云散除新月现",
+    "answer": "庐",
+    "level": 778
+  },
+  {
+    "question": "插卡之后取一千",
+    "answer": "仆",
+    "level": 779
+  },
+  {
+    "question": "差点被人放鸽子",
+    "answer": "鹑",
+    "level": 780
+  },
+  {
+    "question": "车内有人叼着烟",
+    "answer": "辆",
+    "level": 781
+  },
+  {
+    "question": "成人之美总开心",
+    "answer": "善",
+    "level": 782
+  },
+  {
+    "question": "吃鱿鱼放点芥末",
+    "answer": "尬",
+    "level": 783
+  },
+  {
+    "question": "出色解厄化危情",
+    "answer": "外",
+    "level": 784
+  },
+  {
+    "question": "出色维稳保一方",
+    "answer": "信",
+    "level": 785
+  },
+  {
+    "question": "初冬上了山里住",
+    "answer": "皮",
+    "level": 786
+  },
+  {
+    "question": "初夏看到丰收景",
+    "answer": "拜",
+    "level": 787
+  },
+  {
+    "question": "川中高官被双开",
+    "answer": "市",
+    "level": 788
+  },
+  {
+    "question": "传得西林一派清",
+    "answer": "棵",
+    "level": 789
+  },
+  {
+    "question": "垂杨错落花飘荡",
+    "answer": "格",
+    "level": 790
+  },
+  {
+    "question": "春来梅放皆称美",
+    "answer": "每",
+    "level": 791
+  },
+  {
+    "question": "村间尽现兰花放",
+    "answer": "樽",
+    "level": 792
+  },
+  {
+    "question": "村口鸡鸣无数声",
+    "answer": "树",
+    "level": 793
+  },
+  {
+    "question": "存心宰客被公开",
+    "answer": "竣",
+    "level": 794
+  },
+  {
+    "question": "搭台唱戏走四方",
+    "answer": "云",
+    "level": 795
+  },
+  {
+    "question": "大敌当前铸丹心",
+    "answer": "舔",
+    "level": 796
+  },
+  {
+    "question": "大家前往河北省",
+    "answer": "寄",
+    "level": 797
+  },
+  {
+    "question": "大力改革获丰产",
+    "answer": "契",
+    "level": 798
+  },
+  {
+    "question": "到了上面火势变",
+    "answer": "令",
+    "level": 799
+  },
+  {
+    "question": "到时借读就迁居",
+    "answer": "届",
+    "level": 800
+  },
+  {
+    "question": "道边花草更迷人",
+    "answer": "鞭",
+    "level": 801
+  },
+  {
+    "question": "德最终进球夺冠",
+    "answer": "态",
+    "level": 802
+  },
+  {
+    "question": "灯前枕畔添新愁",
+    "answer": "必",
+    "level": 803
+  },
+  {
+    "question": "等君归时花正开",
+    "answer": "笋",
+    "level": 804
+  },
+  {
+    "question": "地老天荒尽可花",
+    "answer": "何",
+    "level": 805
+  },
+  {
+    "question": "地上有根白头发",
+    "answer": "胆",
+    "level": 806
+  },
+  {
+    "question": "点酒不沾难又难",
+    "answer": "醮",
+    "level": 807
+  },
+  {
+    "question": "顶尖高手甚低调",
+    "answer": "乐",
+    "level": 808
+  },
+  {
+    "question": "定居水边三载了",
+    "answer": "承",
+    "level": 809
+  },
+  {
+    "question": "东北大米运来了",
+    "answer": "仑",
+    "level": 810
+  },
+  {
+    "question": "东山再起雄心在",
+    "answer": "什",
+    "level": 811
+  },
+  {
+    "question": "队长终归回大连",
+    "answer": "限",
+    "level": 812
+  },
+  {
+    "question": "对月伤心西楼头",
+    "answer": "栅",
+    "level": 813
+  },
+  {
+    "question": "对着大洋思沉吟",
+    "answer": "尘",
+    "level": 814
+  },
+  {
+    "question": "夺金摘银获点赞",
+    "answer": "良",
+    "level": 815
+  },
+  {
+    "question": "儿童节后须整容",
+    "answer": "颜",
+    "level": 816
+  },
+  {
+    "question": "二人埋伏在前头",
+    "answer": "立",
+    "level": 817
+  },
+  {
+    "question": "二人有缘上苍定",
+    "answer": "天",
+    "level": 818
+  },
+  {
+    "question": "发嗲放赖没见效",
+    "answer": "够",
+    "level": 819
+  },
+  {
+    "question": "凡事争先不落后",
+    "answer": "夙",
+    "level": 820
+  },
+  {
+    "question": "方先生穿上冬装",
+    "answer": "窗",
+    "level": 821
+  },
+  {
+    "question": "房间角落藏奇宝",
+    "answer": "室",
+    "level": 822
+  },
+  {
+    "question": "放弃攻防急隐蔽",
+    "answer": "工",
+    "level": 823
+  },
+  {
+    "question": "飞沙走石遮天地",
+    "answer": "源",
+    "level": 824
+  },
+  {
+    "question": "飞燕高舞绕横山",
+    "answer": "医",
+    "level": 825
+  },
+  {
+    "question": "分厂的活有点累",
+    "answer": "舶",
+    "level": 826
+  },
+  {
+    "question": "坟前添土泪眼流",
+    "answer": "洼",
+    "level": 827
+  },
+  {
+    "question": "改革先得有胆识",
+    "answer": "脾",
+    "level": 828
+  },
+  {
+    "question": "感到乏味如念数",
+    "answer": "恕",
+    "level": 829
+  },
+  {
+    "question": "干活流汗心坦然",
+    "answer": "恬",
+    "level": 830
+  },
+  {
+    "question": "高手一直在民间",
+    "answer": "昏",
+    "level": 831
+  },
+  {
+    "question": "高总转身上舞厅",
+    "answer": "原",
+    "level": 832
+  },
+  {
+    "question": "隔音板前各争斗",
+    "answer": "格",
+    "level": 833
+  },
+  {
+    "question": "各出奇招揽顾客",
+    "answer": "寄",
+    "level": 834
+  },
+  {
+    "question": "各地工资得普调",
+    "answer": "曾",
+    "level": 835
+  },
+  {
+    "question": "各队用车不合理",
+    "answer": "降",
+    "level": 836
+  },
+  {
+    "question": "工作一直无偏私",
+    "answer": "正",
+    "level": 837
+  },
+  {
+    "question": "公权错位得先纠",
+    "answer": "梭",
+    "level": 838
+  },
+  {
+    "question": "勾引上钩装轻松",
+    "answer": "弛",
+    "level": 839
+  },
+  {
+    "question": "苟安之君若虚设",
+    "answer": "局",
+    "level": 840
+  },
+  {
+    "question": "孤独当中苦学艺",
+    "answer": "茕",
+    "level": 841
+  },
+  {
+    "question": "骨科始终无小事",
+    "answer": "稍",
+    "level": 842
+  },
+  {
+    "question": "关顾终于解病危",
+    "answer": "痪",
+    "level": 843
+  },
+  {
+    "question": "行刺机会刚出现",
+    "answer": "风",
+    "level": 844
+  },
+  {
+    "question": "行吟泽畔传千载",
+    "answer": "活",
+    "level": 845
+  },
+  {
+    "question": "行云一望天涯远",
+    "answer": "叁",
+    "level": 846
+  },
+  {
+    "question": "何进草率入宫中",
+    "answer": "嗬",
+    "level": 847
+  },
+  {
+    "question": "河水流到哪里去",
+    "answer": "啊",
+    "level": 848
+  },
+  {
+    "question": "红日当头流云尽",
+    "answer": "缙",
+    "level": 849
+  },
+  {
+    "question": "后天就是双十一",
+    "answer": "奎",
+    "level": 850
+  },
+  {
+    "question": "湖畔初寒草飞黄",
+    "answer": "演",
+    "level": 851
+  },
+  {
+    "question": "花前月下又约友",
+    "answer": "判",
+    "level": 852
+  },
+  {
+    "question": "花前只把土来翻",
+    "answer": "黄",
+    "level": 853
+  },
+  {
+    "question": "花下起舞共翻转",
+    "answer": "伤",
+    "level": 854
+  },
+  {
+    "question": "花园拂晓看星星",
+    "answer": "戥",
+    "level": 855
+  },
+  {
+    "question": "画中日落山朦胧",
+    "answer": "申",
+    "level": 856
+  },
+  {
+    "question": "黄花叶落蛇影现",
+    "answer": "巽",
+    "level": 857
+  },
+  {
+    "question": "汇款后发现错误",
+    "answer": "欧",
+    "level": 858
+  },
+  {
+    "question": "活不下去才造反",
+    "answer": "长",
+    "level": 859
+  },
+  {
+    "question": "火土合一续五行",
+    "answer": "金",
+    "level": 860
+  },
+  {
+    "question": "极目千里望眉月",
+    "answer": "盾",
+    "level": 861
+  },
+  {
+    "question": "减少亏空是关键",
+    "answer": "窍",
+    "level": 862
+  },
+  {
+    "question": "见到小三别发火",
+    "answer": "泰",
+    "level": 863
+  },
+  {
+    "question": "解衣治伤人回避",
+    "answer": "旅",
+    "level": 864
+  },
+  {
+    "question": "戒赌之后今变样",
+    "answer": "贬",
+    "level": 865
+  },
+  {
+    "question": "今后工作给点力",
+    "answer": "劲",
+    "level": 866
+  },
+  {
+    "question": "今天行卜求升迁",
+    "answer": "祈",
+    "level": 867
+  },
+  {
+    "question": "谨慎一点开处方",
+    "answer": "恪",
+    "level": 868
+  },
+  {
+    "question": "进口画集不出售",
+    "answer": "杯",
+    "level": 869
+  },
+  {
+    "question": "近日二人着春装",
+    "answer": "一",
+    "level": 870
+  },
+  {
+    "question": "久别二载于此逢",
+    "answer": "水",
+    "level": 871
+  },
+  {
+    "question": "酒伴人生自洒脱",
+    "answer": "大",
+    "level": 872
+  },
+  {
+    "question": "酒杯未空走不得",
+    "answer": "洒",
+    "level": 873
+  },
+  {
+    "question": "酒仙开怀喝起来",
+    "answer": "湉",
+    "level": 874
+  },
+  {
+    "question": "旧规当改勿曲从",
+    "answer": "徇",
+    "level": 875
+  },
+  {
+    "question": "旧事成心头之累",
+    "answer": "间",
+    "level": 876
+  },
+  {
+    "question": "开口相约客自来",
+    "answer": "爱",
+    "level": 877
+  },
+  {
+    "question": "开矿之后山山空",
+    "answer": "础",
+    "level": 878
+  },
+  {
+    "question": "看来终是半桶水",
+    "answer": "湘",
+    "level": 879
+  },
+  {
+    "question": "看西北风云涌动",
+    "answer": "痛",
+    "level": 880
+  },
+  {
+    "question": "考生前来先交流",
+    "answer": "父",
+    "level": 881
+  },
+  {
+    "question": "空山对眠柳河畔",
+    "answer": "渠",
+    "level": 882
+  },
+  {
+    "question": "恐有搜捕必逃离",
+    "answer": "毁",
+    "level": 883
+  },
+  {
+    "question": "口是心非要不得",
+    "answer": "罘",
+    "level": 884
+  },
+  {
+    "question": "枯树一时尽折枝",
+    "answer": "木",
+    "level": 885
+  },
+  {
+    "question": "苦尽甘来得高升",
+    "answer": "甜",
+    "level": 886
+  },
+  {
+    "question": "苦心人，天不负",
+    "answer": "全",
+    "level": 887
+  },
+  {
+    "question": "宽容有度识分寸",
+    "answer": "谅",
+    "level": 888
+  },
+  {
+    "question": "拉弓才上箭横飞",
+    "answer": "第",
+    "level": 889
+  },
+  {
+    "question": "来者背对寿光寺",
+    "answer": "春",
+    "level": 890
+  },
+  {
+    "question": "浪花奋起逐明月",
+    "answer": "漠",
+    "level": 891
+  },
+  {
+    "question": "老人需要子尽孝",
+    "answer": "仑",
+    "level": 892
+  },
+  {
+    "question": "老钟头发尽落光",
+    "answer": "镫",
+    "level": 893
+  },
+  {
+    "question": "雷声正扰迷梦尽",
+    "answer": "遴",
+    "level": 894
+  },
+  {
+    "question": "泪滴琴上知音绝",
+    "answer": "珏",
+    "level": 895
+  },
+  {
+    "question": "冷雪飘零罗衣透",
+    "answer": "痕",
+    "level": 896
+  },
+  {
+    "question": "利好出尽是利空",
+    "answer": "媞",
+    "level": 897
+  },
+  {
+    "question": "两天干完可辞行",
+    "answer": "咶",
+    "level": 898
+  },
+  {
+    "question": "每天早上看头条",
+    "answer": "复",
+    "level": 899
+  },
+  {
+    "question": "美酒一挥祭江流",
+    "answer": "奠",
+    "level": 900
+  }
+]

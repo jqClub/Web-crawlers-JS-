@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03e1d756-c626-4df8-8903-9fb656608753" name="Default" comment="" />
-    <ignored path="Web-crawlers-JS.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="03e1d756-c626-4df8-8903-9fb656608753" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/新建文本文档.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,200 +14,72 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FavoritesManager">
-    <favorites_list name="Web-crawlers-JS" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="chengyu.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nodePaTiKu1/chengyu.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shiguang.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nodePaTiKu1/shiguang.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="61" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nodePaTiKu1/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/nodePaTiKu1/shiguang.js" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node爬虫/node_modules" />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
+  <component name="ProjectId" id="1gzfrO6YZu4TOpsHsiuxBh523qU" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web-crawlers-JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web-crawlers-JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web-crawlers-JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web-crawlers-JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web-crawlers-JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodePaTiKu1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="nodejs_interpreter_path" value="D:/Ruanjian/node/node" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="D:\Ruanjian\node\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RunManager" selected="Node.js.shiguang.js">
-    <configuration default="false" name="shiguang.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="shiguang.js" working-dir="$PROJECT_DIR$/nodePaTiKu1">
-      <method />
+    <configuration name="shiguang.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="shiguang.js" working-dir="$PROJECT_DIR$/来猜成语emoji">
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
+    <configuration name="shiguang.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="shiguang.js" working-dir="$PROJECT_DIR$/我是名侦探">
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
-      <method />
+    <configuration name="shiguang.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="shiguang.js" working-dir="$PROJECT_DIR$/猜卡通">
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
+    <configuration name="shiguang.js (5)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/玩玩猜歌/shiguang.js" working-dir="$PROJECT_DIR$/玩玩猜歌">
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
+    <configuration name="shiguang.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/view转div/shiguang.js" working-dir="$PROJECT_DIR$/view转div">
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" value="" />
-      <option name="executablePath" />
-      <option name="filePath" />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
+      <gulpfile />
+      <tasks />
+      <arguments />
       <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
+      <method v="2" />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.shiguang.js" />
-    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.shiguang.js" />
+      <list>
+        <item itemvalue="Node.js.shiguang.js" />
+        <item itemvalue="Node.js.shiguang.js (5)" />
+        <item itemvalue="Node.js.shiguang.js (2)" />
+        <item itemvalue="Node.js.shiguang.js (4)" />
+        <item itemvalue="Node.js.shiguang.js (1)" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -220,33 +89,98 @@
       <option name="presentableId" value="Default" />
       <updated>1552555840030</updated>
       <workItem from="1552555843348" duration="1318000" />
+      <workItem from="1560223504929" duration="95000" />
+      <workItem from="1561519553952" duration="10652000" />
+      <workItem from="1562636108021" duration="3060000" />
+      <workItem from="1563351918213" duration="413000" />
+      <workItem from="1564048934147" duration="1287000" />
+      <workItem from="1564650862917" duration="1733000" />
+      <workItem from="1564655299479" duration="1069000" />
+      <workItem from="1564672936086" duration="607000" />
+      <workItem from="1564675438775" duration="653000" />
+      <workItem from="1564711253032" duration="1044000" />
+      <workItem from="1564718245936" duration="350000" />
+      <workItem from="1565076471507" duration="1987000" />
+      <workItem from="1565079916612" duration="1785000" />
+      <workItem from="1565081725162" duration="1333000" />
+      <workItem from="1565083541877" duration="943000" />
+      <workItem from="1565086624305" duration="296000" />
+      <workItem from="1565401158041" duration="1334000" />
+      <workItem from="1565402967695" duration="1425000" />
+      <workItem from="1565405314890" duration="1785000" />
+      <workItem from="1565407130197" duration="1113000" />
+      <workItem from="1565446198488" duration="140000" />
+      <workItem from="1565446870532" duration="4636000" />
+      <workItem from="1565518648608" duration="3906000" />
+      <workItem from="1566210112822" duration="1375000" />
+      <workItem from="1567133258372" duration="5424000" />
+      <workItem from="1567146580515" duration="89000" />
+      <workItem from="1567147243742" duration="282000" />
+      <workItem from="1567301894543" duration="20000" />
+      <workItem from="1567410879388" duration="1594000" />
+      <workItem from="1567481339408" duration="837000" />
+      <workItem from="1571096562703" duration="1205000" />
+      <workItem from="1571143938971" duration="1768000" />
+      <workItem from="1571145784814" duration="1420000" />
+      <workItem from="1571147612725" duration="675000" />
+      <workItem from="1571234011379" duration="1640000" />
+      <workItem from="1571235937570" duration="1827000" />
+      <workItem from="1571237807402" duration="1904000" />
+      <workItem from="1571239834709" duration="1404000" />
+      <workItem from="1571241645325" duration="1778000" />
+      <workItem from="1571243456422" duration="2009000" />
+      <workItem from="1571318499036" duration="317000" />
+      <workItem from="1571329146068" duration="814000" />
+      <workItem from="1571355969148" duration="995000" />
+      <workItem from="1572776364212" duration="697000" />
+      <workItem from="1572778428381" duration="2212000" />
+      <workItem from="1572780963392" duration="121000" />
+      <workItem from="1572781118339" duration="4000" />
+      <workItem from="1572795812950" duration="1741000" />
+      <workItem from="1572797622696" duration="364000" />
+      <workItem from="1573659396532" duration="1750000" />
+      <workItem from="1573661206586" duration="1870000" />
+      <workItem from="1573688456970" duration="1606000" />
+      <workItem from="1573690281085" duration="1876000" />
+      <workItem from="1573740110951" duration="297000" />
+      <workItem from="1573741098622" duration="1155000" />
+      <workItem from="1573742918389" duration="518000" />
+      <workItem from="1574173594296" duration="457000" />
+      <workItem from="1574259511842" duration="1310000" />
+      <workItem from="1574559663017" duration="1078000" />
+      <workItem from="1574609087024" duration="305000" />
+      <workItem from="1574780754685" duration="1837000" />
+      <workItem from="1574782633199" duration="343000" />
+      <workItem from="1574986771281" duration="2310000" />
+      <workItem from="1575027016824" duration="646000" />
+      <workItem from="1575030022431" duration="9230000" />
+      <workItem from="1575642088781" duration="13835000" />
+      <workItem from="1578874582015" duration="11000" />
+      <workItem from="1580350556189" duration="470000" />
+      <workItem from="1580430059529" duration="1689000" />
+      <workItem from="1580431988612" duration="1713000" />
+      <workItem from="1580433993735" duration="926000" />
+      <workItem from="1581043719755" duration="31000" />
+      <workItem from="1584365810305" duration="1160000" />
+      <workItem from="1584368624259" duration="310000" />
+      <workItem from="1584434272046" duration="34000" />
+      <workItem from="1584545411123" duration="27000" />
+      <workItem from="1585408885217" duration="882000" />
+      <workItem from="1585442225127" duration="10360000" />
+      <workItem from="1585569018451" duration="57000" />
+      <workItem from="1585834873719" duration="3474000" />
+      <workItem from="1587048067333" duration="3088000" />
+      <workItem from="1587282088012" duration="4595000" />
+      <workItem from="1587912146372" duration="147000" />
+      <workItem from="1588423708637" duration="6104000" />
+      <workItem from="1599122540839" duration="5549000" />
+      <workItem from="1609037917048" duration="405000" />
+      <workItem from="1612132731357" duration="930000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1318000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19739583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -256,37 +190,22 @@
       <collection />
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/nodePaTiKu1/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodePaTiKu1/chengyu.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodePaTiKu1/shiguang.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="61" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="267" key="GridCell.Tab.0.bottom" timestamp="1612133211877">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1419" height="267" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1612133211877" />
+    <state width="1419" height="267" key="GridCell.Tab.0.center" timestamp="1612133211875">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1419" height="267" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1612133211875" />
+    <state width="1419" height="267" key="GridCell.Tab.0.left" timestamp="1612133211875">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1419" height="267" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1612133211875" />
+    <state width="1419" height="267" key="GridCell.Tab.0.right" timestamp="1612133211877">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1419" height="267" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1612133211877" />
   </component>
 </project>
